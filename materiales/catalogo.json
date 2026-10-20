@@ -210,6 +210,23 @@
       "ultimo_uso_confirmado": "anuncio-meta-v11",
       "estado_rotacion": "ya_usado",
       "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+    },
+    {
+      "id": "iphonecontenido",
+      "archivo": "materiales/productos/iphonecontenido.mp4",
+      "categoria": "video_producto",
+      "descripcion": "Recorrido sobre varios iPhones y cajas colocados en una mesa. Recurso enviado para mostrar el aspecto de los equipos.",
+      "origen": "Video original adjuntado por el usuario: iphonecontenido.mp4; conservado sin recodificar.",
+      "ancho": 464,
+      "alto": 832,
+      "duracion_segundos": 4.621667,
+      "fps_promedio": 59.93508835196538,
+      "audio_presente": true,
+      "sha256": "ab9fa434ebecd89723377c550e06143e5ae65fab5a15da8f07da9a2624fb50d6",
+      "usado_en": [],
+      "ultimo_uso_confirmado": null,
+      "estado_rotacion": "sin_usar",
+      "notas": "Es material nuevo para rotar. Resolución de origen menor que Full HD; no atribuirle detalle, funcionamiento o condición técnica que el clip no permita verificar."
     }
   ]
 }
