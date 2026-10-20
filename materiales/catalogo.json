@@ -366,6 +366,22 @@
       "ultimo_uso_confirmado": null,
       "estado_rotacion": "sin_usar",
       "notas": "Material de reserva para próximos anuncios. Seleccionar tomas que no se repitan con las del primer video de Instagram; mantener las referencias y usuarios visibles."
+    },
+    {
+      "id": "mapa-argentina-celeste",
+      "archivo": "materiales/graficos/mapa-argentina-celeste.png",
+      "categoria": "grafico",
+      "descripcion": "Mapa geográfico de Argentina, contorno celeste para apertura interior.",
+      "origen": "https://raw.githubusercontent.com/johan/world.geo.json/master/countries/ARG.geo.json",
+      "ancho": 320,
+      "alto": 600,
+      "sha256": "54c42b657eab4a39b022ac2d69e5874738470ea779d3f40ff254008ca6ed0254",
+      "usado_en": [
+        "anuncio-interior-02"
+      ],
+      "ultimo_uso_confirmado": "anuncio-interior-02",
+      "ultima_version": "anuncio-interior-02-v5",
+      "estado_rotacion": "ya_usado"
     }
   ]
 }

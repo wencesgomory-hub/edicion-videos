@@ -1,0 +1,205 @@
+{
+  "start": 1.35,
+  "end": 43.25,
+  "speed": 1.1,
+  "captions": [
+    [
+      1.48,
+      2.62,
+      "sos del\nINTERIOR",
+      "INTERIOR"
+    ],
+    [
+      2.62,
+      3.72,
+      "te querés comprar\nUN IPHONE",
+      "IPHONE"
+    ],
+    [
+      3.72,
+      5.82,
+      "PERO NO CONFIÁS\na la distancia",
+      "NO CONFIÁS"
+    ],
+    [
+      5.96,
+      7.64,
+      "estamos en\nMAR DEL PLATA",
+      "MAR DEL PLATA"
+    ],
+    [
+      9.45,
+      11.1,
+      "en los últimos\nTRES MESES",
+      "TRES MESES"
+    ],
+    [
+      11.1,
+      12.84,
+      "a todo\nEL PAÍS",
+      "EL PAÍS"
+    ],
+    [
+      13.14,
+      14.2,
+      "clientes como\nBRENDA",
+      "BRENDA"
+    ],
+    [
+      14.2,
+      15.62,
+      "al principio\nTENÍA MIEDO",
+      "MIEDO"
+    ],
+    [
+      15.62,
+      17.25,
+      "¿nos van\nA CAGAR?",
+      "CAGAR?"
+    ],
+    [
+      17.25,
+      18.83,
+      "¿va a llegar\nEL PRODUCTO?",
+      "PRODUCTO?"
+    ],
+    [
+      19.12,
+      21.54,
+      "EN PERFECTO\nestado",
+      "PERFECTO"
+    ],
+    [
+      21.98,
+      23.1,
+      "clientes como\nFRAN",
+      "FRAN"
+    ],
+    [
+      23.1,
+      24.3,
+      "CUATRO VECES\ncon nosotros",
+      "CUATRO VECES"
+    ],
+    [
+      24.3,
+      25.35,
+      "desde\nBUENOS AIRES",
+      "BUENOS AIRES"
+    ],
+    [
+      25.66,
+      26.76,
+      "clientes como\nTOMMY",
+      "TOMMY"
+    ],
+    [
+      26.76,
+      27.58,
+      "desde\nNEUQUÉN",
+      "NEUQUÉN"
+    ],
+    [
+      27.58,
+      29.78,
+      "una Play 5\nY UN IPHONE 16",
+      "IPHONE 16"
+    ],
+    [
+      30.04,
+      31.42,
+      "mirá nuestras\nREFERENCIAS",
+      "REFERENCIAS"
+    ],
+    [
+      31.42,
+      33.1,
+      "en\nINSTAGRAM",
+      "INSTAGRAM"
+    ],
+    [
+      33.42,
+      35.24,
+      "consultanos por\nWHATSAPP",
+      "WHATSAPP"
+    ],
+    [
+      35.24,
+      36.8,
+      "te mostramos\nLOS EQUIPOS",
+      "LOS EQUIPOS"
+    ],
+    [
+      36.8,
+      38.46,
+      "en su\nESTADO REAL",
+      "ESTADO REAL"
+    ],
+    [
+      38.46,
+      40.05,
+      "LO QUE MOSTRAMOS",
+      "MOSTRAMOS"
+    ],
+    [
+      40.35,
+      41.34,
+      "es lo\nQUE TE LLEGA",
+      "TE LLEGA"
+    ],
+    [
+      41.34,
+      43.25,
+      "sin\nLETRA CHICA",
+      "LETRA CHICA"
+    ]
+  ],
+  "variante_visual": "B: blanco/celeste, énfasis en mayúsculas rectas, reencuadres laterales y entradas más secas",
+  "anuncio": "anuncio-interior-02",
+  "version": "anuncio-interior-02-v5",
+  "fuente_principal": "IMG_0142.MOV",
+  "base_estilo": "anuncio-meta-v11",
+  "salida": "videos/anuncio-interior-02-v5.mp4",
+  "cambios": [
+    "Brenda: captura original Estoy aterrada / Decidí confiar en la parte del miedo; recepción de equipos después.",
+    "Testimonios con más margen superior, conservando los chats completos.",
+    "Más de 200 pedidos con clientes distintos del video de Instagram, fotogramas 0.9, 5.3 y 6.5.",
+    "A todo el país: bandera argentina animada en lugar de repetir fotografías de paquetes.",
+    "Cierre tras nada de letra chica, quitando el tramo posterior de manipulación de cámara.",
+    "Variante visual B: blanco y celeste, énfasis en mayúsculas rectas y reencuadres laterales.",
+    "Tommy: referencias separadas para Play 5 y su segundo pedido, iPhone 16; nueva captura durante la mención del 16.",
+    "Foto central inferior sustituida por el paquete dentro del vehículo; foto de Plays reservada a Tommy."
+  ],
+  "fotogramas_nuevos_clientes_segundos": [
+    0.9,
+    5.3,
+    6.5
+  ],
+  "tommy_iphone16_intervalo_salida_segundos": [
+    24.590909,
+    25.954545
+  ],
+  "bandera_fuente": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/ar.svg",
+  "final_original_segundos": 43.25,
+  "cambio_respecto_v2": "Solo bloque de 200 pedidos: conservar clientes superiores y cartel central, quitar subtítulo duplicado y mostrar tres fotos de envíos debajo mientras se menciona la cantidad.",
+  "fotos_envios_bloque_200": [
+    "varios-paquetes",
+    "paquete-vehiculo",
+    "paquete"
+  ],
+  "intervalo_envios_origen_segundos": [
+    7.65,
+    9.43
+  ],
+  "audio": "Misma mezcla de la V2, sin modificaciones.",
+  "cambio_respecto_v3": "Solo reemplazo de la foto central de envíos del bloque de 200 pedidos por el paquete envuelto dentro de un vehículo. La foto de Plays queda únicamente en el bloque de Tommy. Cierre ajustado inmediatamente después de la frase final, sin el tramo posterior de la cámara.",
+  "fotos_envios_bloque_tommy": [
+    "plays-sin-piernas"
+  ],
+  "cambio_respecto_v4": "Mapa de Argentina celeste a la derecha del presentador durante sos del interior, entrada lateral y salida suave; sin cambios de mezcla ni montaje restante.",
+  "mapa_intervalo_salida_segundos": [
+    0.1,
+    1.155
+  ],
+  "mapa_fuente": "https://raw.githubusercontent.com/johan/world.geo.json/master/countries/ARG.geo.json"
+}
