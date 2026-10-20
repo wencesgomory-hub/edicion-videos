@@ -511,6 +511,21 @@
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
       "ultima_version": "v3",
       "estado_rotacion": "referencia"
+    },
+    {
+      "id": "base-percusiva-142",
+      "archivo": "materiales/audio/base-percusiva-142.wav",
+      "categoria": "musica_generada",
+      "descripcion": "Base propia percusiva de 142 BPM conservada para reutilizar el balance; no es música identificada del video 0573.",
+      "origen": "Generada en el flujo de edición anterior; preservada como recurso reutilizable.",
+      "sha256": "0604dfbb5f73427c23eed6b4a361560f47b77d2b01b060be1ea95a385c70d5b9",
+      "usado_en": [
+        "anuncio-interior-02",
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v3",
+      "estado_rotacion": "ya_usado"
     }
   ]
 }
