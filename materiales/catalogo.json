@@ -400,7 +400,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 1,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7"
+      "ultima_version": "v8"
     },
     {
       "id": "img_6234",
@@ -418,7 +418,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 2,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7"
+      "ultima_version": "v8"
     },
     {
       "id": "img_6236",
@@ -436,7 +436,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 3,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7"
+      "ultima_version": "v8"
     },
     {
       "id": "img_6242",
@@ -454,7 +454,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 4,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7"
+      "ultima_version": "v8"
     },
     {
       "id": "ilustrativo-cable",
@@ -467,7 +467,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7",
+      "ultima_version": "v8",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -481,7 +481,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7",
+      "ultima_version": "v8",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -510,7 +510,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7",
+      "ultima_version": "v8",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -570,7 +570,7 @@
       ],
       "estado_rotacion": "ya_usado",
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7"
+      "ultima_version": "v8"
     },
     {
       "id": "billete-dolar-ilustrativo",
@@ -584,7 +584,7 @@
       ],
       "estado_rotacion": "ya_usado",
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v7"
+      "ultima_version": "v8"
     },
     {
       "id": "fondo-musical-extraido-0573",
