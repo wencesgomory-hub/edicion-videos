@@ -1,0 +1,44 @@
+{
+  "base": "videos/anuncio-seminuevos-mdp-01-v3.mp4",
+  "estado": "preparacion_sin_exportacion",
+  "exportar_video": false,
+  "cambios_confirmados": [
+    {
+      "momento": "mejor precio",
+      "accion": "Billete de dólar, sonido de dinero y tilde verde; no modificar voz."
+    },
+    {
+      "momento": "iPhones sellados",
+      "accion": "Sustituir el zoom/reencuadre por inserto breve a pantalla completa del nuevo material de sellados.",
+      "material": "materiales/productos/caja-violeta-mano-01.mp4"
+    },
+    {
+      "momento": "seminuevos",
+      "accion": "Sustituir el zoom/reencuadre por fragmento breve del material de seminuevos ya disponible, a pantalla completa, color cuidado y movimiento suave.",
+      "material_disponible": "materiales/productos/iphonecontenido.mp4"
+    },
+    {
+      "momento": "accesorios",
+      "accion": "Cable y funda incluidos; cargador ilustrativo con dos patas americanas planas. Texto: Descuento en cargador original. No insinuar que el cargador es gratis."
+    },
+    {
+      "momento": "no trabajamos con réplicas",
+      "accion": "Conservar el cuadradito/efecto aprobado."
+    },
+    {
+      "momento": "cierre",
+      "accion": "Corregir corte cuando el usuario indique el punto.",
+      "pendiente": "Localización del corte final."
+    }
+  ],
+  "audio": {
+    "efectos": "Mantener presencia y variedad de V3; revisar sincronía de cada entrada; voz inteligible.",
+    "referencia": "IMG_0573.MOV",
+    "musica": "Usuario quiere la onda de la música del 0573. Pista no identificada y sin escucha directa disponible; no afirmar que la base propia actual coincide.",
+    "no_exportar_hasta_completar_pendientes": true
+  },
+  "material_sellados_recibido": "materiales/productos/caja-violeta-mano-01.mp4",
+  "observacion_sellados": "Caja con imagen violeta, mano y automóvil. Marca de agua TikTok visible. Modelo 18 no confirmado; no rotular como iPhone 18. Mantener sin exportar.",
+  "inserto_sellados_preparado": "materiales/productos/caja-violeta-mano-01-sin-marca.mp4",
+  "tratamiento_sellados": "Marca de agua retirada localmente; denoise y contraste/nitidez suaves; original conservado. No se renderizó anuncio final."
+}
