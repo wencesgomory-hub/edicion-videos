@@ -1,0 +1,262 @@
+{
+  "clips": [
+    {
+      "file": "IMG_6229.MOV",
+      "start": 3.9,
+      "end": 10.5,
+      "speed": 1.0,
+      "output_start": 0,
+      "output_end": 6.6
+    },
+    {
+      "file": "IMG_6234.MOV",
+      "start": 1.1,
+      "end": 11.62,
+      "speed": 1.0,
+      "output_start": 6.6,
+      "output_end": 17.119999999999997
+    },
+    {
+      "file": "IMG_6236.MOV",
+      "start": 0.5,
+      "end": 8.4,
+      "speed": 1.0,
+      "output_start": 17.119999999999997,
+      "output_end": 25.019999999999996
+    },
+    {
+      "file": "IMG_6242.MOV",
+      "start": 2.9,
+      "end": 7.95,
+      "speed": 1.0,
+      "output_start": 25.019999999999996,
+      "output_end": 30.07
+    }
+  ],
+  "duration": 30.069999999999997,
+  "captions": [
+    [
+      0.07000000000000028,
+      0.8499893000000003,
+      "¿sos de\nMAR DEL PLATA?",
+      "MAR DEL PLATA?"
+    ],
+    [
+      0.8500000000000001,
+      1.8499893000000003,
+      "tu nuevo\nIPHONE",
+      "IPHONE"
+    ],
+    [
+      1.85,
+      2.7999893000000005,
+      "la mejor\nCALIDAD",
+      "CALIDAD"
+    ],
+    [
+      2.8000000000000003,
+      3.7699893,
+      "al mejor\nPRECIO",
+      "PRECIO"
+    ],
+    [
+      3.77,
+      4.8199893,
+      "GOMORY\nIMPORTADOS",
+      "IMPORTADOS"
+    ],
+    [
+      4.82,
+      5.599989300000001,
+      "tu mejor\nOPCIÓN",
+      "OPCIÓN"
+    ],
+    [
+      5.6,
+      6.661322633333333,
+      "te explico\nPOR QUÉ",
+      "POR QUÉ"
+    ],
+    [
+      6.661333333333333,
+      7.8999893,
+      "iPhones\nSELLADOS",
+      "SELLADOS"
+    ],
+    [
+      7.9,
+      9.1199893,
+      "y\nSEMINUEVOS",
+      "SEMINUEVOS"
+    ],
+    [
+      9.12,
+      11.0999893,
+      "con tu\nCOMPRA",
+      "COMPRA"
+    ],
+    [
+      11.1,
+      11.8499893,
+      "CABLE",
+      "CABLE"
+    ],
+    [
+      11.85,
+      12.5499893,
+      "FUNDA",
+      "FUNDA"
+    ],
+    [
+      12.549999999999999,
+      14.1999893,
+      "descuento en\nCARGADOR",
+      "CARGADOR"
+    ],
+    [
+      14.2,
+      15.049989300000002,
+      "ORIGINAL",
+      "ORIGINAL"
+    ],
+    [
+      15.049999999999999,
+      17.281322633333332,
+      "nada de\nRÉPLICAS",
+      "RÉPLICAS"
+    ],
+    [
+      17.28133333333333,
+      18.469989299999998,
+      "¿ya tenés\nIPHONE?",
+      "IPHONE?"
+    ],
+    [
+      18.47,
+      20.099989299999997,
+      "entregalo en\nPARTE DE PAGO",
+      "PARTE DE PAGO"
+    ],
+    [
+      20.099999999999998,
+      21.399989299999998,
+      "y tenés\nGARANTÍA",
+      "GARANTÍA"
+    ],
+    [
+      25.081999999999997,
+      26.039989299999995,
+      "¿qué estás\nESPERANDO?",
+      "ESPERANDO?"
+    ],
+    [
+      26.039999999999996,
+      27.469989299999995,
+      "mandanos un\nMENSAJE",
+      "MENSAJE"
+    ],
+    [
+      27.469999999999995,
+      28.619989299999997,
+      "tu iPhone\nIDEAL",
+      "IDEAL"
+    ],
+    [
+      28.619999999999997,
+      30.029989299999997,
+      "para tu\nPRESUPUESTO",
+      "PRESUPUESTO"
+    ]
+  ],
+  "cards": {
+    "60-dias": [
+      "60 DÍAS",
+      "GARANTÍA EN SEMINUEVOS",
+      21.4,
+      23.169989299999997
+    ],
+    "sellados": [
+      "1 AÑO OFICIAL",
+      "EN EQUIPOS SELLADOS",
+      23.169999999999995,
+      25.081989299999996
+    ]
+  },
+  "accents": [
+    [
+      15.049999999999999,
+      15.849989299999999,
+      "red"
+    ],
+    [
+      21.4,
+      22.0999893,
+      "green"
+    ],
+    [
+      23.169999999999995,
+      23.719989299999998,
+      "green"
+    ]
+  ],
+  "estilo": "V11: blanco + amarillo, énfasis inclinado con glow, entradas con golpe y rotación. Sin rótulo superior de ciudad.",
+  "revision": "Referencia principal IMG_0573: alternar planos medios y detalles reales; subtítulos V11; accesorios y garantía; efectos +6 dB respecto V2.",
+  "accessories": [
+    [
+      "cable",
+      "CABLE",
+      11.099999999978001
+    ],
+    [
+      "funda",
+      "FUNDA",
+      11.850000000043002
+    ],
+    [
+      "cargador",
+      "CON DESCUENTO",
+      13.4815
+    ]
+  ],
+  "accessories_end": 15.050000000035,
+  "reference": "IMG_0573.MOV",
+  "anuncio": "seminuevos-mdp-01",
+  "version": "v4-preparacion",
+  "salida": "videos/anuncio-seminuevos-mdp-01-v3.mp4",
+  "referencia_principal": "IMG_0573.MOV",
+  "cambios_adicionales": [
+    "Planos de pie más cerrados para reducir pared vacía y piernas en cuadro.",
+    "Insertos de caja y seminuevos extraídos de IMG_6234.MOV nativo 4K, sin reutilizar productos del competidor.",
+    "Mantener tipografía amarilla V11, accesorios escalonados y garantía con escritura.",
+    "Efectos +6.02 dB respecto V2, voz/música preservadas en su nivel aproximado, limitador final con margen."
+  ],
+  "audio_referencia": "Se extrajo y midió: -26.31 LUFS, -7.62 dBTP. Grabación de una pantalla; no se identifica la música ni se afirma escucha directa.",
+  "naturaleza_imagenes": "Insertos de equipos reales del usuario; cable/funda/cargador ilustrativos generados, no fotos del inventario.",
+  "exportar_video": false,
+  "estado": "preparado_sin_exportar",
+  "velocidad_voz": "Original 1.00×, sin atempo ni cambio de tono.",
+  "encuadres": "Sin zooms animados; sin insertos recortados de V3. Sellados con caja enviada; seminuevos con material propio previo.",
+  "guia_sin_superposicion": "En accesorios, retirar subtítulo duplicado y dejar un rótulo por entrada. Cargador: Descuento en cargador original. Garantía: cartel único, sin subtítulo duplicado.",
+  "correccion_segundo_16": "Rehacer empalme 6234→6236 desde originales: conservar final de réplicas y entrada completa de Además si ya tenés..., sin voces superpuestas y con márgenes de respiración.",
+  "insertos": [
+    {
+      "tipo": "sellados",
+      "archivo": "materiales/productos/caja-violeta-mano-01-sin-marca.mp4",
+      "inicio": 6.726233333333333,
+      "fin": 7.8925333333333345,
+      "sonido_original": false
+    },
+    {
+      "tipo": "seminuevos",
+      "archivo": "materiales/productos/iphonecontenido.mp4",
+      "inicio": 7.903233333333334,
+      "fin": 9.090933333333334,
+      "sonido_original": false
+    }
+  ],
+  "precio_dolar": {
+    "inicio": 2.8000000000000003,
+    "fin": 3.77,
+    "accion": "Billete, sonido de dinero y tilde verde."
+  }
+}

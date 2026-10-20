@@ -1,0 +1,30 @@
+[aist#0:0/pcm_f32le @ 0x55ee7f802500] Guessed Channel Layout: stereo
+Input #0, wav, from '/workspace/seminuevos-01-v4/master.wav':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Duration: 00:00:30.07, bitrate: 3072 kb/s
+  Stream #0:0: Audio: pcm_f32le ([3][0][0][0] / 0x0003), 48000 Hz, stereo, flt, 3072 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_f32le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:00:18.10 bitrate=N/A speed=36.2x    [Parsed_loudnorm_0 @ 0x7fa36c002740] 
+{
+	"input_i" : "-15.90",
+	"input_tp" : "-1.79",
+	"input_lra" : "2.70",
+	"input_thresh" : "-25.99",
+	"output_i" : "-16.01",
+	"output_tp" : "-1.96",
+	"output_lra" : "2.20",
+	"output_thresh" : "-26.10",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.01"
+}
+[out#0/null @ 0x55ee7f8026c0] video:0KiB audio:22552KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:30.10 bitrate=N/A speed=  39x    

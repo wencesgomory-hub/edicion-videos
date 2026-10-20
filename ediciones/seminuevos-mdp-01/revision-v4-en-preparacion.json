@@ -1,6 +1,6 @@
 {
   "base": "videos/anuncio-seminuevos-mdp-01-v3.mp4",
-  "estado": "preparacion_sin_exportacion",
+  "estado": "preparacion_completa_sin_exportar",
   "exportar_video": false,
   "cambios_confirmados": [
     {
@@ -27,8 +27,7 @@
     },
     {
       "momento": "cierre",
-      "accion": "Corregir corte cuando el usuario indique el punto.",
-      "pendiente": "Localización del corte final."
+      "accion": "Revisar corte señalado en segundo 16 de V3 y empalmes; conservar frases completas a velocidad original."
     }
   ],
   "audio": {
@@ -40,5 +39,11 @@
   "material_sellados_recibido": "materiales/productos/caja-violeta-mano-01.mp4",
   "observacion_sellados": "Caja con imagen violeta, mano y automóvil. Marca de agua TikTok visible. Modelo 18 no confirmado; no rotular como iPhone 18. Mantener sin exportar.",
   "inserto_sellados_preparado": "materiales/productos/caja-violeta-mano-01-sin-marca.mp4",
-  "tratamiento_sellados": "Marca de agua retirada localmente; denoise y contraste/nitidez suaves; original conservado. No se renderizó anuncio final."
+  "tratamiento_sellados": "Marca de agua retirada localmente; denoise y contraste/nitidez suaves; original conservado. No se renderizó anuncio final.",
+  "corte_identificado": "Segundo 16 aproximado de V3, empalme entre segundo y tercer clip.",
+  "velocidad": "Restaurar 1.00x en voz y video; quitar aceleración 1.07x.",
+  "ritmo": "Conservar respiraciones y final de frases; sin acumulación de carteles; sin zoom de sellados.",
+  "duracion_preparada_segundos": 30.07,
+  "voz_video_velocidad": 1.0,
+  "vista_previa": "ediciones/seminuevos-mdp-01/v4-preparacion/preparacion-v4.jpg"
 }
