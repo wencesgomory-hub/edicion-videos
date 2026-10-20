@@ -1,0 +1,211 @@
+{
+  "clips": [
+    {
+      "file": "IMG_6229.MOV",
+      "start": 3.97,
+      "end": 10.4,
+      "speed": 1.07,
+      "output_start": 0,
+      "output_end": 6.009345794392523
+    },
+    {
+      "file": "IMG_6234.MOV",
+      "start": 1.09,
+      "end": 11.52,
+      "speed": 1.07,
+      "output_start": 6.009345794392523,
+      "output_end": 15.75700934579439
+    },
+    {
+      "file": "IMG_6236.MOV",
+      "start": 0.59,
+      "end": 8.32,
+      "speed": 1.07,
+      "output_start": 15.75700934579439,
+      "output_end": 22.98130841121495
+    },
+    {
+      "file": "IMG_6242.MOV",
+      "start": 2.32,
+      "end": 7.91,
+      "speed": 1.07,
+      "output_start": 22.98130841121495,
+      "output_end": 28.20560747663551
+    }
+  ],
+  "duration": 28.20560747663551,
+  "captions": [
+    [
+      0,
+      0.7289719626168222,
+      "¿sos de\nMAR DEL PLATA?",
+      "MAR DEL PLATA?"
+    ],
+    [
+      0.7289719626168222,
+      1.6635514018691586,
+      "tu nuevo\nIPHONE",
+      "IPHONE"
+    ],
+    [
+      1.6635514018691586,
+      2.5514018691588785,
+      "la mejor\nCALIDAD",
+      "CALIDAD"
+    ],
+    [
+      2.5514018691588785,
+      3.4579439252336446,
+      "al mejor\nPRECIO",
+      "PRECIO"
+    ],
+    [
+      3.4579439252336446,
+      4.439252336448598,
+      "GOMORY\nIMPORTADOS",
+      "IMPORTADOS"
+    ],
+    [
+      4.439252336448598,
+      5.16822429906542,
+      "tu mejor\nOPCIÓN",
+      "OPCIÓN"
+    ],
+    [
+      5.16822429906542,
+      6.009345794392523,
+      "te explico\nPOR QUÉ",
+      "POR QUÉ"
+    ],
+    [
+      6.009345794392523,
+      7.233644859813084,
+      "iPhones\nSELLADOS",
+      "SELLADOS"
+    ],
+    [
+      7.233644859813084,
+      8.373831775700934,
+      "y\nSEMINUEVOS",
+      "SEMINUEVOS"
+    ],
+    [
+      8.373831775700934,
+      10.22429906542056,
+      "con tu\nCOMPRA",
+      "COMPRA"
+    ],
+    [
+      10.22429906542056,
+      10.925233644859812,
+      "CABLE",
+      "CABLE"
+    ],
+    [
+      10.925233644859812,
+      11.579439252336448,
+      "FUNDA",
+      "FUNDA"
+    ],
+    [
+      11.579439252336448,
+      13.121495327102803,
+      "descuento en\nCARGADOR",
+      "CARGADOR"
+    ],
+    [
+      13.121495327102803,
+      13.91588785046729,
+      "ORIGINAL",
+      "ORIGINAL"
+    ],
+    [
+      13.91588785046729,
+      15.75700934579439,
+      "nada de\nRÉPLICAS",
+      "RÉPLICAS"
+    ],
+    [
+      15.75700934579439,
+      16.934579439252335,
+      "¿ya tenés\nIPHONE?",
+      "IPHONE?"
+    ],
+    [
+      16.934579439252335,
+      18.457943925233643,
+      "entregalo en\nPARTE DE PAGO",
+      "PARTE DE PAGO"
+    ],
+    [
+      18.457943925233643,
+      19.67289719626168,
+      "y tenés\nGARANTÍA",
+      "GARANTÍA"
+    ],
+    [
+      22.98130841121495,
+      24.47663551401869,
+      "¿qué estás\nESPERANDO?",
+      "ESPERANDO?"
+    ],
+    [
+      24.47663551401869,
+      25.81308411214953,
+      "mandanos un\nMENSAJE",
+      "MENSAJE"
+    ],
+    [
+      25.81308411214953,
+      26.887850467289717,
+      "tu iPhone\nIDEAL",
+      "IDEAL"
+    ],
+    [
+      26.887850467289717,
+      28.20560747663551,
+      "para tu\nPRESUPUESTO",
+      "PRESUPUESTO"
+    ]
+  ],
+  "cards": {
+    "60-dias": [
+      "60 DÍAS",
+      "GARANTÍA EN SEMINUEVOS",
+      19.67289719626168,
+      21.327102803738313
+    ],
+    "sellados": [
+      "1 AÑO OFICIAL",
+      "EN EQUIPOS SELLADOS",
+      21.327102803738313,
+      22.98130841121495
+    ]
+  },
+  "accents": [
+    [
+      13.91588785046729,
+      14.663551401869158,
+      "red"
+    ],
+    [
+      19.67289719626168,
+      20.327102803738317,
+      "green"
+    ],
+    [
+      21.327102803738313,
+      21.8411214953271,
+      "green"
+    ]
+  ],
+  "estilo": "Verde lima / carbón; montaje local Mar del Plata. Sin envíos ni testimonios ajenos al guion.",
+  "anuncio": "seminuevos-mdp-01",
+  "version": "v1",
+  "salida": "videos/anuncio-seminuevos-mdp-01-v1.mp4",
+  "publico": "Mar del Plata; venta local de iPhone seminuevos",
+  "cortes": "Preparación y colas descartadas; ritmo 1.07x; orden pedido conservado.",
+  "audio": "Voz filtrada y ecualizada; música percusiva baja, pops/snap/impactos variados. Mezcla revisada mediante medición; sin afirmar escucha directa.",
+  "material_de_apoyo": "Equipos, accesorios y garantía presentes en los originales; sin capturas de clientes ni imágenes de envíos.",
+  "referencia": "Base aprobada V11 y anuncio interior; pendiente cualquier nueva referencia que anuncie el usuario."
+}
