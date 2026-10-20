@@ -1,0 +1,15 @@
+{
+  "musica_db_sobre_v9": 3,
+  "voz_textura_intervalo": [
+    5.6,
+    6.4
+  ],
+  "velocidad": 1,
+  "accesorios": [
+    "bubble V11",
+    "snap V11",
+    "aire ascendente"
+  ],
+  "intro": "bim único 0.015 s",
+  "cajas": "Original de V8 conservado"
+}
