@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "regla": "Registrar nuevos materiales y su uso después de cada anuncio; no atribuir usos previos no comprobados.",
+  "nota_historial": "V11 es el último uso confirmado de estos recursos. Algunos aparecen en versiones anteriores; este catálogo no reconstruye un conteo histórico completo.",
+  "materiales": [
+    {
+      "id": "fran",
+      "archivo": "videos/WhatsApp Image 2026-10-19 at 8.24.03 PM.jpeg",
+      "categoria": "captura_cliente",
+      "descripcion": "Chat completo de Fran: seguimiento y confirmación de llegada rápida.",
+      "origen": "Archivo original subido por el usuario.",
+      "ancho": 777,
+      "alto": 1600,
+      "sha256": "dddd18ee7bf71c85e15d69a1a69106426aab84623d78bae176e1fe1ef0643666",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Para Plays usar la copia sin piernas; conservar este original."
+    },
+    {
+      "id": "garcia",
+      "archivo": "videos/WhatsApp Image 2026-10-19 at 8.29.04 PM.jpeg",
+      "categoria": "captura_cliente",
+      "descripcion": "Chat completo de García con foto del iPhone recibido.",
+      "origen": "Archivo original subido por el usuario.",
+      "ancho": 738,
+      "alto": 1600,
+      "sha256": "6f3ba0e772e6a08f236b828e977048356d2deef65bf166e6ec21aaffd1283867",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Para Plays usar la copia sin piernas; conservar este original."
+    },
+    {
+      "id": "plays-original",
+      "archivo": "videos/WhatsApp Image 2026-10-19 at 8.32.19 PM.jpeg",
+      "categoria": "envio",
+      "descripcion": "Foto original de paquetes de Plays y etiquetas de envío.",
+      "origen": "Archivo original subido por el usuario.",
+      "ancho": 1200,
+      "alto": 1600,
+      "sha256": "b3c88f42f8a042efbd468d8e7663ca24e9eb066a37357815c17d8d47097fd748",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Para Plays usar la copia sin piernas; conservar este original."
+    },
+    {
+      "id": "luki",
+      "archivo": "materiales/capturas/luki.png",
+      "categoria": "captura_cliente",
+      "descripcion": "Captura completa de Luki, con encabezado y conversación.",
+      "origen": "Recuperada del video enviado por el usuario.",
+      "ancho": 194,
+      "alto": 345,
+      "sha256": "f17ba8d3bd845ca9504cc37d0ac466bf8f295cd7545a797e318b4d57ce61c554",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Resolución limitada por la grabación de origen; no es una captura original de alta resolución."
+    },
+    {
+      "id": "german",
+      "archivo": "materiales/capturas/german.png",
+      "categoria": "captura_cliente",
+      "descripcion": "Captura completa de German, con encabezado y conversación.",
+      "origen": "Recuperada del video enviado por el usuario.",
+      "ancho": 266,
+      "alto": 480,
+      "sha256": "05013c66dba513fe5e3040b5f778e2b0a03c6757a077d4632323f111df183108",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Resolución limitada por la grabación de origen; no es una captura original de alta resolución."
+    },
+    {
+      "id": "brenda",
+      "archivo": "materiales/capturas/brenda.png",
+      "categoria": "captura_cliente",
+      "descripcion": "Captura completa de Brenda, con encabezado y conversación.",
+      "origen": "Recuperada del video enviado por el usuario.",
+      "ancho": 344,
+      "alto": 700,
+      "sha256": "1258ed419f46e9b3ffda25f259462f142234949f4f58e7c25bb8713896249f79",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Resolución limitada por la grabación de origen; no es una captura original de alta resolución."
+    },
+    {
+      "id": "tommy",
+      "archivo": "materiales/capturas/tommy.png",
+      "categoria": "captura_cliente",
+      "descripcion": "Captura completa de Tommy, con encabezado y conversación.",
+      "origen": "Recuperada del video enviado por el usuario.",
+      "ancho": 369,
+      "alto": 762,
+      "sha256": "d840fcdba625f6c360d9445c5c0929416b18ebf7003e2b0ea8534550bd78bbcb",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Resolución limitada por la grabación de origen; no es una captura original de alta resolución."
+    },
+    {
+      "id": "plays-sin-piernas",
+      "archivo": "materiales/envios/plays-sin-piernas.png",
+      "categoria": "envio",
+      "descripcion": "Paquetes de Plays, recorte sin piernas ni pies.",
+      "origen": "Preparada o recuperada del material enviado por el usuario.",
+      "ancho": 1200,
+      "alto": 1180,
+      "sha256": "37a30165d4072c85b297b94c51d22b33e48963b912ae2bc73b76cd8d9b59dc1b",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+    },
+    {
+      "id": "andreani",
+      "archivo": "materiales/envios/andreani.png",
+      "categoria": "envio",
+      "descripcion": "Foto roja con marca Andreani, recuperada del material original.",
+      "origen": "Preparada o recuperada del material enviado por el usuario.",
+      "ancho": 394,
+      "alto": 149,
+      "sha256": "ddc2275f7de2039f63bc08261823a46d97233b64536c96dd818e385a26a5e7c1",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+    },
+    {
+      "id": "paquete",
+      "archivo": "materiales/envios/paquete.png",
+      "categoria": "envio",
+      "descripcion": "Paquete individual.",
+      "origen": "Preparada o recuperada del material enviado por el usuario.",
+      "ancho": 300,
+      "alto": 401,
+      "sha256": "79e667c7f8607c1ba917e6d172277f50c63a5e5529e265c70534d42d253c8f3b",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+    },
+    {
+      "id": "preparacion",
+      "archivo": "materiales/envios/preparacion.png",
+      "categoria": "envio",
+      "descripcion": "Foto de preparación de pedidos.",
+      "origen": "Preparada o recuperada del material enviado por el usuario.",
+      "ancho": 208,
+      "alto": 281,
+      "sha256": "827399789aa8eacaf300f503c4d942eb7347e12a5445bca314c09953eb49ed89",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+    },
+    {
+      "id": "varios-paquetes",
+      "archivo": "materiales/envios/varios-paquetes.png",
+      "categoria": "envio",
+      "descripcion": "Varios paquetes preparados.",
+      "origen": "Preparada o recuperada del material enviado por el usuario.",
+      "ancho": 196,
+      "alto": 270,
+      "sha256": "65a0340d83706d69f7b69654a46199ce90756fa7df9c7aaf4f6594b3d1aa0ecc",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+    },
+    {
+      "id": "paquete-vehiculo",
+      "archivo": "materiales/envios/paquete-vehiculo.png",
+      "categoria": "envio",
+      "descripcion": "Paquete dentro de vehículo; parte de un vehículo rojo al fondo.",
+      "origen": "Preparada o recuperada del material enviado por el usuario.",
+      "ancho": 228,
+      "alto": 330,
+      "sha256": "cbe6b50e407a8abd45305f4fa35e63ab6fd38fe576239a8dfed9538b2928d629",
+      "usado_en": [
+        "anuncio-meta-v11"
+      ],
+      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "estado_rotacion": "ya_usado",
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+    }
+  ]
+}
