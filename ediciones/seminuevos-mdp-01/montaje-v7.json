@@ -1,0 +1,260 @@
+{
+  "clips": [
+    {
+      "file": "IMG_6229.MOV",
+      "start": 3.9,
+      "end": 10.3,
+      "speed": 1.0,
+      "output_start": 0,
+      "output_end": 6.3999999999999995
+    },
+    {
+      "file": "IMG_6234.MOV",
+      "start": 1.1,
+      "end": 11.62,
+      "speed": 1.0,
+      "output_start": 6.3999999999999995,
+      "output_end": 16.919999999999998
+    },
+    {
+      "file": "IMG_6236.MOV",
+      "start": 0.5,
+      "end": 8.4,
+      "speed": 1.0,
+      "output_start": 16.919999999999998,
+      "output_end": 24.819999999999997
+    },
+    {
+      "file": "IMG_6242.MOV",
+      "start": 1.7666666666666666,
+      "end": 7.95,
+      "speed": 1.0,
+      "output_start": 24.819999999999997,
+      "output_end": 31.003333333333334
+    }
+  ],
+  "duration": 31.00333333333333,
+  "captions": [
+    [
+      0.07000000000000028,
+      0.8499893000000003,
+      "¿sos de\nMAR DEL PLATA?",
+      "MAR DEL PLATA?"
+    ],
+    [
+      0.8500000000000001,
+      1.8499893000000003,
+      "tu nuevo\nIPHONE",
+      "IPHONE"
+    ],
+    [
+      1.85,
+      2.7999893000000005,
+      "la mejor\nCALIDAD",
+      "CALIDAD"
+    ],
+    [
+      2.8000000000000003,
+      3.7699893,
+      "al mejor\nPRECIO",
+      "PRECIO"
+    ],
+    [
+      3.77,
+      4.8199893,
+      "GOMORY\nIMPORTADOS",
+      "IMPORTADOS"
+    ],
+    [
+      4.82,
+      5.599989300000001,
+      "tu mejor\nOPCIÓN",
+      "OPCIÓN"
+    ],
+    [
+      5.6,
+      6.4613226333333325,
+      "te explico\nPOR QUÉ",
+      "POR QUÉ"
+    ],
+    [
+      6.461333333333333,
+      7.6999892999999995,
+      "iPhones\nSELLADOS",
+      "SELLADOS"
+    ],
+    [
+      7.7,
+      8.919989300000001,
+      "y\nSEMINUEVOS",
+      "SEMINUEVOS"
+    ],
+    [
+      8.92,
+      10.899989300000001,
+      "con tu\nCOMPRA",
+      "COMPRA"
+    ],
+    [
+      10.9,
+      11.649989300000001,
+      "CABLE",
+      "CABLE"
+    ],
+    [
+      11.65,
+      12.3499893,
+      "FUNDA",
+      "FUNDA"
+    ],
+    [
+      12.35,
+      13.999989300000001,
+      "descuento en\nCARGADOR",
+      "CARGADOR"
+    ],
+    [
+      14.0,
+      14.849989300000003,
+      "ORIGINAL",
+      "ORIGINAL"
+    ],
+    [
+      14.85,
+      17.081322633333333,
+      "nada de\nRÉPLICAS",
+      "RÉPLICAS"
+    ],
+    [
+      17.08133333333333,
+      18.2699893,
+      "¿ya tenés\nIPHONE?",
+      "IPHONE?"
+    ],
+    [
+      18.27,
+      19.899989299999998,
+      "entregalo en\nPARTE DE PAGO",
+      "PARTE DE PAGO"
+    ],
+    [
+      19.9,
+      21.1999893,
+      "y tenés\nGARANTÍA",
+      "GARANTÍA"
+    ],
+    [
+      26.01533333333333,
+      26.97332263333333,
+      "¿qué estás\nESPERANDO?",
+      "ESPERANDO?"
+    ],
+    [
+      26.97333333333333,
+      28.403322633333328,
+      "mandanos un\nMENSAJE",
+      "MENSAJE"
+    ],
+    [
+      28.40333333333333,
+      29.55332263333333,
+      "tu iPhone\nIDEAL",
+      "IDEAL"
+    ],
+    [
+      29.55333333333333,
+      30.96332263333333,
+      "para tu\nPRESUPUESTO",
+      "PRESUPUESTO"
+    ]
+  ],
+  "cards": {
+    "60-dias": [
+      "60 DÍAS",
+      "GARANTÍA EN SEMINUEVOS",
+      21.2,
+      22.969989299999998
+    ],
+    "sellados": [
+      "1 AÑO OFICIAL",
+      "EN EQUIPOS SELLADOS",
+      22.969999999999995,
+      24.881989299999997
+    ]
+  },
+  "accents": [
+    [
+      16.2,
+      16.77,
+      "red"
+    ],
+    [
+      21.2,
+      21.8999893,
+      "green"
+    ],
+    [
+      22.969999999999995,
+      23.5199893,
+      "green"
+    ]
+  ],
+  "estilo": "V11: blanco + amarillo, énfasis inclinado con glow, entradas con golpe y rotación. Sin rótulo superior de ciudad.",
+  "revision": "V7: conservar lanzamiento y recepción de cajas, restaurar pops audibles por accesorio y dos acentos diferentes de equipos; música +1.5 dB.",
+  "accessories": [
+    [
+      "cable",
+      "CABLE",
+      10.899999999978002
+    ],
+    [
+      "funda",
+      "FUNDA",
+      11.650000000043002
+    ],
+    [
+      "cargador",
+      "CON DESCUENTO",
+      13.281500000000001
+    ]
+  ],
+  "accessories_end": 14.850000000035001,
+  "reference": "IMG_0573.MOV",
+  "anuncio": "seminuevos-mdp-01",
+  "version": "v7",
+  "salida": "videos/anuncio-seminuevos-mdp-01-v7.mp4",
+  "referencia_principal": "IMG_0573.MOV",
+  "cambios_adicionales": [
+    "Planos de pie más cerrados para reducir pared vacía y piernas en cuadro.",
+    "Insertos de caja y seminuevos extraídos de IMG_6234.MOV nativo 4K, sin reutilizar productos del competidor.",
+    "Mantener tipografía amarilla V11, accesorios escalonados y garantía con escritura.",
+    "Efectos +6.02 dB respecto V2, voz/música preservadas en su nivel aproximado, limitador final con margen."
+  ],
+  "audio_referencia": "Se extrajo y midió: -26.31 LUFS, -7.62 dBTP. Grabación de una pantalla; no se identifica la música ni se afirma escucha directa.",
+  "naturaleza_imagenes": "Insertos de equipos reales del usuario; cable/funda/cargador ilustrativos generados, no fotos del inventario.",
+  "exportar_video": true,
+  "estado": "exportado",
+  "velocidad_voz": "Original 1.00×, sin atempo ni cambio de tono.",
+  "encuadres": "Sin zooms animados; sin insertos recortados de V3. Sellados con caja enviada; seminuevos con material propio previo.",
+  "guia_sin_superposicion": "En accesorios, retirar subtítulo duplicado y dejar un rótulo por entrada. Cargador: Descuento en cargador original. Garantía: cartel único, sin subtítulo duplicado.",
+  "correccion_segundo_16": "Rehacer empalme 6234→6236 desde originales: conservar final de réplicas y entrada completa de Además si ya tenés..., sin voces superpuestas y con márgenes de respiración.",
+  "insertos": [],
+  "precio_dolar": {
+    "inicio": 2.8000000000000003,
+    "fin": 3.77,
+    "accion": "Billete, sonido de dinero y tilde verde."
+  },
+  "cruz_timing": "Estimación de alineación al pronunciar réplicas: 16.20–16.77 s, sin adelantar al inicio de la frase.",
+  "rotulos_equipos": {
+    "sellados": "Izquierda, al nombrarlos, mientras se conserva la toma original.",
+    "seminuevos": "Derecha, al nombrarlos; ambos rótulos visibles al terminar la segunda mención.",
+    "estilo": "Blanco/amarillo, título inclinado grande sobre etiqueta oscura, entrada lateral y conexión a los equipos."
+  },
+  "cajas": "Secuencia de IMG_6242 a partir de 1.7667 s: entrada de cajas, lanzamiento, recepción y continuación de la toma. Audio de preparación omitido; música continua.",
+  "duracion_archivo_segundos": 31.003,
+  "audio_mp4_lufs": -15.92,
+  "true_peak_dbtp": -1.93,
+  "musica": "Misma base instrumental nueva de V6, +1.5 dB aproximadamente.",
+  "efectos": "Dos pops diferentes en equipos; tres pops presentes y diferenciados en accesorios; señal de cruz, garantía, dinero y CTA conservadas y reforzadas; sin ráfaga de dings.",
+  "voz_video_velocidad": 1.0
+}

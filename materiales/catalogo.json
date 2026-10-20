@@ -400,7 +400,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 1,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6"
+      "ultima_version": "v7"
     },
     {
       "id": "img_6234",
@@ -418,7 +418,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 2,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6"
+      "ultima_version": "v7"
     },
     {
       "id": "img_6236",
@@ -436,7 +436,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 3,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6"
+      "ultima_version": "v7"
     },
     {
       "id": "img_6242",
@@ -454,7 +454,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 4,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6"
+      "ultima_version": "v7"
     },
     {
       "id": "ilustrativo-cable",
@@ -467,7 +467,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6",
+      "ultima_version": "v7",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -481,7 +481,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6",
+      "ultima_version": "v7",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -510,7 +510,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6",
+      "ultima_version": "v7",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -570,7 +570,7 @@
       ],
       "estado_rotacion": "ya_usado",
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6"
+      "ultima_version": "v7"
     },
     {
       "id": "billete-dolar-ilustrativo",
@@ -584,7 +584,7 @@
       ],
       "estado_rotacion": "ya_usado",
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v6"
+      "ultima_version": "v7"
     },
     {
       "id": "fondo-musical-extraido-0573",
@@ -613,6 +613,34 @@
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
       "ultima_version": "v6",
+      "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "base-instrumental-120-v7",
+      "archivo": "materiales/audio/base-instrumental-120-v7.wav",
+      "categoria": "musica_generada",
+      "descripcion": "Variante V7 de la base de V6, música +1.5 dB y duración extendida para la secuencia de cajas.",
+      "origen": "Material preparado en la revisión V7 a petición del usuario.",
+      "sha256": "84857745a33ff832c971ff44cde4c37280c06462297877b5ae5bcdc087d0fc98",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v7",
+      "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "cajas-lanzamiento-6242",
+      "archivo": "materiales/productos/cajas-lanzamiento-6242.mp4",
+      "categoria": "fragmento_original_preparado",
+      "descripcion": "Lanzamiento y recepción de cajas desde IMG_6242, 1.7667–2.9 s; toma continua a 1x, original completo conservado.",
+      "origen": "Material preparado en la revisión V7 a petición del usuario.",
+      "sha256": "a377279929dfc7ac6c5c0d8c81bc9d5c1a8dca17a4faafd9ff657598d603bfe6",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v7",
       "estado_rotacion": "ya_usado"
     }
   ]
