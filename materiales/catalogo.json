@@ -14,11 +14,12 @@
       "sha256": "dddd18ee7bf71c85e15d69a1a69106426aab84623d78bae176e1fe1ef0643666",
       "usado_en": [
         "anuncio-meta-v11",
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Para Plays usar la copia sin piernas; conservar este original."
+      "notas": "Para Plays usar la copia sin piernas; conservar este original.",
+      "ultima_version": "anuncio-interior-02-v2"
     },
     {
       "id": "garcia",
@@ -95,11 +96,12 @@
       "sha256": "1258ed419f46e9b3ffda25f259462f142234949f4f58e7c25bb8713896249f79",
       "usado_en": [
         "anuncio-meta-v11",
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Resolución limitada por la grabación de origen; no es una captura original de alta resolución."
+      "notas": "Resolución limitada por la grabación de origen; no es una captura original de alta resolución.",
+      "ultima_version": "anuncio-interior-02-v2"
     },
     {
       "id": "tommy",
@@ -112,11 +114,12 @@
       "sha256": "d840fcdba625f6c360d9445c5c0929416b18ebf7003e2b0ea8534550bd78bbcb",
       "usado_en": [
         "anuncio-meta-v11",
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Resolución limitada por la grabación de origen; no es una captura original de alta resolución."
+      "notas": "Resolución limitada por la grabación de origen; no es una captura original de alta resolución.",
+      "ultima_version": "anuncio-interior-02-v2"
     },
     {
       "id": "plays-sin-piernas",
@@ -129,11 +132,12 @@
       "sha256": "37a30165d4072c85b297b94c51d22b33e48963b912ae2bc73b76cd8d9b59dc1b",
       "usado_en": [
         "anuncio-meta-v11",
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios.",
+      "ultima_version": "anuncio-interior-02-v2"
     },
     {
       "id": "andreani",
@@ -146,11 +150,12 @@
       "sha256": "ddc2275f7de2039f63bc08261823a46d97233b64536c96dd818e385a26a5e7c1",
       "usado_en": [
         "anuncio-meta-v11",
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios.",
+      "ultima_version": "anuncio-interior-02-v1"
     },
     {
       "id": "paquete",
@@ -163,11 +168,12 @@
       "sha256": "79e667c7f8607c1ba917e6d172277f50c63a5e5529e265c70534d42d253c8f3b",
       "usado_en": [
         "anuncio-meta-v11",
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios.",
+      "ultima_version": "anuncio-interior-02-v1"
     },
     {
       "id": "preparacion",
@@ -196,11 +202,12 @@
       "sha256": "65a0340d83706d69f7b69654a46199ce90756fa7df9c7aaf4f6594b3d1aa0ecc",
       "usado_en": [
         "anuncio-meta-v11",
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios.",
+      "ultima_version": "anuncio-interior-02-v1"
     },
     {
       "id": "paquete-vehiculo",
@@ -231,11 +238,12 @@
       "audio_presente": true,
       "sha256": "ab9fa434ebecd89723377c550e06143e5ae65fab5a15da8f07da9a2624fb50d6",
       "usado_en": [
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Es material nuevo para rotar. Resolución de origen menor que Full HD; no atribuirle detalle, funcionamiento o condición técnica que el clip no permita verificar."
+      "notas": "Es material nuevo para rotar. Resolución de origen menor que Full HD; no atribuirle detalle, funcionamiento o condición técnica que el clip no permita verificar.",
+      "ultima_version": "anuncio-interior-02-v2"
     },
     {
       "id": "referencias-instagram-01",
@@ -250,25 +258,44 @@
       "audio_presente": true,
       "sha256": "fca76ba9d10b8c51babd40a786ebdd4debcb9cf14388890165dccd7cac5a2bb0",
       "usado_en": [
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
       "notas": "Priorizar como material nuevo para rotar frente a las capturas de V11. Conservar las referencias reales y los usuarios visibles. La grabación incluye interfaz de Instagram y del teléfono: preparar encuadres limpios para el anuncio sin cortar las pruebas relevantes. No inferir garantías, satisfacción, condición técnica ni disponibilidad actual a partir de las historias.",
       "fotogramas_utilizados": [
         {
-          "anuncio": "anuncio-interior-02-v1",
-          "segundos_origen": 0.05
+          "anuncio": "anuncio-interior-02",
+          "segundos_origen": 0.05,
+          "version": "anuncio-interior-02-v1"
         },
         {
-          "anuncio": "anuncio-interior-02-v1",
-          "segundos_origen": 2.0
+          "anuncio": "anuncio-interior-02",
+          "segundos_origen": 2.0,
+          "version": "anuncio-interior-02-v1"
         },
         {
-          "anuncio": "anuncio-interior-02-v1",
-          "segundos_origen": 4.0
+          "anuncio": "anuncio-interior-02",
+          "segundos_origen": 4.0,
+          "version": "anuncio-interior-02-v1"
+        },
+        {
+          "anuncio": "anuncio-interior-02",
+          "version": "anuncio-interior-02-v2",
+          "segundos_origen": 0.9
+        },
+        {
+          "anuncio": "anuncio-interior-02",
+          "version": "anuncio-interior-02-v2",
+          "segundos_origen": 5.3
+        },
+        {
+          "anuncio": "anuncio-interior-02",
+          "version": "anuncio-interior-02-v2",
+          "segundos_origen": 6.5
         }
-      ]
+      ],
+      "ultima_version": "anuncio-interior-02-v2"
     },
     {
       "id": "img-0142",
@@ -281,10 +308,45 @@
       "duracion_segundos": 43.735,
       "sha256": "c80577e204813ea64173ec0699aaea32927be599b1b4075ca54a9acb0cc8e803",
       "usado_en": [
-        "anuncio-interior-02-v1"
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02-v1",
-      "estado_rotacion": "ya_usado"
+      "ultimo_uso_confirmado": "anuncio-interior-02",
+      "estado_rotacion": "ya_usado",
+      "ultima_version": "anuncio-interior-02-v2"
+    },
+    {
+      "id": "brenda-miedo",
+      "archivo": "videos/WhatsApp Image 2026-10-19 at 11.42.58 PM.jpeg",
+      "categoria": "captura_cliente",
+      "descripcion": "Chat original de Brenda: Estoy aterrada y Decidí confiar.",
+      "origen": "Original subido por el usuario a GitHub para la revisión del segundo anuncio.",
+      "ancho": 1046,
+      "alto": 1280,
+      "sha256": "858e6d58ca92918d3c8c8bcfd24956b0f468b61d99cd642303cc1b41db29aa38",
+      "usado_en": [
+        "anuncio-interior-02"
+      ],
+      "ultimo_uso_confirmado": "anuncio-interior-02",
+      "ultima_version": "anuncio-interior-02-v2",
+      "estado_rotacion": "ya_usado",
+      "notas": "Mostrar en el tramo donde se habla del miedo inicial de Brenda; después usar la captura de recepción de los equipos. Conservar encabezado y mensajes completos."
+    },
+    {
+      "id": "tommy-iphone16",
+      "archivo": "videos/WhatsApp Image 2026-10-20 at 12.17.21 AM.jpeg",
+      "categoria": "captura_cliente",
+      "descripcion": "Chat de Tomi.ex / brianz012: iPhone 16 Pink y agradecimiento por volver a confiar. Segundo pedido de Tommy, según aclaración del usuario.",
+      "origen": "Original subido por el usuario a GitHub para mostrar durante la mención del iPhone 16 de Tommy.",
+      "ancho": 900,
+      "alto": 1600,
+      "sha256": "e322356779d6eebfba01e4259125dbb794f171dec517989157ff4f84d8614eda",
+      "usado_en": [
+        "anuncio-interior-02"
+      ],
+      "ultimo_uso_confirmado": "anuncio-interior-02",
+      "ultima_version": "anuncio-interior-02-v2",
+      "estado_rotacion": "ya_usado",
+      "notas": "Distinguir sus dos compras: Play 5 y después iPhone 16. Mantener usuario y referencia a la compra repetida visibles."
     }
   ]
 }
