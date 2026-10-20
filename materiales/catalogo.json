@@ -240,12 +240,13 @@
       "audio_presente": true,
       "sha256": "ab9fa434ebecd89723377c550e06143e5ae65fab5a15da8f07da9a2624fb50d6",
       "usado_en": [
-        "anuncio-interior-02"
+        "anuncio-interior-02",
+        "seminuevos-mdp-01"
       ],
-      "ultimo_uso_confirmado": "anuncio-interior-02",
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
       "estado_rotacion": "ya_usado",
       "notas": "Es material nuevo para rotar. Resolución de origen menor que Full HD; no atribuirle detalle, funcionamiento o condición técnica que el clip no permita verificar.",
-      "ultima_version": "anuncio-interior-02-v2"
+      "ultima_version": "v4"
     },
     {
       "id": "referencias-instagram-01",
@@ -399,7 +400,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 1,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v3"
+      "ultima_version": "v4"
     },
     {
       "id": "img_6234",
@@ -417,7 +418,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 2,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v3"
+      "ultima_version": "v4"
     },
     {
       "id": "img_6236",
@@ -435,7 +436,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 3,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v3"
+      "ultima_version": "v4"
     },
     {
       "id": "img_6242",
@@ -453,7 +454,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 4,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v3"
+      "ultima_version": "v4"
     },
     {
       "id": "ilustrativo-cable",
@@ -466,7 +467,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v3",
+      "ultima_version": "v4",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -480,7 +481,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v3",
+      "ultima_version": "v4",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -509,8 +510,8 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v3",
-      "estado_rotacion": "referencia"
+      "ultima_version": "v4",
+      "estado_rotacion": "ya_usado"
     },
     {
       "id": "base-percusiva-142",
@@ -550,8 +551,12 @@
       "ancho": 1080,
       "alto": 1920,
       "sha256": "79d3ade401f7e84462a1e4dd86f00542896019c974510171b7c5c9dcbc4aede1",
-      "usado_en": [],
-      "estado_rotacion": "preparado_no_exportado_anuncio"
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "estado_rotacion": "ya_usado",
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v4"
     },
     {
       "id": "cargador-patas-americanas",
@@ -560,8 +565,12 @@
       "descripcion": "Cargador genérico ilustrativo con dos patas planas estadounidenses, no foto del inventario.",
       "origen": "Generado para las correcciones solicitadas por el usuario.",
       "sha256": "fb61d7439a7ab3831b2f180fe75677f8035810298478b9c84980c9da21d33636",
-      "usado_en": [],
-      "estado_rotacion": "preparado_v4_sin_exportar"
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "estado_rotacion": "ya_usado",
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v4"
     },
     {
       "id": "billete-dolar-ilustrativo",
@@ -570,8 +579,26 @@
       "descripcion": "Billete verde estilizado con símbolo de dólar para énfasis en mejor precio.",
       "origen": "Generado para las correcciones solicitadas por el usuario.",
       "sha256": "78071506f91491d35df7524dbc359b201a487da88a148ecf4c1fe6dc74254542",
-      "usado_en": [],
-      "estado_rotacion": "preparado_v4_sin_exportar"
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "estado_rotacion": "ya_usado",
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v4"
+    },
+    {
+      "id": "fondo-musical-extraido-0573",
+      "archivo": "materiales/audio/fondo-musical-extraido-0573.wav",
+      "categoria": "musica_separada_referencia",
+      "origen": "Separación automática de la referencia IMG_0573.MOV enviada y solicitada por el usuario.",
+      "descripcion": "Fondo musical para V4; título no confirmado. Posibles residuos de la grabación. Pista original de referencia conservada.",
+      "sha256": "a4717e95f1604174ec786cd3a6a61f83264307923bb327a28683fa9334053878",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v4",
+      "estado_rotacion": "ya_usado"
     }
   ]
 }

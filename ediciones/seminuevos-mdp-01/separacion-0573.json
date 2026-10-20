@@ -1,0 +1,11 @@
+{
+  "modelo": "UVR-MDX-NET-Inst_HQ_3",
+  "pesos_fuente": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_3.onnx",
+  "fuente": "IMG_0573.MOV",
+  "salida": "materiales/audio/fondo-musical-extraido-0573.wav",
+  "comprobacion": "ASR en fragmento de instrumental: [Música]. Pista retirada contiene las frases del anuncio de referencia. Esto no constituye escucha directa ni garantiza ausencia total de residuos.",
+  "n_fft": 6144,
+  "hop_length": 1024,
+  "sample_rate": 44100,
+  "solapamiento": 0.5
+}

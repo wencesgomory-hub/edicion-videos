@@ -12,4 +12,6 @@ Para el anuncio de seminuevos, el usuario rechazó los subtítulos verde lima y 
 
 Referencia principal de anuncios MDP: `IMG_0573.MOV`, confirmada por el usuario. Alternar planos del presentador con detalles reales de sus equipos, dar protagonismo a los productos y usar efectos claramente presentes; no copiar condiciones comerciales o imágenes del competidor. La V3 eleva los efectos 6 dB respecto de la V2, con control de picos. No afirmar haber escuchado ni identificado música si solo se pudo medir el audio.
 
-Regla confirmada por el usuario: quitar tiempos muertos y preparación, pero NO acelerar su voz ni el video. Mantener 1.00x, sin atempo ni cambios de tono; conservar respiraciones y frases completas. Evitar zooms forzados y superposición de rótulos. La V4 de seminuevos queda preparada SIN EXPORTAR hasta que el usuario indique continuar con la exportación.
+Regla confirmada por el usuario: quitar tiempos muertos y preparación, pero NO acelerar su voz ni el video. Mantener 1.00x, sin atempo ni cambios de tono; conservar respiraciones y frases completas. Evitar zooms forzados y superposición de rótulos. El usuario autorizó exportar la V4 de seminuevos el 20/10/2026; conservar 1.00x en futuras revisiones.
+
+Música V4: se logró separar automáticamente el fondo del IMG_0573 con UVR-MDX-NET-Inst_HQ_3 y se usó en lugar de la base propia. Reutilizar el archivo catalogado si se mantiene esta música; no confundir la separación con haber identificado el título o escuchado el resultado.

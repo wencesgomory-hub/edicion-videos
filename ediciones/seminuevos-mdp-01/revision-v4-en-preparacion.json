@@ -1,7 +1,7 @@
 {
   "base": "videos/anuncio-seminuevos-mdp-01-v3.mp4",
-  "estado": "preparacion_completa_sin_exportar",
-  "exportar_video": false,
+  "estado": "exportado_por_indicacion_del_usuario",
+  "exportar_video": true,
   "cambios_confirmados": [
     {
       "momento": "mejor precio",
@@ -45,5 +45,7 @@
   "ritmo": "Conservar respiraciones y final de frases; sin acumulación de carteles; sin zoom de sellados.",
   "duracion_preparada_segundos": 30.07,
   "voz_video_velocidad": 1.0,
-  "vista_previa": "ediciones/seminuevos-mdp-01/v4-preparacion/preparacion-v4.jpg"
+  "vista_previa": "ediciones/seminuevos-mdp-01/v4-preparacion/preparacion-v4.jpg",
+  "salida": "videos/anuncio-seminuevos-mdp-01-v4.mp4",
+  "musica_final": "Fondo separado del 0573"
 }

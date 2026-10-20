@@ -19,3 +19,7 @@ V1 rechazada por el usuario: subtítulos verde lima, cartel superior y falta de 
 ## Revisión V3 con referencia 0573
 
 El usuario confirmó IMG_0573.MOV como referencia principal total para los anuncios MDP. Se alternan planos medios con dos insertos nativos 4K de IMG_6234: caja y seminuevos reales, sin material del competidor. Más cercanía en tomas de pie. Se mantiene el trabajo gráfico de V2 y se elevan efectos 6 dB antes del limitador. Medición sobre MP4: −15,72 LUFS, −1,49 dBTP. Música propia percusiva; no se identificó la pista del 0573 ni se afirma escucha directa. Accesorios generados ilustrativos, distintos de los insertos reales. V3: 27,472 s, 1080 × 1920, 30 FPS.
+
+## V4 exportada por autorización del usuario
+
+30,1 segundos, voz y video a velocidad original sin atempo. Se conservan respiraciones y frases; nuevo empalme tras réplicas. Sin zooms animados. Sellados: clip recibido sin marca; seminuevos: iphonecontenido. Billete y tilde verde al precio. Cargador con patas americanas y rótulo de descuento en cargador original; accesorios sin subtítulo duplicado. Música: fondo separado de IMG_0573, sustituyendo la base propia. Fuente de grabación y separación automática, con posibles residuos; título sin identificar. Efectos presentes, no todas las palabras llevan efecto. MP4 medido −15,89 LUFS y −1,82 dBTP.
