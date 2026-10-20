@@ -219,11 +219,13 @@
       "alto": 330,
       "sha256": "cbe6b50e407a8abd45305f4fa35e63ab6fd38fe576239a8dfed9538b2928d629",
       "usado_en": [
-        "anuncio-meta-v11"
+        "anuncio-meta-v11",
+        "anuncio-interior-02"
       ],
-      "ultimo_uso_confirmado": "anuncio-meta-v11",
+      "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
-      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios."
+      "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios.",
+      "ultima_version": "anuncio-interior-02-v4"
     },
     {
       "id": "iphonecontenido",
