@@ -15,3 +15,5 @@ Referencia principal de anuncios MDP: `IMG_0573.MOV`, confirmada por el usuario.
 Regla confirmada por el usuario: quitar tiempos muertos y preparación, pero NO acelerar su voz ni el video. Mantener 1.00x, sin atempo ni cambios de tono; conservar respiraciones y frases completas. Evitar zooms forzados y superposición de rótulos. El usuario autorizó exportar la V4 de seminuevos el 20/10/2026; conservar 1.00x en futuras revisiones.
 
 Música V4: se logró separar automáticamente el fondo del IMG_0573 con UVR-MDX-NET-Inst_HQ_3 y se usó en lugar de la base propia. Reutilizar el archivo catalogado si se mantiene esta música; no confundir la separación con haber identificado el título o escuchado el resultado.
+
+V5 seminuevos: el usuario pidió quitar los insertos de sellados y seminuevos; conservar la toma original con las manos y rótulos laterales grandes SELLADOS / SEMINUEVOS en el estilo blanco/amarillo. Cruz solo en la mención de réplicas. Corte directo tras «te explico por qué», sin cola, manteniendo 1x. Música del 0573 +6 dB respecto V4; impactos variados, sin saturar la voz. No reintroducir los insertos retirados sin que lo pida.

@@ -23,3 +23,7 @@ El usuario confirmó IMG_0573.MOV como referencia principal total para los anunc
 ## V4 exportada por autorización del usuario
 
 30,1 segundos, voz y video a velocidad original sin atempo. Se conservan respiraciones y frases; nuevo empalme tras réplicas. Sin zooms animados. Sellados: clip recibido sin marca; seminuevos: iphonecontenido. Billete y tilde verde al precio. Cargador con patas americanas y rótulo de descuento en cargador original; accesorios sin subtítulo duplicado. Música: fondo separado de IMG_0573, sustituyendo la base propia. Fuente de grabación y separación automática, con posibles residuos; título sin identificar. Efectos presentes, no todas las palabras llevan efecto. MP4 medido −15,89 LUFS y −1,82 dBTP.
+
+## V5
+
+Se quitan ambos insertos y se conserva la toma mostrando los equipos, con rótulos laterales grandes y animados SELLADOS / SEMINUEVOS. Cruz y señal negativa en réplicas. Corte inmediato tras por qué; se quitan 0,20 s de silencio, sin acelerar. Música extraída del 0573 +6 dB respecto V4. Impacto seco en el corte y acento único de llamada a la acción. El resto del montaje permanece igual.
