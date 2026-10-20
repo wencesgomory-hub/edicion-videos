@@ -1,0 +1,179 @@
+{
+  "start": 1.35,
+  "end": 42.6,
+  "speed": 1.1,
+  "captions": [
+    [
+      1.48,
+      2.62,
+      "sos del\ninterior",
+      "interior"
+    ],
+    [
+      2.62,
+      3.72,
+      "te querés comprar\nun iPhone",
+      "iPhone"
+    ],
+    [
+      3.72,
+      5.82,
+      "pero no confiás\na la distancia",
+      "no confiás"
+    ],
+    [
+      5.96,
+      7.64,
+      "estamos en\nMar del Plata",
+      "Mar del Plata"
+    ],
+    [
+      7.64,
+      9.45,
+      "más de\n200 pedidos",
+      "200 pedidos"
+    ],
+    [
+      9.45,
+      11.1,
+      "en los últimos\ntres meses",
+      "tres meses"
+    ],
+    [
+      11.1,
+      12.84,
+      "a todo\nel país",
+      "el país"
+    ],
+    [
+      13.14,
+      14.2,
+      "clientes como\nBrenda",
+      "Brenda"
+    ],
+    [
+      14.2,
+      15.62,
+      "al principio\ntenía miedo",
+      "miedo"
+    ],
+    [
+      15.62,
+      17.25,
+      "¿nos van\na cagar?",
+      "cagar?"
+    ],
+    [
+      17.25,
+      18.83,
+      "¿va a llegar\nel producto?",
+      "producto?"
+    ],
+    [
+      19.12,
+      21.54,
+      "en perfecto\nestado",
+      "perfecto"
+    ],
+    [
+      21.98,
+      23.1,
+      "clientes como\nFran",
+      "Fran"
+    ],
+    [
+      23.1,
+      24.3,
+      "cuatro veces\ncon nosotros",
+      "cuatro veces"
+    ],
+    [
+      24.3,
+      25.35,
+      "desde\nBuenos Aires",
+      "Buenos Aires"
+    ],
+    [
+      25.66,
+      26.76,
+      "clientes como\nTommy",
+      "Tommy"
+    ],
+    [
+      26.76,
+      27.58,
+      "desde\nNeuquén",
+      "Neuquén"
+    ],
+    [
+      27.58,
+      29.78,
+      "una Play 5\ny un iPhone 16",
+      "iPhone 16"
+    ],
+    [
+      30.04,
+      31.42,
+      "mirá nuestras\nreferencias",
+      "referencias"
+    ],
+    [
+      31.42,
+      33.1,
+      "en\nInstagram",
+      "Instagram"
+    ],
+    [
+      33.42,
+      35.24,
+      "consultanos por\nWhatsApp",
+      "WhatsApp"
+    ],
+    [
+      35.24,
+      36.8,
+      "te mostramos\nlos equipos",
+      "los equipos"
+    ],
+    [
+      36.8,
+      38.46,
+      "en su\nestado real",
+      "estado real"
+    ],
+    [
+      38.46,
+      40.05,
+      "lo que mostramos",
+      "mostramos"
+    ],
+    [
+      40.35,
+      41.34,
+      "es lo\nque te llega",
+      "te llega"
+    ],
+    [
+      41.34,
+      42.6,
+      "sin\nletra chica",
+      "letra chica"
+    ]
+  ],
+  "anuncio": "anuncio-interior-02-v1",
+  "fuente_principal": "IMG_0142.MOV",
+  "base_estilo": "anuncio-meta-v11",
+  "materiales_utilizados": [
+    "brenda",
+    "fran",
+    "tommy",
+    "plays-sin-piernas",
+    "andreani",
+    "paquete",
+    "varios-paquetes",
+    "iphonecontenido",
+    "referencias-instagram-01"
+  ],
+  "salida": "videos/anuncio-interior-02-v1.mp4",
+  "nota_subtitulos": "Textos de pantalla condensados a partir de la transcripción automática revisada. Los intervalos son decisiones de montaje."
+}
