@@ -642,6 +642,30 @@
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
       "ultima_version": "v7",
       "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "musica-base-anuncio-v11",
+      "archivo": "materiales/audio/musica-base-anuncio-v11.wav",
+      "categoria": "audio_reutilizado_anuncio_previo",
+      "origen": "/workspace/ad-v9/music.wav",
+      "descripcion": "Pista aislada original del anuncio previo; reutilizada a petición del usuario, sin voces del anuncio anterior.",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultima_version": "v9",
+      "sha256": "70b5a29e615d175bdf4a41badc55ba4baa4c02a6c479c23ceb7d8a1529d31e37"
+    },
+    {
+      "id": "efectos-aislados-anuncio-v11",
+      "archivo": "materiales/audio/efectos-aislados-anuncio-v11.wav",
+      "categoria": "audio_reutilizado_anuncio_previo",
+      "origen": "/workspace/ad-v10/effects.wav",
+      "descripcion": "Pista aislada original del anuncio previo; reutilizada a petición del usuario, sin voces del anuncio anterior.",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultima_version": "v9",
+      "sha256": "15a47e70559fcf297ad67ed27e7e87e029526205141ce1ad23127157b351cff7"
     }
   ]
 }

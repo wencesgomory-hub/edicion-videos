@@ -1,0 +1,80 @@
+[
+  {
+    "at": 0.07,
+    "kind": "snap",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.34
+  },
+  {
+    "at": 2.8,
+    "kind": "wood",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.37
+  },
+  {
+    "at": 6.4,
+    "kind": "thud",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.4
+  },
+  {
+    "at": 7.3,
+    "kind": "bubble",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.43
+  },
+  {
+    "at": 7.7,
+    "kind": "snap",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.39
+  },
+  {
+    "at": 10.899999999978002,
+    "kind": "bubble",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.47
+  },
+  {
+    "at": 11.650000000043002,
+    "kind": "wood",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.47
+  },
+  {
+    "at": 13.281500000000001,
+    "kind": "low-pop",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.47
+  },
+  {
+    "at": 16.2,
+    "kind": "thud",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.48
+  },
+  {
+    "at": 18.27,
+    "kind": "snap",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.32
+  },
+  {
+    "at": 21.2,
+    "kind": "thud",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.43
+  },
+  {
+    "at": 22.97,
+    "kind": "bubble",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.41
+  },
+  {
+    "at": 26.739999999999995,
+    "kind": "snap",
+    "source": "V10/V11 isolated effect",
+    "peak": 0.38
+  }
+]
