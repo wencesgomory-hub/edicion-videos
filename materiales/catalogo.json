@@ -227,6 +227,23 @@
       "ultimo_uso_confirmado": null,
       "estado_rotacion": "sin_usar",
       "notas": "Es material nuevo para rotar. Resolución de origen menor que Full HD; no atribuirle detalle, funcionamiento o condición técnica que el clip no permita verificar."
+    },
+    {
+      "id": "referencias-instagram-01",
+      "archivo": "materiales/clientes/referencias-instagram-01.mp4",
+      "categoria": "video_clientes_instagram",
+      "descripcion": "Grabación de historias de Instagram con clientes mostrando equipos y bolsa de Gomory, y una historia con iPhone y referencia a un usuario.",
+      "origen": "Archivo adjuntado por el usuario: video para usar de clientes{.mp4. Conservado sin recodificar.",
+      "ancho": 384,
+      "alto": 848,
+      "duracion_segundos": 6.835,
+      "fps_promedio": 59.98536942209217,
+      "audio_presente": true,
+      "sha256": "fca76ba9d10b8c51babd40a786ebdd4debcb9cf14388890165dccd7cac5a2bb0",
+      "usado_en": [],
+      "ultimo_uso_confirmado": null,
+      "estado_rotacion": "sin_usar",
+      "notas": "Priorizar como material nuevo para rotar frente a las capturas de V11. Conservar las referencias reales y los usuarios visibles. La grabación incluye interfaz de Instagram y del teléfono: preparar encuadres limpios para el anuncio sin cortar las pruebas relevantes. No inferir garantías, satisfacción, condición técnica ni disponibilidad actual a partir de las historias."
     }
   ]
 }
