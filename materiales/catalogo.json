@@ -241,12 +241,13 @@
       "sha256": "ab9fa434ebecd89723377c550e06143e5ae65fab5a15da8f07da9a2624fb50d6",
       "usado_en": [
         "anuncio-interior-02",
-        "seminuevos-mdp-01"
+        "seminuevos-mdp-01",
+        "iphone-03"
       ],
-      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultimo_uso_confirmado": "iphone-03",
       "estado_rotacion": "ya_usado",
       "notas": "Es material nuevo para rotar. Resolución de origen menor que Full HD; no atribuirle detalle, funcionamiento o condición técnica que el clip no permita verificar.",
-      "ultima_version": "v4"
+      "ultima_version": "v1"
     },
     {
       "id": "referencias-instagram-01",
@@ -464,10 +465,11 @@
       "origen": "Generado con image_gen para la revisión V2, a petición de mostrar los accesorios.",
       "sha256": "5f67bb9a91d610785164a5f42d1aeca70e08a949b26c19099399f8d75eda7a82",
       "usado_en": [
-        "seminuevos-mdp-01"
+        "seminuevos-mdp-01",
+        "iphone-03"
       ],
-      "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v8",
+      "ultimo_uso_confirmado": "iphone-03",
+      "ultima_version": "v1",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -478,10 +480,11 @@
       "origen": "Generado con image_gen para la revisión V2, a petición de mostrar los accesorios.",
       "sha256": "05283d21ca44db5f383c0944082d7f2073c18a5024450c85575d8e264c1daa74",
       "usado_en": [
-        "seminuevos-mdp-01"
+        "seminuevos-mdp-01",
+        "iphone-03"
       ],
-      "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v8",
+      "ultimo_uso_confirmado": "iphone-03",
+      "ultima_version": "v1",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -650,10 +653,12 @@
       "origen": "/workspace/ad-v9/music.wav",
       "descripcion": "Pista aislada original del anuncio previo; reutilizada a petición del usuario, sin voces del anuncio anterior.",
       "usado_en": [
-        "seminuevos-mdp-01"
+        "seminuevos-mdp-01",
+        "iphone-03"
       ],
-      "ultima_version": "v11",
-      "sha256": "70b5a29e615d175bdf4a41badc55ba4baa4c02a6c479c23ceb7d8a1529d31e37"
+      "ultima_version": "v1",
+      "sha256": "70b5a29e615d175bdf4a41badc55ba4baa4c02a6c479c23ceb7d8a1529d31e37",
+      "ultimo_uso_confirmado": "iphone-03"
     },
     {
       "id": "efectos-aislados-anuncio-v11",
@@ -662,10 +667,51 @@
       "origen": "/workspace/ad-v10/effects.wav",
       "descripcion": "Pista aislada original del anuncio previo; reutilizada a petición del usuario, sin voces del anuncio anterior.",
       "usado_en": [
-        "seminuevos-mdp-01"
+        "seminuevos-mdp-01",
+        "iphone-03"
       ],
-      "ultima_version": "v11",
-      "sha256": "15a47e70559fcf297ad67ed27e7e87e029526205141ce1ad23127157b351cff7"
+      "ultima_version": "v1",
+      "sha256": "15a47e70559fcf297ad67ed27e7e87e029526205141ce1ad23127157b351cff7",
+      "ultimo_uso_confirmado": "iphone-03"
+    },
+    {
+      "id": "img-0391",
+      "archivo": "materiales/originales/iphone-03/IMG_0391.mov",
+      "categoria": "video_original_usuario",
+      "origen": "Adjunto del usuario 20/10/2026",
+      "duracion_verificada": 3.768333,
+      "sha256": "d15bb9bcd6f67a580fba4ce5a72915d1def08efaf5509623d0f7a825591a3243",
+      "usado_en": [
+        "iphone-03"
+      ],
+      "ultima_version": "v1",
+      "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "img-0378-editor2",
+      "archivo": "materiales/originales/iphone-03/IMG_0378 editor 2.mov",
+      "categoria": "video_original_usuario",
+      "origen": "Adjunto del usuario 20/10/2026",
+      "duracion_verificada": 7.283333,
+      "sha256": "05baa3645ad619a3b72f574eed4dcb61b8409c6ead510dd9165afff75afc2658",
+      "usado_en": [
+        "iphone-03"
+      ],
+      "ultima_version": "v1",
+      "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "img-0381-espera3",
+      "archivo": "materiales/originales/iphone-03/IMG_0381 3 espera .mov",
+      "categoria": "video_original_usuario",
+      "origen": "Adjunto del usuario 20/10/2026",
+      "duracion_verificada": 3.423333,
+      "sha256": "bfa3b3fa111f70510009c4b5c414449578b91eed026bc78eec33c2bb2a4ff1e9",
+      "usado_en": [
+        "iphone-03"
+      ],
+      "ultima_version": "v1",
+      "estado_rotacion": "ya_usado"
     }
   ]
 }

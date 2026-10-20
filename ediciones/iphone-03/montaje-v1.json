@@ -1,0 +1,1078 @@
+{
+  "fuentes": [
+    {
+      "path": "/workspace/attachments/b625d86c-3ed5-44b8-87ab-ff0dc470e65d/IMG_0391.mov",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "hevc",
+            "codec_long_name": "H.265 / HEVC (High Efficiency Video Coding)",
+            "profile": "Main",
+            "codec_type": "video",
+            "codec_tag_string": "hvc1",
+            "codec_tag": "0x31637668",
+            "width": 3840,
+            "height": 2160,
+            "coded_width": 3840,
+            "coded_height": 2160,
+            "closed_captions": 0,
+            "film_grain": 0,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 150,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "refs": 1,
+            "view_ids_available": "",
+            "view_pos_available": "",
+            "id": "0x1",
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "366/13",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2261,
+            "duration": "3.768333",
+            "bit_rate": "19665917",
+            "nb_frames": "122",
+            "extradata_size": 104,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:04.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Video",
+              "vendor_id": "[0][0][0][0]",
+              "encoder": "HEVC"
+            },
+            "side_data_list": [
+              {
+                "side_data_type": "Display Matrix",
+                "displaymatrix": "\n00000000:            0       65536           0\n00000001:       -65536           0           0\n00000002:    141557760           0  1073741824\n",
+                "rotation": -90
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 180800,
+            "duration": "3.766667",
+            "bit_rate": "179346",
+            "nb_frames": "179",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:04.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Audio",
+              "vendor_id": "[0][0][0][0]"
+            }
+          },
+          {
+            "index": 2,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x3",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2261,
+            "duration": "3.768333",
+            "bit_rate": "18",
+            "nb_frames": "1",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:04.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          },
+          {
+            "index": 3,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x4",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2261,
+            "duration": "3.768333",
+            "bit_rate": "21911",
+            "nb_frames": "105",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:04.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          },
+          {
+            "index": 4,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x5",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2261,
+            "duration": "3.768333",
+            "bit_rate": "81",
+            "nb_frames": "1",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:04.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/workspace/attachments/b625d86c-3ed5-44b8-87ab-ff0dc470e65d/IMG_0391.mov",
+          "nb_streams": 5,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "3.768333",
+          "size": "10756636",
+          "bit_rate": "22835850",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "qt  ",
+            "minor_version": "0",
+            "compatible_brands": "qt  ",
+            "creation_time": "2026-10-20T21:57:04.000000Z",
+            "com.apple.quicktime.full-frame-rate-playback-intent": "0",
+            "com.apple.quicktime.make": "Apple",
+            "com.apple.quicktime.model": "iPhone 15 Pro Max",
+            "com.apple.quicktime.software": "26.5",
+            "com.apple.quicktime.creationdate": "2026-10-16T20:22:32-0300"
+          }
+        }
+      }
+    },
+    {
+      "path": "/workspace/attachments/e04ea7a7-560a-47b2-acf9-e3b23e363346/IMG_0378 editor 2.mov",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "hevc",
+            "codec_long_name": "H.265 / HEVC (High Efficiency Video Coding)",
+            "profile": "Main",
+            "codec_type": "video",
+            "codec_tag_string": "hvc1",
+            "codec_tag": "0x31637668",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1088,
+            "closed_captions": 0,
+            "film_grain": 0,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 123,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "refs": 1,
+            "view_ids_available": "",
+            "view_pos_available": "",
+            "id": "0x1",
+            "r_frame_rate": "60000/1001",
+            "avg_frame_rate": "88000/1481",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 4370,
+            "duration": "7.283333",
+            "bit_rate": "11540982",
+            "nb_frames": "440",
+            "extradata_size": 109,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:02.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Video",
+              "vendor_id": "[0][0][0][0]",
+              "encoder": "HEVC"
+            },
+            "side_data_list": [
+              {
+                "side_data_type": "Display Matrix",
+                "displaymatrix": "\n00000000:            0       65536           0\n00000001:       -65536           0           0\n00000002:     70778880           0  1073741824\n",
+                "rotation": -90
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 349600,
+            "duration": "7.283333",
+            "bit_rate": "182866",
+            "nb_frames": "343",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:02.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Audio",
+              "vendor_id": "[0][0][0][0]"
+            }
+          },
+          {
+            "index": 2,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x3",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 4370,
+            "duration": "7.283333",
+            "bit_rate": "9",
+            "nb_frames": "1",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:02.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          },
+          {
+            "index": 3,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x4",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 4370,
+            "duration": "7.283333",
+            "bit_rate": "24032",
+            "nb_frames": "219",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:02.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          },
+          {
+            "index": 4,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x5",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 4370,
+            "duration": "7.283333",
+            "bit_rate": "42",
+            "nb_frames": "1",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:57:02.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/workspace/attachments/e04ea7a7-560a-47b2-acf9-e3b23e363346/IMG_0378 editor 2.mov",
+          "nb_streams": 5,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "7.283333",
+          "size": "10884911",
+          "bit_rate": "11955966",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "qt  ",
+            "minor_version": "0",
+            "compatible_brands": "qt  ",
+            "creation_time": "2026-10-20T21:57:02.000000Z",
+            "com.apple.quicktime.full-frame-rate-playback-intent": "0",
+            "com.apple.quicktime.make": "Apple",
+            "com.apple.quicktime.model": "iPhone 15 Pro Max",
+            "com.apple.quicktime.software": "26.5",
+            "com.apple.quicktime.creationdate": "2026-10-16T20:11:04-0300"
+          }
+        }
+      }
+    },
+    {
+      "path": "/workspace/attachments/0d82e11f-1055-4b6c-aba0-319b4015a721/IMG_0381 3 espera .mov",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "hevc",
+            "codec_long_name": "H.265 / HEVC (High Efficiency Video Coding)",
+            "profile": "Main",
+            "codec_type": "video",
+            "codec_tag_string": "hvc1",
+            "codec_tag": "0x31637668",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1088,
+            "closed_captions": 0,
+            "film_grain": 0,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 123,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "refs": 1,
+            "view_ids_available": "",
+            "view_pos_available": "",
+            "id": "0x1",
+            "r_frame_rate": "60000/1001",
+            "avg_frame_rate": "138000/2521",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2054,
+            "duration": "3.423333",
+            "bit_rate": "11034297",
+            "nb_frames": "230",
+            "extradata_size": 109,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:51:19.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Video",
+              "vendor_id": "[0][0][0][0]",
+              "encoder": "HEVC"
+            },
+            "side_data_list": [
+              {
+                "side_data_type": "Display Matrix",
+                "displaymatrix": "\n00000000:            0       65536           0\n00000001:       -65536           0           0\n00000002:     70778880           0  1073741824\n",
+                "rotation": -90
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 164320,
+            "duration": "3.423333",
+            "bit_rate": "178030",
+            "nb_frames": "163",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:51:19.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Audio",
+              "vendor_id": "[0][0][0][0]"
+            }
+          },
+          {
+            "index": 2,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x3",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2054,
+            "duration": "3.423333",
+            "bit_rate": "19",
+            "nb_frames": "1",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:51:19.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          },
+          {
+            "index": 3,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x4",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2054,
+            "duration": "3.423333",
+            "bit_rate": "23988",
+            "nb_frames": "103",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:51:19.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          },
+          {
+            "index": 4,
+            "codec_type": "data",
+            "codec_tag_string": "mebx",
+            "codec_tag": "0x7862656d",
+            "id": "0x5",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/600",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2054,
+            "duration": "3.423333",
+            "bit_rate": "84",
+            "nb_frames": "1",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "creation_time": "2026-10-20T21:51:19.000000Z",
+              "language": "und",
+              "handler_name": "Core Media Metadata"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/workspace/attachments/0d82e11f-1055-4b6c-aba0-319b4015a721/IMG_0381 3 espera .mov",
+          "nb_streams": 5,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "3.423333",
+          "size": "5892422",
+          "bit_rate": "13770023",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "qt  ",
+            "minor_version": "0",
+            "compatible_brands": "qt  ",
+            "creation_time": "2026-10-20T21:51:19.000000Z",
+            "com.apple.quicktime.full-frame-rate-playback-intent": "0",
+            "com.apple.quicktime.make": "Apple",
+            "com.apple.quicktime.model": "iPhone 15 Pro Max",
+            "com.apple.quicktime.software": "26.5",
+            "com.apple.quicktime.creationdate": "2026-10-16T20:13:37-0300"
+          }
+        }
+      }
+    }
+  ],
+  "frames": [
+    113,
+    219,
+    103
+  ],
+  "duracion": 14.5,
+  "velocidad": 1,
+  "recortes_adicionales": false,
+  "captions": [
+    [
+      0.58,
+      1.83,
+      "¿HASTA CUÁNDO?",
+      [
+        255,
+        255,
+        251
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      107
+    ],
+    [
+      1.83,
+      3.5,
+      "CAMBIAR TU IPHONE",
+      [
+        74,
+        225,
+        247
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      126
+    ],
+    [
+      3.7666666666666666,
+      4.766666666666667,
+      "VENÍ CON NOSOTROS",
+      [
+        255,
+        255,
+        251
+      ],
+      "/usr/share/fonts/openai-sans/OpenAISans-Bold.woff2",
+      77
+    ],
+    [
+      4.766666666666667,
+      5.866666666666667,
+      "SIN EXCUSAS",
+      [
+        255,
+        65,
+        67
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      134
+    ],
+    [
+      5.866666666666667,
+      7.1466666666666665,
+      "MEJORES PRECIOS",
+      [
+        255,
+        222,
+        65
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf",
+      111
+    ],
+    [
+      7.1466666666666665,
+      8.086666666666666,
+      "MEJOR CALIDAD",
+      [
+        74,
+        225,
+        247
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      123
+    ],
+    [
+      8.086666666666666,
+      8.816666666666666,
+      "GARANTÍA",
+      [
+        255,
+        255,
+        251
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      139
+    ],
+    [
+      8.816666666666666,
+      9.866666666666667,
+      "ACCESORIOS DE REGALO",
+      [
+        255,
+        222,
+        65
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      103
+    ],
+    [
+      9.866666666666667,
+      11.066666666666666,
+      "¿QUÉ MÁS PODÉS PEDIR?",
+      [
+        255,
+        255,
+        251
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf",
+      82
+    ],
+    [
+      11.066666666666666,
+      11.886666666666667,
+      "NO ESPERES MÁS",
+      [
+        255,
+        65,
+        67
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      118
+    ],
+    [
+      11.886666666666667,
+      13.016666666666666,
+      "MANDANOS UN MENSAJE",
+      [
+        74,
+        225,
+        247
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+      104
+    ],
+    [
+      13.016666666666666,
+      14.5,
+      "TU PRÓXIMO EQUIPO",
+      [
+        255,
+        255,
+        251
+      ],
+      "/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf",
+      103
+    ]
+  ],
+  "sonidos": [
+    [
+      0,
+      "thud",
+      0.63
+    ],
+    [
+      0.62,
+      "snap",
+      0.5
+    ],
+    [
+      1.9,
+      "bubble",
+      0.47
+    ],
+    [
+      3.7666666666666666,
+      "thud",
+      0.57
+    ],
+    [
+      4.766666666666667,
+      "snap",
+      0.49
+    ],
+    [
+      5.946666666666667,
+      "wood",
+      0.55
+    ],
+    [
+      7.166666666666666,
+      "bubble",
+      0.55
+    ],
+    [
+      8.116666666666667,
+      "thud",
+      0.56
+    ],
+    [
+      8.866666666666667,
+      "bubble",
+      0.57
+    ],
+    [
+      9.146666666666667,
+      "snap",
+      0.5
+    ],
+    [
+      9.866666666666667,
+      "low-pop",
+      0.48
+    ],
+    [
+      11.066666666666666,
+      "snap",
+      0.56
+    ],
+    [
+      11.896666666666667,
+      "bubble",
+      0.55
+    ]
+  ],
+  "referencia": "Anuncio meta V11 de ayer; no seminuevos de hoy",
+  "imagenes": [
+    "iphonecontenido",
+    "ilustrativo-cable",
+    "ilustrativo-funda"
+  ],
+  "nota": "Captions de énfasis, no transcripción literal completa; no se añade duración de garantía no mencionada."
+}

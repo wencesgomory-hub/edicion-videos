@@ -1,0 +1,166 @@
+[
+  {
+    "clip": 0,
+    "offset": 0.0,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "¡Basta! ¿Hasta cuándo se está imputregando cambiar tu iPhone?",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " ¡",
+        "B",
+        "asta",
+        "!",
+        " ¿",
+        "H",
+        "asta",
+        " cu",
+        "ánd",
+        "o",
+        " se",
+        " está",
+        " imp",
+        "ut",
+        "re",
+        "g",
+        "ando",
+        " cambiar",
+        " tu",
+        " iPhone",
+        "?"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        3.0
+      ],
+      "segment_texts": [
+        " ¡Basta! ¿Hasta cuándo se está imputregando cambiar tu iPhone?"
+      ]
+    }
+  },
+  {
+    "clip": 1,
+    "offset": 0.0,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Ven con nosotros y terminás ya con las excusas. Tenemos los mejores precios, la mejor calidad, una gran día, cesorios de regalo. Quima, podéis pedir.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Ven",
+        " con",
+        " nosotros",
+        " y",
+        " termin",
+        "ás",
+        " ya",
+        " con",
+        " las",
+        " excus",
+        "as",
+        ".",
+        " Tenemos",
+        " los",
+        " mejores",
+        " pre",
+        "cios",
+        ",",
+        " la",
+        " mejor",
+        " calidad",
+        ",",
+        " una",
+        " gran",
+        " día",
+        ",",
+        " ces",
+        "or",
+        "ios",
+        " de",
+        " reg",
+        "alo",
+        ".",
+        " Qu",
+        "ima",
+        ",",
+        " podéis",
+        " pedir",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        2.0,
+        4.0,
+        6.0
+      ],
+      "segment_durations": [
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "segment_texts": [
+        " Ven con nosotros y terminás ya con las excusas.",
+        " Tenemos los mejores precios, la mejor calidad,",
+        " una gran día, cesorios de regalo.",
+        " Quima, podéis pedir."
+      ]
+    }
+  },
+  {
+    "clip": 2,
+    "offset": 0.0,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "No esperes más y mandanos un mensaje ahora que te exploramos en tu próximo equipo.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " No",
+        " esper",
+        "es",
+        " más",
+        " y",
+        " mand",
+        "anos",
+        " un",
+        " mens",
+        "aje",
+        " ahora",
+        " que",
+        " te",
+        " explor",
+        "amos",
+        " en",
+        " tu",
+        " próximo",
+        " equipo",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        3.28
+      ],
+      "segment_texts": [
+        " No esperes más y mandanos un mensaje ahora que te exploramos en tu próximo equipo."
+      ]
+    }
+  }
+]
