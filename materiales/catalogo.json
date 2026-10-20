@@ -382,6 +382,78 @@
       "ultimo_uso_confirmado": "anuncio-interior-02",
       "ultima_version": "anuncio-interior-02-v5",
       "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "img_6229",
+      "archivo": "IMG_6229.MOV",
+      "categoria": "toma_original",
+      "descripcion": "Apertura de anuncio local iPhone; presentador de pie mostrando equipos.",
+      "origen": "Original subido por el usuario a GitHub.",
+      "ancho": 1920,
+      "alto": 1080,
+      "duracion_segundos": 10.89,
+      "sha256": "80f606b474da63472715896aed83a7fce80d124a6f8c4d9a6954fc2a1e3b8619",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "estado_rotacion": "ya_usado",
+      "orden_anuncio_seminuevos": 1,
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v1"
+    },
+    {
+      "id": "img_6234",
+      "archivo": "IMG_6234.MOV",
+      "categoria": "toma_original",
+      "descripcion": "Presentador sentado con equipos y accesorios sobre la mesa.",
+      "origen": "Original subido por el usuario a GitHub.",
+      "ancho": 3840,
+      "alto": 2160,
+      "duracion_segundos": 12.058333,
+      "sha256": "3343dd56cb4b33ce1388a832c1ec825950f4761ba78e74274faf81842b699323",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "estado_rotacion": "ya_usado",
+      "orden_anuncio_seminuevos": 2,
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v1"
+    },
+    {
+      "id": "img_6236",
+      "archivo": "IMG_6236.MOV",
+      "categoria": "toma_original",
+      "descripcion": "Presentador muestra documento de garantía.",
+      "origen": "Original subido por el usuario a GitHub.",
+      "ancho": 3840,
+      "alto": 2160,
+      "duracion_segundos": 8.905,
+      "sha256": "5bd087c79758776d6675fb6842a87dc8fa671b6eac6728df70a4114a65849467",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "estado_rotacion": "ya_usado",
+      "orden_anuncio_seminuevos": 3,
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v1"
+    },
+    {
+      "id": "img_6242",
+      "archivo": "IMG_6242.MOV",
+      "categoria": "toma_original",
+      "descripcion": "Cierre y llamada a la acción mostrando cajas de iPhone.",
+      "origen": "Original subido por el usuario a GitHub.",
+      "ancho": 3840,
+      "alto": 2160,
+      "duracion_segundos": 8.671667,
+      "sha256": "0b90482333bbfd3f56fb381de733f996bf6f64fc4c9d3d649d50196e1acf0b50",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "estado_rotacion": "ya_usado",
+      "orden_anuncio_seminuevos": 4,
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v1"
     }
   ]
 }

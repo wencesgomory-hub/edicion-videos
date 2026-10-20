@@ -1,0 +1,259 @@
+[
+  {
+    "file": "IMG_6229",
+    "start": 3.97,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Sobre maratlarete querés comprar tu nuevo iPhone con la mejor calidad y el mejor precio aquí en como lo importado somos tu mejor opción y te expl",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " So",
+        "bre",
+        " mar",
+        "at",
+        "l",
+        "are",
+        "te",
+        " quer",
+        "és",
+        " comprar",
+        " tu",
+        " nuevo",
+        " iPhone",
+        " con",
+        " la",
+        " mejor",
+        " calidad",
+        " y",
+        " el",
+        " mejor",
+        " precio",
+        " aquí",
+        " en",
+        " como",
+        " lo",
+        " import",
+        "ado",
+        " somos",
+        " tu",
+        " mejor",
+        " op",
+        "ción",
+        " y",
+        " te",
+        " expl"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        3.7
+      ],
+      "segment_durations": [
+        3.7,
+        0.0
+      ],
+      "segment_texts": [
+        " Sobre maratlarete querés comprar tu nuevo iPhone con la mejor calidad y el mejor precio",
+        " aquí en como lo importado somos tu mejor opción y te expl"
+      ]
+    }
+  },
+  {
+    "file": "IMG_6234",
+    "start": 1.09,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Tenemos iPhones sellados y iPhones semi nuevos y con tu compra incluye cable, funda y un descuento en el carácter original por acá no trabajamos con replicas.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Tenemos",
+        " iPhones",
+        " sell",
+        "ados",
+        " y",
+        " iPhones",
+        " semi",
+        " nuevos",
+        " y",
+        " con",
+        " tu",
+        " compra",
+        " inclu",
+        "ye",
+        " cable",
+        ",",
+        " fund",
+        "a",
+        " y",
+        " un",
+        " desc",
+        "u",
+        "ento",
+        " en",
+        " el",
+        " car",
+        "á",
+        "ct",
+        "er",
+        " original",
+        " por",
+        " acá",
+        " no",
+        " trabaj",
+        "amos",
+        " con",
+        " repl",
+        "icas",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        7.68
+      ],
+      "segment_durations": [
+        7.68,
+        2.72
+      ],
+      "segment_texts": [
+        " Tenemos iPhones sellados y iPhones semi nuevos y con tu compra incluye cable, funda y un descuento",
+        " en el carácter original por acá no trabajamos con replicas."
+      ]
+    }
+  },
+  {
+    "file": "IMG_6236",
+    "start": 0.59,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Además si ya tenés iPhone lo puedes entregar en parte de pago y contamos con una garantía de 60 días en los seminuevos y un año oficial en los echados.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Además",
+        " si",
+        " ya",
+        " ten",
+        "és",
+        " iPhone",
+        " lo",
+        " puedes",
+        " entre",
+        "gar",
+        " en",
+        " parte",
+        " de",
+        " p",
+        "ago",
+        " y",
+        " cont",
+        "amos",
+        " con",
+        " una",
+        " garant",
+        "ía",
+        " de",
+        " 60",
+        " días",
+        " en",
+        " los",
+        " sem",
+        "in",
+        "ue",
+        "vos",
+        " y",
+        " un",
+        " año",
+        " oficial",
+        " en",
+        " los",
+        " ech",
+        "ados",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        4.16
+      ],
+      "segment_durations": [
+        4.16,
+        3.52
+      ],
+      "segment_texts": [
+        " Además si ya tenés iPhone lo puedes entregar en parte de pago y contamos con una garantía",
+        " de 60 días en los seminuevos y un año oficial en los echados."
+      ]
+    }
+  },
+  {
+    "file": "IMG_6242",
+    "start": 2.32,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Decidnos, ¿qué más estás esperando? Mandadnos un mensajito ahora y encontramos Toy Phone Ideal dentro de tu presup",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Dec",
+        "id",
+        "nos",
+        ",",
+        " ¿",
+        "qué",
+        " más",
+        " estás",
+        " esperando",
+        "?",
+        " Mand",
+        "ad",
+        "nos",
+        " un",
+        " mens",
+        "aj",
+        "ito",
+        " ahora",
+        " y",
+        " encontramos",
+        " Toy",
+        " Phone",
+        " Ide",
+        "al",
+        " dentro",
+        " de",
+        " tu",
+        " presup"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        1.72,
+        3.6
+      ],
+      "segment_durations": [
+        1.72,
+        1.88,
+        0.0
+      ],
+      "segment_texts": [
+        " Decidnos, ¿qué más estás esperando?",
+        " Mandadnos un mensajito ahora y encontramos",
+        " Toy Phone Ideal dentro de tu presup"
+      ]
+    }
+  }
+]
