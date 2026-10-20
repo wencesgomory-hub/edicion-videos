@@ -137,7 +137,7 @@
       "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
       "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios.",
-      "ultima_version": "anuncio-interior-02-v2"
+      "ultima_version": "anuncio-interior-02-v3"
     },
     {
       "id": "andreani",
@@ -173,7 +173,7 @@
       "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
       "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios.",
-      "ultima_version": "anuncio-interior-02-v1"
+      "ultima_version": "anuncio-interior-02-v3"
     },
     {
       "id": "preparacion",
@@ -207,7 +207,7 @@
       "ultimo_uso_confirmado": "anuncio-interior-02",
       "estado_rotacion": "ya_usado",
       "notas": "Revisar encuadre y recortar piernas/pies antes de usar; no recortar nombres o mensajes de testimonios.",
-      "ultima_version": "anuncio-interior-02-v1"
+      "ultima_version": "anuncio-interior-02-v3"
     },
     {
       "id": "paquete-vehiculo",
@@ -347,6 +347,23 @@
       "ultima_version": "anuncio-interior-02-v2",
       "estado_rotacion": "ya_usado",
       "notas": "Distinguir sus dos compras: Play 5 y después iPhone 16. Mantener usuario y referencia a la compra repetida visibles."
+    },
+    {
+      "id": "referencias-instagram-02",
+      "archivo": "materiales/clientes/referencias-instagram-02.mp4",
+      "categoria": "video_clientes_instagram",
+      "descripcion": "Segundo video de referencias de clientes enviado para ampliar la biblioteca y rotar material.",
+      "origen": "Adjunto del usuario: mas clientes.mp4; conservado sin recodificar.",
+      "ancho": 384,
+      "alto": 848,
+      "duracion_segundos": 4.618333,
+      "fps_promedio": 59.32876217971851,
+      "audio_presente": true,
+      "sha256": "00e49c1ff9cbece0c376437b8e01c7f1b25f476c6656bd167108c3b01ad2e5e2",
+      "usado_en": [],
+      "ultimo_uso_confirmado": null,
+      "estado_rotacion": "sin_usar",
+      "notas": "Material de reserva para próximos anuncios. Seleccionar tomas que no se repitan con las del primer video de Instagram; mantener las referencias y usuarios visibles."
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 Esta biblioteca conserva el material real enviado por el usuario para reutilizarlo entre anuncios, alternando las capturas y fotos. Los originales de Fran, García y Plays permanecen en `videos/`; el catálogo los referencia sin duplicarlos. Las demás imágenes se guardan en las carpetas de esta biblioteca.
 
-Consultar `catalogo.json` antes de editar. Incluye archivo, procedencia, resolución, huella SHA-256 y último anuncio donde se confirmó su uso. Las capturas y fotos iniciales ya aparecen en la V11. El catálogo también registra los recursos nuevos sin usar; incluye `productos/iphonecontenido.mp4` y `clientes/referencias-instagram-01.mp4`; sus usos posteriores figuran en el catálogo. Las capturas recuperadas de videos tienen menor resolución que los originales.
+Consultar `catalogo.json` antes de editar. Incluye archivo, procedencia, resolución, huella SHA-256 y último anuncio donde se confirmó su uso. Las capturas y fotos iniciales ya aparecen en la V11. El catálogo también registra los recursos nuevos sin usar; incluye `productos/iphonecontenido.mp4`, `clientes/referencias-instagram-01.mp4` y `clientes/referencias-instagram-02.mp4`; sus usos posteriores figuran en el catálogo. Las capturas recuperadas de videos tienen menor resolución que los originales.
 
 ## Rotación
 
