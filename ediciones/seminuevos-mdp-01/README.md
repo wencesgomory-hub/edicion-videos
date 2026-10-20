@@ -27,3 +27,7 @@ El usuario confirmó IMG_0573.MOV como referencia principal total para los anunc
 ## V5
 
 Se quitan ambos insertos y se conserva la toma mostrando los equipos, con rótulos laterales grandes y animados SELLADOS / SEMINUEVOS. Cruz y señal negativa en réplicas. Corte inmediato tras por qué; se quitan 0,20 s de silencio, sin acelerar. Música extraída del 0573 +6 dB respecto V4. Impacto seco en el corte y acento único de llamada a la acción. El resto del montaje permanece igual.
+
+## V6
+
+Fondo nuevo limpio generado a 120 BPM; se retiró la separación del 0573 por rechazo del usuario. Efectos reconstruidos con un único acento en presentación de equipos (7,30 s), sin dings repetidos ni cascada anticipada. El sonido entra cuando levanta la caja. Rótulos de equipos/accesorios/garantía más contenidos y con margen lateral aproximado de 90 px. Voz original 1x. Archivo 29,9 s, 1080×1920, 30 FPS, −15,94 LUFS y −3,76 dBTP. Comprobación visual de márgenes y conteo de eventos, sin afirmar escucha directa.

@@ -400,7 +400,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 1,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5"
+      "ultima_version": "v6"
     },
     {
       "id": "img_6234",
@@ -418,7 +418,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 2,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5"
+      "ultima_version": "v6"
     },
     {
       "id": "img_6236",
@@ -436,7 +436,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 3,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5"
+      "ultima_version": "v6"
     },
     {
       "id": "img_6242",
@@ -454,7 +454,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 4,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5"
+      "ultima_version": "v6"
     },
     {
       "id": "ilustrativo-cable",
@@ -467,7 +467,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5",
+      "ultima_version": "v6",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -481,7 +481,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5",
+      "ultima_version": "v6",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -510,7 +510,7 @@
         "seminuevos-mdp-01"
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5",
+      "ultima_version": "v6",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -570,7 +570,7 @@
       ],
       "estado_rotacion": "ya_usado",
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5"
+      "ultima_version": "v6"
     },
     {
       "id": "billete-dolar-ilustrativo",
@@ -584,7 +584,7 @@
       ],
       "estado_rotacion": "ya_usado",
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v5"
+      "ultima_version": "v6"
     },
     {
       "id": "fondo-musical-extraido-0573",
@@ -598,6 +598,21 @@
       ],
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
       "ultima_version": "v5",
+      "estado_rotacion": "retirado_por_rechazo_del_usuario",
+      "notas": "Usuario rechazó cómo suena este fondo en V5. No reutilizarlo por defecto; reemplazado en V6."
+    },
+    {
+      "id": "base-instrumental-120-v6",
+      "archivo": "materiales/audio/base-instrumental-120-v6.wav",
+      "categoria": "musica_generada",
+      "descripcion": "Base instrumental de 120 BPM: percusión, bajo y acordes suaves; sin campanitas, sin voces ni audio de la referencia. Nivel y ducking de V6.",
+      "origen": "Generada para sustituir el fondo que rechazó el usuario.",
+      "sha256": "7b0284b054143c4b34723b46d5f0e02f0f44355192c085f7ccf95b8ff8196429",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v6",
       "estado_rotacion": "ya_usado"
     }
   ]
