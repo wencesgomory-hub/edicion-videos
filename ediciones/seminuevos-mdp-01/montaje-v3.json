@@ -1,0 +1,239 @@
+{
+  "clips": [
+    {
+      "file": "IMG_6229.MOV",
+      "start": 3.97,
+      "end": 10.4,
+      "speed": 1.07,
+      "output_start": 0,
+      "output_end": 6.009345794392523,
+      "cache_trim": 0
+    },
+    {
+      "file": "IMG_6234.MOV",
+      "start": 1.1613333333333333,
+      "end": 11.52,
+      "speed": 1.07,
+      "output_start": 6.009345794392523,
+      "output_end": 15.690342679127724,
+      "cache_trim": 0.06666666666666667
+    },
+    {
+      "file": "IMG_6236.MOV",
+      "start": 0.6613333333333333,
+      "end": 8.32,
+      "speed": 1.07,
+      "output_start": 15.690342679127724,
+      "output_end": 22.847975077881618,
+      "cache_trim": 0.06666666666666667
+    },
+    {
+      "file": "IMG_6242.MOV",
+      "start": 2.9619999999999997,
+      "end": 7.91,
+      "speed": 1.07,
+      "output_start": 22.847975077881618,
+      "output_end": 27.47227414330218,
+      "cache_trim": 0.6
+    }
+  ],
+  "duration": 27.47227414330218,
+  "captions": [
+    [
+      0,
+      0.7289719626168222,
+      "¿sos de\nMAR DEL PLATA?",
+      "MAR DEL PLATA?"
+    ],
+    [
+      0.7289719626168222,
+      1.6635514018691586,
+      "tu nuevo\nIPHONE",
+      "IPHONE"
+    ],
+    [
+      1.6635514018691586,
+      2.5514018691588785,
+      "la mejor\nCALIDAD",
+      "CALIDAD"
+    ],
+    [
+      2.5514018691588785,
+      3.4579439252336446,
+      "al mejor\nPRECIO",
+      "PRECIO"
+    ],
+    [
+      3.4579439252336446,
+      4.439252336448598,
+      "GOMORY\nIMPORTADOS",
+      "IMPORTADOS"
+    ],
+    [
+      4.439252336448598,
+      5.16822429906542,
+      "tu mejor\nOPCIÓN",
+      "OPCIÓN"
+    ],
+    [
+      5.16822429906542,
+      6.009345794392523,
+      "te explico\nPOR QUÉ",
+      "POR QUÉ"
+    ],
+    [
+      6.009345794392523,
+      7.166978193146417,
+      "iPhones\nSELLADOS",
+      "SELLADOS"
+    ],
+    [
+      7.166978193146417,
+      8.307165109034267,
+      "y\nSEMINUEVOS",
+      "SEMINUEVOS"
+    ],
+    [
+      8.307165109034267,
+      10.157632398753893,
+      "con tu\nCOMPRA",
+      "COMPRA"
+    ],
+    [
+      10.157632398753893,
+      10.858566978193146,
+      "CABLE",
+      "CABLE"
+    ],
+    [
+      10.858566978193146,
+      11.512772585669781,
+      "FUNDA",
+      "FUNDA"
+    ],
+    [
+      11.512772585669781,
+      13.054828660436137,
+      "descuento en\nCARGADOR",
+      "CARGADOR"
+    ],
+    [
+      13.054828660436137,
+      13.849221183800623,
+      "ORIGINAL",
+      "ORIGINAL"
+    ],
+    [
+      13.849221183800623,
+      15.690342679127724,
+      "nada de\nRÉPLICAS",
+      "RÉPLICAS"
+    ],
+    [
+      15.690342679127724,
+      16.801246105919002,
+      "¿ya tenés\nIPHONE?",
+      "IPHONE?"
+    ],
+    [
+      16.801246105919002,
+      18.32461059190031,
+      "entregalo en\nPARTE DE PAGO",
+      "PARTE DE PAGO"
+    ],
+    [
+      18.32461059190031,
+      19.539563862928347,
+      "y tenés\nGARANTÍA",
+      "GARANTÍA"
+    ],
+    [
+      22.847975077881618,
+      23.743302180685355,
+      "¿qué estás\nESPERANDO?",
+      "ESPERANDO?"
+    ],
+    [
+      23.743302180685355,
+      25.079750778816194,
+      "mandanos un\nMENSAJE",
+      "MENSAJE"
+    ],
+    [
+      25.079750778816194,
+      26.154517133956382,
+      "tu iPhone\nIDEAL",
+      "IDEAL"
+    ],
+    [
+      26.154517133956382,
+      27.472274143302176,
+      "para tu\nPRESUPUESTO",
+      "PRESUPUESTO"
+    ]
+  ],
+  "cards": {
+    "60-dias": [
+      "60 DÍAS",
+      "GARANTÍA EN SEMINUEVOS",
+      19.539563862928347,
+      21.19376947040498
+    ],
+    "sellados": [
+      "1 AÑO OFICIAL",
+      "EN EQUIPOS SELLADOS",
+      21.19376947040498,
+      22.847975077881618
+    ]
+  },
+  "accents": [
+    [
+      13.849221183800623,
+      14.596884735202492,
+      "red"
+    ],
+    [
+      19.539563862928347,
+      20.193769470404984,
+      "green"
+    ],
+    [
+      21.19376947040498,
+      21.70778816199377,
+      "green"
+    ]
+  ],
+  "estilo": "V11: blanco + amarillo, énfasis inclinado con glow, entradas con golpe y rotación. Sin rótulo superior de ciudad.",
+  "revision": "Referencia principal IMG_0573: alternar planos medios y detalles reales; subtítulos V11; accesorios y garantía; efectos +6 dB respecto V2.",
+  "accessories": [
+    [
+      "cable",
+      "CABLE",
+      10.157632398733334
+    ],
+    [
+      "funda",
+      "FUNDA",
+      10.858566978233334
+    ],
+    [
+      "cargador",
+      "CON DESCUENTO",
+      12.383333333333333
+    ]
+  ],
+  "accessories_end": 13.849221183833334,
+  "reference": "IMG_0573.MOV",
+  "anuncio": "seminuevos-mdp-01",
+  "version": "v3",
+  "salida": "videos/anuncio-seminuevos-mdp-01-v3.mp4",
+  "referencia_principal": "IMG_0573.MOV",
+  "cambios_adicionales": [
+    "Planos de pie más cerrados para reducir pared vacía y piernas en cuadro.",
+    "Insertos de caja y seminuevos extraídos de IMG_6234.MOV nativo 4K, sin reutilizar productos del competidor.",
+    "Mantener tipografía amarilla V11, accesorios escalonados y garantía con escritura.",
+    "Efectos +6.02 dB respecto V2, voz/música preservadas en su nivel aproximado, limitador final con margen."
+  ],
+  "audio_referencia": "Se extrajo y midió: -26.31 LUFS, -7.62 dBTP. Grabación de una pantalla; no se identifica la música ni se afirma escucha directa.",
+  "naturaleza_imagenes": "Insertos de equipos reales del usuario; cable/funda/cargador ilustrativos generados, no fotos del inventario."
+}

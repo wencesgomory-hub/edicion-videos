@@ -399,7 +399,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 1,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v1"
+      "ultima_version": "v3"
     },
     {
       "id": "img_6234",
@@ -417,7 +417,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 2,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v1"
+      "ultima_version": "v3"
     },
     {
       "id": "img_6236",
@@ -435,7 +435,7 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 3,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v1"
+      "ultima_version": "v3"
     },
     {
       "id": "img_6242",
@@ -453,7 +453,64 @@
       "estado_rotacion": "ya_usado",
       "orden_anuncio_seminuevos": 4,
       "ultimo_uso_confirmado": "seminuevos-mdp-01",
-      "ultima_version": "v1"
+      "ultima_version": "v3"
+    },
+    {
+      "id": "ilustrativo-cable",
+      "archivo": "materiales/graficos/accesorios-ilustrativos/cable.png",
+      "categoria": "imagen_ilustrativa_generada",
+      "descripcion": "Accesorio genérico ilustrativo; no es foto del stock ni prueba de marca/modelo.",
+      "origen": "Generado con image_gen para la revisión V2, a petición de mostrar los accesorios.",
+      "sha256": "5f67bb9a91d610785164a5f42d1aeca70e08a949b26c19099399f8d75eda7a82",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v3",
+      "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "ilustrativo-funda",
+      "archivo": "materiales/graficos/accesorios-ilustrativos/funda.png",
+      "categoria": "imagen_ilustrativa_generada",
+      "descripcion": "Accesorio genérico ilustrativo; no es foto del stock ni prueba de marca/modelo.",
+      "origen": "Generado con image_gen para la revisión V2, a petición de mostrar los accesorios.",
+      "sha256": "05283d21ca44db5f383c0944082d7f2073c18a5024450c85575d8e264c1daa74",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v3",
+      "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "ilustrativo-cargador",
+      "archivo": "materiales/graficos/accesorios-ilustrativos/cargador.png",
+      "categoria": "imagen_ilustrativa_generada",
+      "descripcion": "Accesorio genérico ilustrativo; no es foto del stock ni prueba de marca/modelo.",
+      "origen": "Generado con image_gen para la revisión V2, a petición de mostrar los accesorios.",
+      "sha256": "163c223f1ab6abf51f355bb5f450a1e10dd3ee72d51d151e713b3ecfed16b552",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v3",
+      "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "referencia-0573",
+      "archivo": "IMG_0573.MOV",
+      "categoria": "referencia_edicion",
+      "descripcion": "Referencia principal solicitada para anuncios de Mar del Plata: grabación de pantalla con otro anuncio, alternancia presentador/productos y texto blanco con acentos grandes amarillos/verdes. No reutilizar testimonios, productos, condiciones ni marca del competidor.",
+      "origen": "Subido por el usuario a GitHub.",
+      "duracion_segundos": 31.738333,
+      "sha256": "e2e8640cb2b548486305aff1b77c8887f508db531a498b8fd8f224a0047f03e6",
+      "usado_en": [
+        "seminuevos-mdp-01"
+      ],
+      "ultimo_uso_confirmado": "seminuevos-mdp-01",
+      "ultima_version": "v3",
+      "estado_rotacion": "referencia"
     }
   ]
 }
