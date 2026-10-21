@@ -1,0 +1,351 @@
+[
+  {
+    "offset": 0,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Yo sé que te querés comer un iPhone, pero tenés miedo de no elegir el mejor calidad de precio. Nos pasó a todos.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Yo",
+        " sé",
+        " que",
+        " te",
+        " quer",
+        "és",
+        " comer",
+        " un",
+        " iPhone",
+        ",",
+        " pero",
+        " ten",
+        "és",
+        " miedo",
+        " de",
+        " no",
+        " eleg",
+        "ir",
+        " el",
+        " mejor",
+        " calidad",
+        " de",
+        " precio",
+        ".",
+        " Nos",
+        " pasó",
+        " a",
+        " todos",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        3.2
+      ],
+      "segment_durations": [
+        3.2,
+        1.0
+      ],
+      "segment_texts": [
+        " Yo sé que te querés comer un iPhone, pero tenés miedo de no elegir el mejor calidad de precio.",
+        " Nos pasó a todos."
+      ]
+    }
+  },
+  {
+    "offset": 4,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "así que en este vídeo te voy a traer más 3 mejores soluciones para este año.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " así",
+        " que",
+        " en",
+        " este",
+        " vídeo",
+        " te",
+        " voy",
+        " a",
+        " tra",
+        "er",
+        " más",
+        " 3",
+        " mejores",
+        " sol",
+        "uciones",
+        " para",
+        " este",
+        " año",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        3.52
+      ],
+      "segment_texts": [
+        " así que en este vídeo te voy a traer más 3 mejores soluciones para este año."
+      ]
+    }
+  },
+  {
+    "offset": 7.6,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Si tienes hasta 400 dólares, la mejor opción sigue siendo el iPhone 13, el verdadero caballito de batalla.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Si",
+        " tienes",
+        " hasta",
+        " 400",
+        " dólares",
+        ",",
+        " la",
+        " mejor",
+        " op",
+        "ción",
+        " sigue",
+        " siendo",
+        " el",
+        " iPhone",
+        " 13",
+        ",",
+        " el",
+        " verdad",
+        "ero",
+        " cab",
+        "all",
+        "ito",
+        " de",
+        " bat",
+        "alla",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        5.0
+      ],
+      "segment_texts": [
+        " Si tienes hasta 400 dólares, la mejor opción sigue siendo el iPhone 13, el verdadero caballito de batalla."
+      ]
+    }
+  },
+  {
+    "offset": 12.6,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "después si tenés un poquito más de presupuesto entre 520 dólares y 560 te recomendamos lo que es el",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " después",
+        " si",
+        " ten",
+        "és",
+        " un",
+        " poquito",
+        " más",
+        " de",
+        " presup",
+        "uesto",
+        " entre",
+        " 5",
+        "20",
+        " dólares",
+        " y",
+        " 5",
+        "60",
+        " te",
+        " recomend",
+        "amos",
+        " lo",
+        " que",
+        " es",
+        " el"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        5.84
+      ],
+      "segment_texts": [
+        " después si tenés un poquito más de presupuesto entre 520 dólares y 560 te recomendamos lo que es el"
+      ]
+    }
+  },
+  {
+    "offset": 18.5,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "14 Pro que es lo mejor calidad precio junto al 15 Pro que te lo voy a llevar desde 600",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " 14",
+        " Pro",
+        " que",
+        " es",
+        " lo",
+        " mejor",
+        " calidad",
+        " precio",
+        " junto",
+        " al",
+        " 15",
+        " Pro",
+        " que",
+        " te",
+        " lo",
+        " voy",
+        " a",
+        " llevar",
+        " desde",
+        " 600"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        6.3
+      ],
+      "segment_texts": [
+        " 14 Pro que es lo mejor calidad precio junto al 15 Pro que te lo voy a llevar desde 600"
+      ]
+    }
+  },
+  {
+    "offset": 24.8,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "$30 dólares. Si crees yo arte, ¿qué dire estos equipos para mejor calidad y precio de la ciudad?",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " $",
+        "30",
+        " dólares",
+        ".",
+        " Si",
+        " cre",
+        "es",
+        " yo",
+        " arte",
+        ",",
+        " ¿",
+        "qué",
+        " dire",
+        " estos",
+        " equip",
+        "os",
+        " para",
+        " mejor",
+        " calidad",
+        " y",
+        " precio",
+        " de",
+        " la",
+        " ciudad",
+        "?"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        4.8
+      ],
+      "segment_texts": [
+        " $30 dólares. Si crees yo arte, ¿qué dire estos equipos para mejor calidad y precio de la ciudad?"
+      ]
+    }
+  },
+  {
+    "offset": 29.6,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "llevártelo con garantías, 60 días y actores de regalo. Vándanos un mensajito al lá y les adoramos.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " llev",
+        "á",
+        "rt",
+        "elo",
+        " con",
+        " garant",
+        "ías",
+        ",",
+        " 60",
+        " días",
+        " y",
+        " act",
+        "ores",
+        " de",
+        " reg",
+        "alo",
+        ".",
+        " V",
+        "ánd",
+        "anos",
+        " un",
+        " mens",
+        "aj",
+        "ito",
+        " al",
+        " lá",
+        " y",
+        " les",
+        " ad",
+        "or",
+        "amos",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        3.6
+      ],
+      "segment_durations": [
+        3.6,
+        1.8
+      ],
+      "segment_texts": [
+        " llevártelo con garantías, 60 días y actores de regalo.",
+        " Vándanos un mensajito al lá y les adoramos."
+      ]
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[aist#0:0/pcm_f32le @ 0x555653af5500] Guessed Channel Layout: stereo
+Input #0, wav, from '/workspace/iphone-05/master.wav':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Duration: 00:00:35.02, bitrate: 3072 kb/s
+  Stream #0:0: Audio: pcm_f32le ([3][0][0][0] / 0x0003), 48000 Hz, stereo, flt, 3072 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_f32le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:00:17.30 bitrate=N/A speed=34.6x    [Parsed_loudnorm_0 @ 0x7fcc3c002740] 
+{
+	"input_i" : "-15.69",
+	"input_tp" : "-1.68",
+	"input_lra" : "2.40",
+	"input_thresh" : "-25.76",
+	"output_i" : "-16.23",
+	"output_tp" : "-2.16",
+	"output_lra" : "1.90",
+	"output_thresh" : "-26.30",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.23"
+}
+[out#0/null @ 0x555653af56c0] video:0KiB audio:26262KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:35.10 bitrate=N/A speed=38.1x    

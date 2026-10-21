@@ -791,6 +791,38 @@
         "iphone-04"
       ],
       "ultima_version": "v7-efectos-mas-2db"
+    },
+    {
+      "id": "iphone-05-fuente",
+      "archivo": "D4C459C6-A3C2-4BF0-94BE-C47B1EF21D57.MP4",
+      "categoria": "video_original_usuario",
+      "duracion": 35.016667,
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "fps": 60,
+      "sha256": "90138e9476c435425bcd32faa1b572f3d9ebdbb4861bead08adb6e7e5d114100",
+      "usado_en": [
+        "iphone-05"
+      ],
+      "ultima_version": "v1"
+    },
+    {
+      "id": "referencia-principal-iphone-05",
+      "archivo": "materiales/referencias/referencia-principal-iphone-05.mp4",
+      "categoria": "referencia_edicion",
+      "duracion": 44.2,
+      "resolucion": [
+        576,
+        1024
+      ],
+      "fps": 30,
+      "sha256": "950fb8cb2d9c24eedb2a071f4ac1408581f45fbcae2e94bb8f4f9f7d8fc4c85e",
+      "usado_en": [
+        "iphone-05"
+      ],
+      "ultima_version": "v1"
     }
   ]
 }

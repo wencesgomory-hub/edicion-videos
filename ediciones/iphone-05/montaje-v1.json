@@ -1,0 +1,414 @@
+{
+  "fuente": "D4C459C6-A3C2-4BF0-94BE-C47B1EF21D57.MP4",
+  "duracion": 35.016667,
+  "velocidad": 1,
+  "bloques": [
+    [
+      0,
+      1.32,
+      [
+        "¿QUERÉS UN",
+        "IPHONE?"
+      ],
+      "IPHONE?",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "hook"
+    ],
+    [
+      1.32,
+      2.45,
+      [
+        "pero tenés miedo",
+        "A ELEGIR MAL"
+      ],
+      "A ELEGIR MAL",
+      [
+        227,
+        30,
+        41,
+        255
+      ],
+      "warning"
+    ],
+    [
+      2.45,
+      3.27,
+      [
+        "el mejor",
+        "CALIDAD / PRECIO"
+      ],
+      "CALIDAD / PRECIO",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "normal"
+    ],
+    [
+      3.27,
+      4.1,
+      [
+        "NOS PASÓ",
+        "A TODOS"
+      ],
+      "A TODOS",
+      [
+        255,
+        255,
+        250,
+        255
+      ],
+      "normal"
+    ],
+    [
+      4.1,
+      5.08,
+      [
+        "EN ESTE VIDEO"
+      ],
+      "EN ESTE VIDEO",
+      [
+        255,
+        255,
+        250,
+        255
+      ],
+      "normal"
+    ],
+    [
+      5.08,
+      7.55,
+      [
+        "3 OPCIONES",
+        "PARA ESTE AÑO"
+      ],
+      "3 OPCIONES",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "hero"
+    ],
+    [
+      7.55,
+      9.43,
+      [
+        "PRESUPUESTO",
+        "HASTA USD 400"
+      ],
+      "HASTA USD 400",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "hero"
+    ],
+    [
+      9.43,
+      11.18,
+      [
+        "LA MEJOR OPCIÓN",
+        "IPHONE 13"
+      ],
+      "IPHONE 13",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "hero"
+    ],
+    [
+      11.18,
+      12.57,
+      [
+        "un verdadero",
+        "CABALLITO DE BATALLA"
+      ],
+      "CABALLITO DE BATALLA",
+      [
+        255,
+        255,
+        250,
+        255
+      ],
+      "normal"
+    ],
+    [
+      12.57,
+      14.58,
+      [
+        "un poquito más",
+        "DE PRESUPUESTO"
+      ],
+      "DE PRESUPUESTO",
+      [
+        255,
+        255,
+        250,
+        255
+      ],
+      "normal"
+    ],
+    [
+      14.58,
+      17.88,
+      [
+        "ENTRE",
+        "USD 520 — 560"
+      ],
+      "USD 520 — 560",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "hero"
+    ],
+    [
+      17.88,
+      19.42,
+      [
+        "TE RECOMENDAMOS",
+        "IPHONE 14 PRO"
+      ],
+      "IPHONE 14 PRO",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "hero"
+    ],
+    [
+      19.42,
+      21.82,
+      [
+        "lo mejor",
+        "CALIDAD / PRECIO"
+      ],
+      "CALIDAD / PRECIO",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "normal"
+    ],
+    [
+      21.82,
+      23.95,
+      [
+        "junto al",
+        "IPHONE 15 PRO"
+      ],
+      "IPHONE 15 PRO",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "hero"
+    ],
+    [
+      23.95,
+      25.52,
+      [
+        "DESDE",
+        "USD 630"
+      ],
+      "USD 630",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "hero"
+    ],
+    [
+      25.52,
+      26.82,
+      [
+        "¿QUERÉS LLEVARTE",
+        "UNO DE ESTOS EQUIPOS?"
+      ],
+      "UNO DE ESTOS EQUIPOS?",
+      [
+        255,
+        255,
+        250,
+        255
+      ],
+      "normal"
+    ],
+    [
+      26.82,
+      28.0,
+      [
+        "la mejor",
+        "CALIDAD Y PRECIO"
+      ],
+      "CALIDAD Y PRECIO",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "normal"
+    ],
+    [
+      28.0,
+      29.58,
+      [
+        "DE LA CIUDAD"
+      ],
+      "DE LA CIUDAD",
+      [
+        255,
+        255,
+        250,
+        255
+      ],
+      "normal"
+    ],
+    [
+      29.58,
+      31.4,
+      [
+        "60 DÍAS",
+        "DE GARANTÍA"
+      ],
+      "60 DÍAS",
+      [
+        71,
+        235,
+        143,
+        255
+      ],
+      "guarantee"
+    ],
+    [
+      31.4,
+      32.65,
+      [
+        "ACCESORIOS",
+        "DE REGALO"
+      ],
+      "DE REGALO",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "gift"
+    ],
+    [
+      32.65,
+      33.85,
+      [
+        "MANDANOS",
+        "UN MENSAJE"
+      ],
+      "UN MENSAJE",
+      [
+        255,
+        224,
+        90,
+        255
+      ],
+      "cta"
+    ],
+    [
+      33.85,
+      35.016667,
+      [
+        "TE",
+        "ASESORAMOS"
+      ],
+      "ASESORAMOS",
+      [
+        255,
+        255,
+        250,
+        255
+      ],
+      "cta"
+    ]
+  ],
+  "encuadres": [
+    [
+      0,
+      1.32,
+      1
+    ],
+    [
+      1.32,
+      4.1,
+      1.075
+    ],
+    [
+      4.1,
+      5.08,
+      1
+    ],
+    [
+      5.08,
+      7.55,
+      1.075
+    ],
+    [
+      7.55,
+      12.57,
+      1
+    ],
+    [
+      12.57,
+      14.58,
+      1.075
+    ],
+    [
+      14.58,
+      25.52,
+      1
+    ],
+    [
+      25.52,
+      29.58,
+      1.075
+    ],
+    [
+      29.58,
+      32.65,
+      1
+    ],
+    [
+      32.65,
+      35.016667,
+      1.075
+    ]
+  ],
+  "efectos": [],
+  "timings": "Estimación de alineación a partir de transcripciones por segmentos y frames; no son timestamps exactos de palabras.",
+  "referencia": "referencia-principal-iphone-05.mp4",
+  "audio": "Voz con EQ/compresión moderadas, música132BPM y FX variados +2dB; sin WPE ni cambio de velocidad o tono.",
+  "nota": "Sin descuento añadido; no trasladar automáticamente ofertaUSD30 de otro anuncio."
+}

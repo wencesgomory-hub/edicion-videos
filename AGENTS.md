@@ -71,3 +71,5 @@ iphone-04 V5: retirar ambas aclaraciones visibles, «Sobre los precios que te mu
 iphone-04 V6: usuario pide acortar un poco más el cartel inicial, con corte al mencionar370dólares. Promo reducida de1.7 a1.4s (estimación de alineación); oferta TU PRIMER IPHONE / CON SOLO USD370 entra1.4s. No recortar ni acelerar voz ni modificar resto.
 
 iphone-04 V7: usuario pide subir un poquito los efectos. Aumentar solo stem FX +2dB, voz y música idénticas antes del limitador de seguridad0.82 existente; imagen V6 copiada sin recodificación.
+
+iphone-05 V1: fuente D4C459C6-A3C2-4BF0-94BE-C47B1EF21D57.MP4, referencia principal nueva referencia-principal-iphone-05.mp4 (44.2s576x1024/30fps). Adaptar tipografía compacta blanca con énfasis amarillo, jerarquías, luces breves, cambios leves de encuadre y FX variados al guion de tres presupuestos. Voz natural1x con EQ/compresión moderadas sin WPE. Mantener carácter musical/FX de iphone04V7. Fuente completa35.0167s; precios/presupuestos400,520–560 y desde630 según ASR de frases completas; garantía60días y accesorios. No trasladar descuentoUSD30 sin petición. V1 pendiente de revisión del usuario.
