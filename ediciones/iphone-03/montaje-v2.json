@@ -1,0 +1,152 @@
+{
+  "duration": 13.433333333333334,
+  "hook_end": 2.7,
+  "cut_removed": [
+    2.7,
+    3.7666666666666666
+  ],
+  "speed": 1,
+  "captions": [
+    [
+      0.12,
+      0.58,
+      "BASTA",
+      "BASTA"
+    ],
+    [
+      0.58,
+      1.65,
+      "¿hasta\nCUÁNDO?",
+      "CUÁNDO?"
+    ],
+    [
+      1.65,
+      2.7,
+      "cambiar tu\nIPHONE",
+      "IPHONE"
+    ],
+    [
+      2.7,
+      3.75,
+      "con\nNOSOTROS",
+      "NOSOTROS"
+    ],
+    [
+      3.75,
+      4.800000000000001,
+      "con las\nEXCUSAS",
+      "EXCUSAS"
+    ],
+    [
+      4.800000000000001,
+      6.08,
+      "los mejores\nPRECIOS",
+      "PRECIOS"
+    ],
+    [
+      6.08,
+      7.0200000000000005,
+      "la mejor\nCALIDAD",
+      "CALIDAD"
+    ],
+    [
+      7.0200000000000005,
+      7.75,
+      "GARANTÍA",
+      "GARANTÍA"
+    ],
+    [
+      7.75,
+      8.8,
+      "accesorios de\nREGALO",
+      "REGALO"
+    ],
+    [
+      8.8,
+      10.0,
+      "¿qué más\nPODÉS PEDIR?",
+      "PODÉS PEDIR?"
+    ],
+    [
+      10.0,
+      10.82,
+      "no esperes\nMÁS",
+      "MÁS"
+    ],
+    [
+      10.82,
+      11.95,
+      "mandanos un\nMENSAJE",
+      "MENSAJE"
+    ],
+    [
+      11.95,
+      13.433333333333334,
+      "tu próximo\nEQUIPO",
+      "EQUIPO"
+    ]
+  ],
+  "effects": [
+    [
+      0.12,
+      "thud",
+      0.5
+    ],
+    [
+      1.65,
+      "snap",
+      0.36
+    ],
+    [
+      2.7,
+      "thud",
+      0.48
+    ],
+    [
+      3.75,
+      "snap",
+      0.39
+    ],
+    [
+      4.800000000000001,
+      "wood",
+      0.48
+    ],
+    [
+      6.08,
+      "snap",
+      0.44
+    ],
+    [
+      7.0200000000000005,
+      "thud",
+      0.48
+    ],
+    [
+      7.75,
+      "bubble",
+      0.44
+    ],
+    [
+      8.8,
+      "snap",
+      0.35
+    ],
+    [
+      10.0,
+      "thud",
+      0.43
+    ],
+    [
+      10.82,
+      "snap",
+      0.47
+    ]
+  ],
+  "style": "Tipografía animada blanca/amarilla original V11, por palabra. Sin fotos, sin accesorios ilustrados, sin carteles cian/rojo de V1.",
+  "source_clips": [
+    "IMG_0391",
+    "IMG_0378 editor 2",
+    "IMG_0381 3 espera"
+  ]
+}
