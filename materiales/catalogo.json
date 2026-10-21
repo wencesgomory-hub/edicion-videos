@@ -659,7 +659,7 @@
         "seminuevos-mdp-01",
         "iphone-03"
       ],
-      "ultima_version": "v3",
+      "ultima_version": "v4",
       "sha256": "70b5a29e615d175bdf4a41badc55ba4baa4c02a6c479c23ceb7d8a1529d31e37",
       "ultimo_uso_confirmado": "iphone-03"
     },
@@ -673,7 +673,7 @@
         "seminuevos-mdp-01",
         "iphone-03"
       ],
-      "ultima_version": "v3",
+      "ultima_version": "v4",
       "sha256": "15a47e70559fcf297ad67ed27e7e87e029526205141ce1ad23127157b351cff7",
       "ultimo_uso_confirmado": "iphone-03"
     },
@@ -687,7 +687,7 @@
       "usado_en": [
         "iphone-03"
       ],
-      "ultima_version": "v3",
+      "ultima_version": "v4",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -700,7 +700,7 @@
       "usado_en": [
         "iphone-03"
       ],
-      "ultima_version": "v3",
+      "ultima_version": "v4",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -713,8 +713,23 @@
       "usado_en": [
         "iphone-03"
       ],
-      "ultima_version": "v3",
+      "ultima_version": "v4",
       "estado_rotacion": "ya_usado"
+    },
+    {
+      "id": "referencia-2026-10-21",
+      "archivo": "materiales/referencias/referencia-2026-10-21.mp4",
+      "categoria": "referencia_edicion_usuario",
+      "origen": "Adjunto enviado tras enlace Instagram bloqueado, 21/10/2026",
+      "duracion_verificada": 12.516667,
+      "resolucion": [
+        464,
+        832
+      ],
+      "fps_nominal": 60,
+      "sha256": "b8403be4826995961ad712380a92be6afb8970c7e292592e634651ac92153345",
+      "uso": "Referencia visual de iphone-03 V4. No se insertaron sus imágenes ni su voz en el anuncio.",
+      "ultima_version": "v4"
     }
   ]
 }
