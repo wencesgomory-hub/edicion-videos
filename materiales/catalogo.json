@@ -774,6 +774,23 @@
         "iphone-03"
       ],
       "ultima_version": "miniatura-encuadrada"
+    },
+    {
+      "id": "iphone-04-fuente",
+      "archivo": "86F3673D-C971-40E3-ACC4-CF51DB8EE3E4.MP4",
+      "categoria": "video_original_usuario",
+      "origen": "Subido por usuario a GitHub, commit efc23a0 NUEVO VIDEO, verificado21/10/2026.",
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "duracion": 29.3,
+      "fps": 60,
+      "sha256": "0d84c4c24d564ff7af4ac65ec621ca2ceda01c06cadcb5f28ae3dc71b67b1914",
+      "usado_en": [
+        "iphone-04"
+      ],
+      "ultima_version": "v1"
     }
   ]
 }

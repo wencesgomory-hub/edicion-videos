@@ -1,0 +1,215 @@
+[
+  {
+    "start": 2.8,
+    "end": 5.7,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "iPhone 13 $ 370",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " iPhone",
+        " 13",
+        " $",
+        " 3",
+        "70"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        2.56
+      ],
+      "segment_texts": [
+        " iPhone 13 $ 370"
+      ]
+    }
+  },
+  {
+    "start": 5.7,
+    "end": 9.5,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "iPhone 14 Pro 550 dólares.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " iPhone",
+        " 14",
+        " Pro",
+        " 550",
+        " dólares",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        5.0
+      ],
+      "segment_texts": [
+        " iPhone 14 Pro 550 dólares."
+      ]
+    }
+  },
+  {
+    "start": 9.9,
+    "end": 13.5,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "iPhone 15 Pro 650 dólares.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " iPhone",
+        " 15",
+        " Pro",
+        " 650",
+        " dólares",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        3.0
+      ],
+      "segment_texts": [
+        " iPhone 15 Pro 650 dólares."
+      ]
+    }
+  },
+  {
+    "start": 13.3,
+    "end": 16.8,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "iPhone 15 Pro Max $ 760",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " iPhone",
+        " 15",
+        " Pro",
+        " Max",
+        " $",
+        " 7",
+        "60"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        3.12
+      ],
+      "segment_texts": [
+        " iPhone 15 Pro Max $ 760"
+      ]
+    }
+  },
+  {
+    "start": 16.85,
+    "end": 20.2,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "iPhone 16 Pro 800 dólares",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " iPhone",
+        " 16",
+        " Pro",
+        " 800",
+        " dólares"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        3.0
+      ],
+      "segment_texts": [
+        " iPhone 16 Pro 800 dólares"
+      ]
+    }
+  },
+  {
+    "start": 23.8,
+    "end": 29.3,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "para anar su mensajito y ya de lo iPhone con 60 ya garantía y accesorios de regal. ¿Qué más la esperando?",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " para",
+        " an",
+        "ar",
+        " su",
+        " mens",
+        "aj",
+        "ito",
+        " y",
+        " ya",
+        " de",
+        " lo",
+        " iPhone",
+        " con",
+        " 60",
+        " ya",
+        " garant",
+        "ía",
+        " y",
+        " acces",
+        "or",
+        "ios",
+        " de",
+        " reg",
+        "al",
+        ".",
+        " ¿",
+        "Qué",
+        " más",
+        " la",
+        " esperando",
+        "?"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        4.2
+      ],
+      "segment_durations": [
+        4.2,
+        3.0
+      ],
+      "segment_texts": [
+        " para anar su mensajito y ya de lo iPhone con 60 ya garantía y accesorios de regal.",
+        " ¿Qué más la esperando?"
+      ]
+    }
+  }
+]

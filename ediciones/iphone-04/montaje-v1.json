@@ -1,0 +1,201 @@
+{
+  "duracion": 29.3,
+  "velocidad": 1,
+  "recortes_nuevos": false,
+  "precios": [
+    [
+      3.24,
+      5.52,
+      "13",
+      370
+    ],
+    [
+      5.72,
+      9.63,
+      "14 PRO",
+      550
+    ],
+    [
+      10.02,
+      13.28,
+      "15 PRO",
+      650
+    ],
+    [
+      13.35,
+      16.78,
+      "15 PRO MAX",
+      760
+    ],
+    [
+      16.96,
+      20.12,
+      "16 PRO",
+      800
+    ]
+  ],
+  "captions": [
+    [
+      20.25,
+      21.55,
+      [
+        "MAR DEL PLATA",
+        "Y ALREDEDORES"
+      ],
+      "MAR DEL PLATA",
+      [
+        255,
+        255,
+        250,
+        255
+      ]
+    ],
+    [
+      21.55,
+      22.45,
+      [
+        "aprovechá",
+        "CALIDAD"
+      ],
+      "CALIDAD",
+      [
+        255,
+        224,
+        90,
+        255
+      ]
+    ],
+    [
+      22.45,
+      23.55,
+      [
+        "y",
+        "PRECIO"
+      ],
+      "PRECIO",
+      [
+        255,
+        224,
+        90,
+        255
+      ]
+    ],
+    [
+      23.68,
+      24.82,
+      [
+        "mandanos",
+        "un MENSAJE"
+      ],
+      "MENSAJE",
+      [
+        255,
+        224,
+        90,
+        255
+      ]
+    ],
+    [
+      26.7,
+      27.68,
+      [
+        "accesorios de",
+        "REGALO"
+      ],
+      "REGALO",
+      [
+        227,
+        30,
+        41,
+        255
+      ]
+    ],
+    [
+      27.78,
+      29.3,
+      [
+        "¿qué más estás",
+        "ESPERANDO?"
+      ],
+      "ESPERANDO?",
+      [
+        227,
+        30,
+        41,
+        255
+      ]
+    ]
+  ],
+  "garantia": [
+    25.02,
+    26.61,
+    "60 DÍAS DE GARANTÍA"
+  ],
+  "voz": "Fuente original; EQ y compresión moderadas, sin WPE ni cambios de tono/velocidad",
+  "musica": "Arreglo132BPM aprobado extendido musicalmente a29.3s, nivel -31dBRMS antes de ducking",
+  "efectos": [
+    [
+      3.24,
+      "thud",
+      0.4
+    ],
+    [
+      5.72,
+      "bubble",
+      0.43
+    ],
+    [
+      10.02,
+      "snap",
+      0.4
+    ],
+    [
+      13.35,
+      "wood",
+      0.42
+    ],
+    [
+      16.96,
+      "bubble",
+      0.41
+    ],
+    [
+      20.25,
+      "snap",
+      0.35
+    ],
+    [
+      23.68,
+      "bubble",
+      0.43
+    ],
+    [
+      25.02,
+      "thud",
+      0.43
+    ],
+    [
+      26.7,
+      "bubble",
+      0.45
+    ],
+    [
+      26.96,
+      "snap",
+      0.4
+    ],
+    [
+      27.18,
+      "wood",
+      0.38
+    ],
+    [
+      27.78,
+      "thud",
+      0.4
+    ]
+  ],
+  "fuente": "86F3673D-C971-40E3-ACC4-CF51DB8EE3E4.MP4",
+  "timings": "Estimación de alineación de texto a frases, basada en ASR segmentado y frames; precios re-transcritos por fragmento completo.",
+  "nota": "No imágenes externas ni condiciones comerciales adicionales."
+}
