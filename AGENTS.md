@@ -69,3 +69,5 @@ iphone-04 V4: usuario pide ordenar promoción y oferta, con video inicial como a
 iphone-04 V5: retirar ambas aclaraciones visibles, «Sobre los precios que te muestro» y «PRECIO ANTES DEL DESCUENTO». Usuario corrigió duración inicial de1s a1.7s: promo0–1.7s, luego TU PRIMER IPHONE / CON SOLO USD370 hasta3.18s. Conservar audio, precios, cierre y resto de V4.
 
 iphone-04 V6: usuario pide acortar un poco más el cartel inicial, con corte al mencionar370dólares. Promo reducida de1.7 a1.4s (estimación de alineación); oferta TU PRIMER IPHONE / CON SOLO USD370 entra1.4s. No recortar ni acelerar voz ni modificar resto.
+
+iphone-04 V7: usuario pide subir un poquito los efectos. Aumentar solo stem FX +2dB, voz y música idénticas antes del limitador de seguridad0.82 existente; imagen V6 copiada sin recodificación.
