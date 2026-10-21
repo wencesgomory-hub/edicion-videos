@@ -673,7 +673,7 @@
         "seminuevos-mdp-01",
         "iphone-03"
       ],
-      "ultima_version": "final",
+      "ultima_version": "cierre",
       "sha256": "15a47e70559fcf297ad67ed27e7e87e029526205141ce1ad23127157b351cff7",
       "ultimo_uso_confirmado": "iphone-03"
     },
@@ -687,7 +687,7 @@
       "usado_en": [
         "iphone-03"
       ],
-      "ultima_version": "final",
+      "ultima_version": "cierre",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -700,7 +700,7 @@
       "usado_en": [
         "iphone-03"
       ],
-      "ultima_version": "final",
+      "ultima_version": "cierre",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -713,7 +713,7 @@
       "usado_en": [
         "iphone-03"
       ],
-      "ultima_version": "final",
+      "ultima_version": "cierre",
       "estado_rotacion": "ya_usado"
     },
     {
@@ -730,6 +730,18 @@
       "sha256": "b8403be4826995961ad712380a92be6afb8970c7e292592e634651ac92153345",
       "uso": "Referencia visual de iphone-03 V4. No se insertaron sus imágenes ni su voz en el anuncio.",
       "ultima_version": "v4"
+    },
+    {
+      "id": "base-iphone03-132bpm",
+      "archivo": "materiales/audio/base-iphone03-132bpm.wav",
+      "categoria": "musica_generada",
+      "descripcion": "Base instrumental132BPM de cierre: bombo4/4, bajo sincopado, caja y stabs suaves.",
+      "origen": "Compuesta para solicitud de fondo más contundente; no obtenida de la referencia ni de una biblioteca externa.",
+      "sha256": "0868d673f6e1ff11db94a3d6dafa88211d9f2b611d0a85aba5de753af0c18b04",
+      "usado_en": [
+        "iphone-03"
+      ],
+      "ultima_version": "cierre"
     }
   ]
 }
