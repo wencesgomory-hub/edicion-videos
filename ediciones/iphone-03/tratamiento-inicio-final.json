@@ -1,0 +1,6 @@
+{
+  "inicio_voz": "Primer segundo reconstruido de fuente cruda con filtro 95–6000Hz, sin WPE ni reducción espectral; cruce a voz aprobada 0.8–1.0s.",
+  "efecto": "Impacto tonal corto de 0.18s desde0.10s, con armónicos para audibilidad en teléfono, sin ruido/campana/cola de tensión.",
+  "musica": "Pista anterior sola a nivel bajo; entrada suave0.30–0.65s.",
+  "resto": "Voz desde1s y efectos desde0.65s preservados."
+}
