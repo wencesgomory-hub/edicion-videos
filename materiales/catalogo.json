@@ -742,6 +742,22 @@
         "iphone-03"
       ],
       "ultima_version": "cierre"
+    },
+    {
+      "id": "miniatura-iphone-03",
+      "archivo": "materiales/miniaturas/iphone-03.jpg",
+      "categoria": "miniatura_diseno",
+      "origen": "Diseño generado a partir de frame IMG_0391, a1.15s, y referencia visual roja/amarilla adjunta por usuario.",
+      "descripcion": "Foto del presentador con camiseta Levi’s, composición vertical y texto completo de gancho en pinceladas rojas/amarillas; adaptación generativa del frame, no fotograma sin modificaciones.",
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "sha256": "9d234ae65f70b4005f931e5b887e99344fb9a1492b3fdab909363df0040ce692",
+      "usado_en": [
+        "iphone-03"
+      ],
+      "ultima_version": "miniatura-final"
     }
   ]
 }
