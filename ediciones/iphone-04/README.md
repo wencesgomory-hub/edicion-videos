@@ -9,3 +9,5 @@ Edición: números y modelos con Montserrat y jerarquía clara, sin placas opaca
 Audio final medido: -15.5LUFS y -1.6dBTP, sin afirmar escucha directa. Los tiempos de textos son estimaciones alineadas mediante ASR y frames. V1 pendiente de valoración del usuario.
 
 iphone-04 V5: retirar ambas aclaraciones visibles, «Sobre los precios que te muestro» y «PRECIO ANTES DEL DESCUENTO». Usuario corrigió duración inicial de1s a1.7s: promo0–1.7s, luego TU PRIMER IPHONE / CON SOLO USD370 hasta3.18s. Conservar audio, precios, cierre y resto de V4.
+
+iphone-04 V6: usuario pide acortar un poco más el cartel inicial, con corte al mencionar370dólares. Promo reducida de1.7 a1.4s (estimación de alineación); oferta TU PRIMER IPHONE / CON SOLO USD370 entra1.4s. No recortar ni acelerar voz ni modificar resto.

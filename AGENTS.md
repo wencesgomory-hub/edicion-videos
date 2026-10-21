@@ -67,3 +67,5 @@ iphone-04 V3: usuario autoriza probar promo propuesta USD30 de descuento por ver
 iphone-04 V4: usuario pide ordenar promoción y oferta, con video inicial como antes pero sin texto Sabés que. Se recupera fuente completa29.3s y mezcla previa al corte, mostrando promo0–1.6s en lugar de Sabés que, luego TU PRIMER IPHONE / CON SOLO USD370 desde1.6–3.18s; aclaración sobre precios permanece todo el intro. Cierre27.4–29.3s ENVIANOS «VIDEO» / Y LLEVATE USD30 / DE DESCUENTO. Regalo permanece hasta27.3s para dar paso al CTA; voz/música/FX y demás bloques conservados. Precios de lista antes del descuento siguen aclarados.
 
 iphone-04 V5: retirar ambas aclaraciones visibles, «Sobre los precios que te muestro» y «PRECIO ANTES DEL DESCUENTO». Usuario corrigió duración inicial de1s a1.7s: promo0–1.7s, luego TU PRIMER IPHONE / CON SOLO USD370 hasta3.18s. Conservar audio, precios, cierre y resto de V4.
+
+iphone-04 V6: usuario pide acortar un poco más el cartel inicial, con corte al mencionar370dólares. Promo reducida de1.7 a1.4s (estimación de alineación); oferta TU PRIMER IPHONE / CON SOLO USD370 entra1.4s. No recortar ni acelerar voz ni modificar resto.
