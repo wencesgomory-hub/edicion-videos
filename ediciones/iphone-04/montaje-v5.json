@@ -1,0 +1,134 @@
+{
+  "duracion": 29.3,
+  "velocidad": 1,
+  "recorte_inicial": 0.0,
+  "resto_conservado": true,
+  "precios_antes_descuento": [
+    [
+      3.24,
+      5.52,
+      "13",
+      370
+    ],
+    [
+      5.72,
+      9.63,
+      "14 PRO",
+      550
+    ],
+    [
+      10.02,
+      13.28,
+      "15 PRO",
+      650
+    ],
+    [
+      13.35,
+      16.78,
+      "15 PRO MAX",
+      760
+    ],
+    [
+      16.96,
+      20.12,
+      "16 PRO",
+      800
+    ]
+  ],
+  "descuento_usd": 30,
+  "precios_con_descuento": {
+    "13": 340,
+    "14 PRO": 520,
+    "15 PRO": 620,
+    "15 PRO MAX": 730,
+    "16 PRO": 770
+  },
+  "captions": [
+    [
+      20.25,
+      21.55,
+      [
+        "MAR DEL PLATA",
+        "Y ALREDEDORES"
+      ],
+      "MAR DEL PLATA",
+      [
+        255,
+        255,
+        250,
+        255
+      ]
+    ],
+    [
+      21.55,
+      22.45,
+      [
+        "aprovechá",
+        "CALIDAD"
+      ],
+      "CALIDAD",
+      [
+        255,
+        224,
+        90,
+        255
+      ]
+    ],
+    [
+      22.45,
+      23.55,
+      [
+        "y",
+        "PRECIO"
+      ],
+      "PRECIO",
+      [
+        255,
+        224,
+        90,
+        255
+      ]
+    ],
+    [
+      23.68,
+      24.82,
+      [
+        "mandanos",
+        "un MENSAJE"
+      ],
+      "MENSAJE",
+      [
+        255,
+        224,
+        90,
+        255
+      ]
+    ],
+    [
+      26.7,
+      27.3,
+      [
+        "accesorios de",
+        "REGALO"
+      ],
+      "REGALO",
+      [
+        227,
+        30,
+        41,
+        255
+      ]
+    ]
+  ],
+  "garantia": [
+    25.02,
+    26.61,
+    "60 DÍAS DE GARANTÍA"
+  ],
+  "voz": "Fuente original; EQ y compresión moderadas, sin WPE ni cambios de tono/velocidad",
+  "musica": "Arreglo132BPM aprobado extendido musicalmente a29.3s, nivel -31dBRMS antes de ducking",
+  "efectos": "Mezcla aprobada V2 preservada sin cambios",
+  "fuente": "86F3673D-C971-40E3-ACC4-CF51DB8EE3E4.MP4",
+  "timings": "Estimación de alineación de texto a frases, basada en ASR segmentado y frames; precios re-transcritos por fragmento completo.",
+  "nota": "Promo inicial0–1.70s, después TU PRIMER IPHONE / CON SOLO USD370,1.70–3.18s. Retiradas ambas aclaraciones a petición explícita del usuario: Sobre los precios que te muestro y PRECIO ANTES DEL DESCUENTO. Cierre y resto preservados."
+}

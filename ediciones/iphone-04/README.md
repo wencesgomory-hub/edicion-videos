@@ -7,3 +7,5 @@ Contenido: iPhone13 USD370;14Pro550;15Pro650;15ProMax760;16Pro800. Comprobación
 Edición: números y modelos con Montserrat y jerarquía clara, sin placas opacas ni imágenes externas; luz neutra breve, acentos variados por cambio de producto, garantía verde y regalo rojo con checks. Arreglo132BPM del anuncio anterior extendido por compases completos, nivel controlado y ducking para voz. Voz de la fuente con EQ/compresión moderadas, sin WPE ni reducción espectral para evitar artefactos discutidos antes.
 
 Audio final medido: -15.5LUFS y -1.6dBTP, sin afirmar escucha directa. Los tiempos de textos son estimaciones alineadas mediante ASR y frames. V1 pendiente de valoración del usuario.
+
+iphone-04 V5: retirar ambas aclaraciones visibles, «Sobre los precios que te muestro» y «PRECIO ANTES DEL DESCUENTO». Usuario corrigió duración inicial de1s a1.7s: promo0–1.7s, luego TU PRIMER IPHONE / CON SOLO USD370 hasta3.18s. Conservar audio, precios, cierre y resto de V4.
