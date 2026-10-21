@@ -1,0 +1,7 @@
+{
+  "efecto": "Golpe seco + cuerpo grave corto, sin ding, sin tensión estirada ni barrido sonoro inicial",
+  "inicio": 0.15,
+  "duracion": 0.14,
+  "voz_y_musica": "Componentes V10 idénticos, música conserva reducción del 10%",
+  "resto_efectos_sin_cambio_desde": 0.5
+}
