@@ -758,6 +758,22 @@
         "iphone-03"
       ],
       "ultima_version": "miniatura-final"
+    },
+    {
+      "id": "miniatura-iphone-03-encuadrada",
+      "archivo": "materiales/miniaturas/iphone-03-encuadrada.jpg",
+      "categoria": "miniatura_diseno",
+      "origen": "Revisión de miniatura previa mediante edición generativa a petición del usuario.",
+      "descripcion": "Mismo diseño rojo/amarillo con bloque de texto reducido, centrado y desplazado hacia arriba, con mayor margen lateral e inferior.",
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "sha256": "e5c0bb42289e320c975b07c5c84da5c78417a965ccbea2239f54b9008eca8c3a",
+      "usado_en": [
+        "iphone-03"
+      ],
+      "ultima_version": "miniatura-encuadrada"
     }
   ]
 }
