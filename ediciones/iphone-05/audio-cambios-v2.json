@@ -1,0 +1,64 @@
+{
+  "voz_inicial_db": 3,
+  "rampa_voz_s": [
+    3.4,
+    4.1
+  ],
+  "musica_intro_db": -2,
+  "musica_resto": "igual V1",
+  "efectos_db": 1,
+  "eventos": [
+    [
+      2.45,
+      "thud",
+      0.44
+    ],
+    [
+      5.08,
+      "bubble",
+      0.39
+    ],
+    [
+      5.28,
+      "wood",
+      0.28
+    ],
+    [
+      27.45,
+      "wood",
+      0.38
+    ],
+    [
+      30.7,
+      "snap",
+      0.4
+    ],
+    [
+      31.3,
+      "thud",
+      0.56
+    ],
+    [
+      32.18,
+      "bubble",
+      0.54
+    ],
+    [
+      32.62,
+      "wood",
+      0.39
+    ],
+    [
+      33.25,
+      "snap",
+      0.55
+    ],
+    [
+      34.3,
+      "bubble",
+      0.43
+    ]
+  ],
+  "cierre": "FX previos desde25.4s retirados y sustituidos por entradas realineadas",
+  "velocidad": 1
+}
