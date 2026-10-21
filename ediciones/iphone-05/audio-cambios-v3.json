@@ -1,0 +1,25 @@
+{
+  "voz_global_db_sobre_v1": 3.5,
+  "voz_gancho_db_sobre_v1": 5,
+  "efectos_db_sobre_v2": 3,
+  "musica": "Stem aprobado V11 a -26.5dB RMS antes de ducking, refuerzo grave142BPM, sustituye base132BPM rechazada",
+  "eventos": [
+    [
+      0.08,
+      "thud",
+      0.55
+    ],
+    [
+      0.4,
+      "bubble",
+      0.48
+    ],
+    [
+      0.8,
+      "wood",
+      0.34
+    ]
+  ],
+  "cierre": "sincronía V2 conservada",
+  "velocidad": 1
+}
