@@ -1,0 +1,8 @@
+{
+  "fuente": "Audios originales sin el tratamiento espectral de V1/V2",
+  "dereverberacion": "WPE mono, 12 taps, delay 3, 3 iterations, mezcla 65% WPE +35% original",
+  "ecualizacion": "HP75, -2.5 dB350Hz, -1.3 dB950Hz, +1.4dB3400Hz",
+  "compresion": "2:1 ataque14ms release110ms",
+  "sin_cambios_de_tono_o_velocidad": true,
+  "nota": "Reducción de reverberación estimada por modelo; no equivale a una grabación real con micrófono DJI."
+}
