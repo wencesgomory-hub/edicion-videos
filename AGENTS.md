@@ -89,3 +89,7 @@ iphone-06 e iphone-07: usuario envió dos archivos y confirmó DOS ANUNCIOS SEPA
 iphone-06 V2: Usuario pide un gancho más sorprendente para LLEGÓ LA HORA. Conservar tipografía y resto; dividir LLEGÓ LA HORA / DE TU NUEVO / IPHONE, destacar IPHONE164px, dos ticks de reloj cortos0.025y0.25s sobre golpe y luz existentes. Voz y música exactas de V1; resto intacto.
 
 iphone-07 V2: Usuario aprueba gancho rojo pero pide contexto: ¿MIEDO A QUE / TE ESTAFEN / COMPRANDO UN IPHONE? Mantener TE ESTAFEN rojo, tercera línea blanca68px, subrayado bajado1330px. Mezcla completa V1 copiada exacta; resto intacto.
+
+iphone-06 V3: Usuario rechaza CALIDAD EN TU CIUDAD: queda solo CALIDAD. Gancho de dos líneas doradas situado1250/1400px para dejar completamente visible el reloj y el gesto, sin letras blancas encima. Mezcla V2 copiada exacta con sus ticks; resto intacto.
+
+iphone-07 V3: Usuario aprueba ganchoV2 pero pide escritura y actividad: líneas se revelan0.1–1.92s; badge azul de tienda con MARKETPLACE aparece3s al mencionarlo, pulso rojo breve3.65s y clicks suaves por línea. No se identifica como logo oficial, es símbolo gráfico de tienda. Voz/música y garantías conservadas; efectos localizados añadidos.

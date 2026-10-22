@@ -9,3 +9,5 @@ Contenido: renovar iPhone, Gomory Importados, precios/calidad, seminuevos y sell
 Reproducción: python render-v1.py 1. Los tiempos de rótulos son estimaciones por ASR segmentado y fragmentos; no se afirma precisión de timestamps de palabra ni escucha directa.
 
 V2: Usuario pide un gancho más sorprendente para LLEGÓ LA HORA. Conservar tipografía y resto; dividir LLEGÓ LA HORA / DE TU NUEVO / IPHONE, destacar IPHONE164px, dos ticks de reloj cortos0.025y0.25s sobre golpe y luz existentes. Voz y música exactas de V1; resto intacto.
+
+iphone-06 V3: Usuario rechaza CALIDAD EN TU CIUDAD: queda solo CALIDAD. Gancho de dos líneas doradas situado1250/1400px para dejar completamente visible el reloj y el gesto, sin letras blancas encima. Mezcla V2 copiada exacta con sus ticks; resto intacto.

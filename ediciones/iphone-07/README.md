@@ -9,3 +9,5 @@ Contenido: miedo a estafa/Marketplace, garantía60días escrita y firmada; sella
 Reproducción: python render-v1.py 2. Los tiempos de rótulos son estimaciones por ASR segmentado y fragmentos; no se afirma precisión de timestamps de palabra ni escucha directa.
 
 V2: Usuario aprueba gancho rojo pero pide contexto: ¿MIEDO A QUE / TE ESTAFEN / COMPRANDO UN IPHONE? Mantener TE ESTAFEN rojo, tercera línea blanca68px, subrayado bajado1330px. Mezcla completa V1 copiada exacta; resto intacto.
+
+iphone-07 V3: Usuario aprueba ganchoV2 pero pide escritura y actividad: líneas se revelan0.1–1.92s; badge azul de tienda con MARKETPLACE aparece3s al mencionarlo, pulso rojo breve3.65s y clicks suaves por línea. No se identifica como logo oficial, es símbolo gráfico de tienda. Voz/música y garantías conservadas; efectos localizados añadidos.
