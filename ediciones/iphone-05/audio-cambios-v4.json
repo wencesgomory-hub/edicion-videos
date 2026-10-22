@@ -1,0 +1,12 @@
+{
+  "voz": "igual V3",
+  "musica": "igual V3",
+  "eventos": [
+    [
+      0.06,
+      "golpe tonal breve",
+      0.53
+    ]
+  ],
+  "resto_efectos": "igual V3 desde3.27s"
+}
