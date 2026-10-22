@@ -15,3 +15,5 @@ Consultar `catalogo.json` antes de editar. Incluye archivo, procedencia, resoluc
 ## Base de edición aprobada
 
 La referencia aprobada es `videos/anuncio-meta-v11.mp4`: tipografía y animación de subtítulos, balance de voz/música/efectos, color natural y edición con energía. Adaptar el montaje a cada guion y producto; no repetir automáticamente las mismas fotos, efectos o posiciones. Rojo para advertencias y verde para afirmaciones positivas cuando el mensaje lo justifique. Mantener la imagen en movimiento en el arranque; no introducir congelados por defecto. Conservar lo aprobado y limitar cada revisión a los cambios pedidos.
+
+Referencia aprobada adicional: primeros4s de `videos/anuncio-iphone-07-v4.mp4`: escritura rápida, zooms breves, cambios de color y FX claros. Mantener el lenguaje adaptándolo a cada guion.

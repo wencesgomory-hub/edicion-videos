@@ -99,3 +99,7 @@ iphone-06 V4: Usuario rechaza CALIDAD aislada: bloque unificado LOS MEJORES / PR
 iphone-07 V4: Usuario considera escritura lenta: frase completa antes0.6s, letras inician0.1/0.24/0.4s con clics correspondientes. COMPRANDO UN IPHONE sigue debajo. Marketplace en rojo con cruz roja de dos trazos sobre símbolo de tienda. Mantener voz, música, garantías y restoV3.
 
 iphone-06 V5: peticiones durante la revisiónV4: usuario sigue rechazando inicio amarillo. Sustituirlo por ¡LLEGÓ LA HORA! rojo y segunda línea blanca, ambos debajo del gesto; detalle real del reloj0.28–0.64s a1x, sin cortar voz. Cuatro ticks breves más presentes y golpe con armónicos0.1s. CierreTEASESORAMOS y subtítulo verdes, tilde/ding15.52s al terminar. Mantener precio/calidad escritos juntos y regalo rojo con🎁 deV4.
+
+iphone-06 V6: usuario autoriza explícitamente agregar60DÍAS bajo GARANTÍA y ESCRITA Y FIRMADA pequeño con✍️. Antes no se añadía duración porque no figuraba en la voz; esta instrucción nueva sí la autoriza. Apertura cambia zoom brusco1.6x por curva continua1.04→1.30→1.04 entre0.10y1.30s, centrada progresivamente en el reloj, a1x. Mezcla exactaV5 conservada.
+
+REFERENCIA APROBADA NUEVA: usuario declara que le encantan los primeros4segundos de videos/anuncio-iphone-07-v4.mp4 y pide mantener ese estilo: escritura rápida, zooms breves, color, FX presentes y sincronizados. Usar como referencia estética para siguientes anuncios, adaptando contenido sin repetir automáticamente diseños/imágenes ni cambiar lo aprobado.
