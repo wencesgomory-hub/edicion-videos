@@ -1,0 +1,22 @@
+{
+  "voz": "igual V4",
+  "musica": "Intro0–3.27s con percusión y armónicos más firmes, RMS igualado a V4; resto idéntico",
+  "eventos": [
+    [
+      0.025,
+      "barrido tonal suave",
+      0.13
+    ],
+    [
+      0.1,
+      "golpe con cuerpo",
+      0.54
+    ],
+    [
+      12.57,
+      "ting presupuesto",
+      0.25
+    ]
+  ],
+  "resto_efectos": "igual V4 desde3.27s salvo ting12.57s pedido por usuario"
+}
