@@ -833,6 +833,40 @@
         "iphone-05-v6"
       ],
       "sha256": "f32376947775548d57800994d8a14687a624a3cefef4487993f941172d850aec"
+    },
+    {
+      "id": "iphone-06-fuente",
+      "archivo": "materiales/originales/iphone-06/595476B5-ADE7-4279-A5C3-DD7A85C1C6BF.MP4",
+      "categoria": "video_original_usuario",
+      "origen": "Adjunto en conversación22/10/2026. Usuario confirmó DOS ANUNCIOS SEPARADOS.",
+      "duracion": 15.766667,
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "fps": 60,
+      "sha256": "1fd2c619ec3f081f1c757bc23f0b862644728dc51d3d469f2635810172dfacf2",
+      "usado_en": [
+        "iphone-06"
+      ],
+      "ultima_version": "v1"
+    },
+    {
+      "id": "iphone-07-fuente",
+      "archivo": "materiales/originales/iphone-07/32BA7711-88BF-4354-BC1C-F5F855A87D88.MP4",
+      "categoria": "video_original_usuario",
+      "origen": "Adjunto en conversación22/10/2026. Usuario confirmó DOS ANUNCIOS SEPARADOS.",
+      "duracion": 18.5,
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "fps": 60,
+      "sha256": "0b781062d0c9443aae953ac704da814c01fcf8738fadd01d502e68e017dc5f29",
+      "usado_en": [
+        "iphone-07"
+      ],
+      "ultima_version": "v1"
     }
   ]
 }

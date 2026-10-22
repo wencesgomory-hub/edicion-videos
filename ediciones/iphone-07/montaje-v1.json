@@ -1,0 +1,189 @@
+{
+  "fuente": "materiales/originales/iphone-07/32BA7711-88BF-4354-BC1C-F5F855A87D88.MP4",
+  "duracion": 18.5,
+  "velocidad": 1,
+  "gancho": [
+    "¿MIEDO A QUE",
+    "TE ESTAFEN?"
+  ],
+  "bloques": [
+    [
+      4.85,
+      6.1,
+      [
+        "ACÁ TENÉS",
+        "GARANTÍA"
+      ],
+      "GARANTÍA",
+      "green",
+      "normal"
+    ],
+    [
+      6.1,
+      6.95,
+      [
+        "60 DÍAS",
+        "DE GARANTÍA"
+      ],
+      "60 DÍAS",
+      "green",
+      "guarantee"
+    ],
+    [
+      6.95,
+      7.65,
+      [
+        "POR",
+        "ESCRITO"
+      ],
+      "ESCRITO",
+      "white",
+      "normal"
+    ],
+    [
+      7.65,
+      9.0,
+      [
+        "FIRMADA",
+        "POR AMBAS PARTES"
+      ],
+      "FIRMADA",
+      "green",
+      "normal"
+    ],
+    [
+      9.0,
+      10.2,
+      [
+        "EN LA COMPRA",
+        "DE TU EQUIPO"
+      ],
+      "DE TU EQUIPO",
+      "white",
+      "normal"
+    ],
+    [
+      10.2,
+      12.2,
+      [
+        "¿ELEGÍS UN",
+        "SELLADO?"
+      ],
+      "SELLADO?",
+      "gold",
+      "normal"
+    ],
+    [
+      12.2,
+      14.52,
+      [
+        "1 AÑO",
+        "DE GARANTÍA OFICIAL"
+      ],
+      "1 AÑO",
+      "green",
+      "guarantee"
+    ],
+    [
+      14.52,
+      15.6,
+      [
+        "¿QUÉ ESTÁS",
+        "ESPERANDO?"
+      ],
+      "ESPERANDO?",
+      "gold",
+      "cta"
+    ],
+    [
+      15.6,
+      16.95,
+      [
+        "MANDANOS",
+        "UN MENSAJE"
+      ],
+      "UN MENSAJE",
+      "gold",
+      "cta"
+    ],
+    [
+      16.95,
+      18.5,
+      [
+        "TE ASESORAMOS",
+        "EN TU PRÓXIMO IPHONE"
+      ],
+      "TE ASESORAMOS",
+      "white",
+      "cta"
+    ]
+  ],
+  "encuadres": [
+    [
+      0,
+      1.55,
+      1.04
+    ],
+    [
+      1.55,
+      4.85,
+      1.075
+    ],
+    [
+      4.85,
+      9,
+      1
+    ],
+    [
+      9,
+      10.2,
+      1.06
+    ],
+    [
+      10.2,
+      14.52,
+      1
+    ],
+    [
+      14.52,
+      18.5,
+      1.075
+    ]
+  ],
+  "efectos": [
+    [
+      4.85,
+      "thud",
+      0.57
+    ],
+    [
+      6.1,
+      "bubble",
+      0.57
+    ],
+    [
+      7.65,
+      "wood",
+      0.57
+    ],
+    [
+      10.2,
+      "snap",
+      0.57
+    ],
+    [
+      12.2,
+      "thud",
+      0.57
+    ],
+    [
+      15.6,
+      "bubble",
+      0.57
+    ]
+  ],
+  "timings": "Estimaciones de alineación mediante ASR segmentado y ventanas cortas; no timestamps exactos de palabras.",
+  "musica": "Base percusiva140BPM, segmento por compases; ducking para voz",
+  "voz": "EQ y compresión moderadas, objetivo -14.5LUFS antes de mezcla; sin pitch, atempo o WPE.",
+  "nota": "Sin precios, promociones ni duración de garantía añadidos fuera del guion."
+}
