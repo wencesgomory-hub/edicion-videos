@@ -806,7 +806,7 @@
       "usado_en": [
         "iphone-05"
       ],
-      "ultima_version": "v5-entrada-central-presupuesto-verde-ting"
+      "ultima_version": "v6-solo-musica-percusiva140"
     },
     {
       "id": "referencia-principal-iphone-05",
@@ -823,6 +823,16 @@
         "iphone-05"
       ],
       "ultima_version": "v1"
+    },
+    {
+      "id": "musica-iphone05-140-v6",
+      "archivo": "materiales/audio/base-percusiva-iphone05-140.wav",
+      "categoria": "musica_original_generada",
+      "origen": "Composición procedimental propia, batería y bajo sin muestras musicales externas. Pendiente de valoración.",
+      "usado_en": [
+        "iphone-05-v6"
+      ],
+      "sha256": "f32376947775548d57800994d8a14687a624a3cefef4487993f941172d850aec"
     }
   ]
 }
