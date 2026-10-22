@@ -85,3 +85,7 @@ iphone-05 V5 final solicitada: usuario aprueba TODA tipografía V4 y resto, pide
 iphone-05 V6: usuario rechaza solo música V5 como ascensor y aprueba TODO el resto. Sustituir únicamente fondo por composición nueva140BPM de batería quebrada, bajo sincopado y percusión seca, sin acordes lounge/teclado. RMS de música igualado a V5 después de ducking. Voz y FX exactos de V5, imagen copiada sin recodificar; NO cambiar títulos, gancho, iluminación, verde, ting ni sincronía. Pendiente de valoración musical del usuario; no afirmar escucha directa.
 
 iphone-06 e iphone-07: usuario envió dos archivos y confirmó DOS ANUNCIOS SEPARADOS.06=595476B5...15.7667s, renovación/venta general, accesorios y garantía SIN duración expresada.07=32BA7711...18.5s, miedo a estafa,60días escrita/firmada,1año oficial SOLO sellados. Base visual iphone05V5 aprobada, voz presente a1x, música percusiva140BPMV6 sin marcar aún aprobada. No trasladar precios/descuentoUSD30. Archivar originales y detalles por anuncio.
+
+iphone-06 V2: Usuario pide un gancho más sorprendente para LLEGÓ LA HORA. Conservar tipografía y resto; dividir LLEGÓ LA HORA / DE TU NUEVO / IPHONE, destacar IPHONE164px, dos ticks de reloj cortos0.025y0.25s sobre golpe y luz existentes. Voz y música exactas de V1; resto intacto.
+
+iphone-07 V2: Usuario aprueba gancho rojo pero pide contexto: ¿MIEDO A QUE / TE ESTAFEN / COMPRANDO UN IPHONE? Mantener TE ESTAFEN rojo, tercera línea blanca68px, subrayado bajado1330px. Mezcla completa V1 copiada exacta; resto intacto.

@@ -7,3 +7,5 @@ Gancho, jerarquía y tipografía Montserrat del estilo iphone05V5 aprobado; entr
 Contenido: renovar iPhone, Gomory Importados, precios/calidad, seminuevos y sellados, accesorios de regalo y garantía sin duración especificada. No añadir60días en este anuncio.
 
 Reproducción: python render-v1.py 1. Los tiempos de rótulos son estimaciones por ASR segmentado y fragmentos; no se afirma precisión de timestamps de palabra ni escucha directa.
+
+V2: Usuario pide un gancho más sorprendente para LLEGÓ LA HORA. Conservar tipografía y resto; dividir LLEGÓ LA HORA / DE TU NUEVO / IPHONE, destacar IPHONE164px, dos ticks de reloj cortos0.025y0.25s sobre golpe y luz existentes. Voz y música exactas de V1; resto intacto.

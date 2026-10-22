@@ -1,0 +1,159 @@
+{
+  "fuente": "materiales/originales/iphone-06/595476B5-ADE7-4279-A5C3-DD7A85C1C6BF.MP4",
+  "duracion": 15.766667,
+  "velocidad": 1,
+  "gancho": [
+    "LLEGÓ LA HORA",
+    "DE TU NUEVO",
+    "IPHONE"
+  ],
+  "bloques": [
+    [
+      1.72,
+      3.2,
+      [
+        "GOMORY",
+        "IMPORTADOS"
+      ],
+      "GOMORY",
+      "white",
+      "normal"
+    ],
+    [
+      3.2,
+      4.55,
+      [
+        "LOS MEJORES",
+        "PRECIOS"
+      ],
+      "PRECIOS",
+      "gold",
+      "hero"
+    ],
+    [
+      4.55,
+      6.02,
+      [
+        "CALIDAD",
+        "EN TU CIUDAD"
+      ],
+      "CALIDAD",
+      "gold",
+      "normal"
+    ],
+    [
+      6.02,
+      7.05,
+      [
+        "IPHONES",
+        "SEMINUEVOS"
+      ],
+      "SEMINUEVOS",
+      "white",
+      "normal"
+    ],
+    [
+      7.05,
+      8.12,
+      [
+        "Y TAMBIÉN",
+        "SELLADOS"
+      ],
+      "SELLADOS",
+      "gold",
+      "normal"
+    ],
+    [
+      8.12,
+      10.55,
+      [
+        "ACCESORIOS",
+        "DE REGALO"
+      ],
+      "DE REGALO",
+      "gold",
+      "gift"
+    ],
+    [
+      10.55,
+      12.22,
+      [
+        "LO MÁS IMPORTANTE",
+        "GARANTÍA"
+      ],
+      "GARANTÍA",
+      "green",
+      "guarantee"
+    ],
+    [
+      12.22,
+      13.55,
+      [
+        "MANDANOS",
+        "UN MENSAJE"
+      ],
+      "UN MENSAJE",
+      "gold",
+      "cta"
+    ],
+    [
+      13.55,
+      15.766667,
+      [
+        "TE ASESORAMOS",
+        "EN TU PRÓXIMO IPHONE"
+      ],
+      "TE ASESORAMOS",
+      "white",
+      "cta"
+    ]
+  ],
+  "encuadres": [
+    [
+      0,
+      1.72,
+      1.04
+    ],
+    [
+      1.72,
+      4.55,
+      1.075
+    ],
+    [
+      4.55,
+      6.02,
+      1
+    ],
+    [
+      6.02,
+      10.55,
+      1.04
+    ],
+    [
+      10.55,
+      12.22,
+      1
+    ],
+    [
+      12.22,
+      15.766667,
+      1.075
+    ]
+  ],
+  "efectos": [
+    [
+      0.025,
+      "tick-tock",
+      0.2
+    ],
+    [
+      0.25,
+      "tick-tock",
+      0.16
+    ]
+  ],
+  "timings": "Estimaciones de alineación mediante ASR segmentado y ventanas cortas; no timestamps exactos de palabras.",
+  "musica": "Base percusiva140BPM, segmento por compases; ducking para voz",
+  "voz": "EQ y compresión moderadas, objetivo -14.5LUFS antes de mezcla; sin pitch, atempo o WPE.",
+  "nota": "Gancho LLEGÓ LA HORA / DE TU NUEVO / IPHONE con jerarquía mayor, dos ticks discretos añadidos a entrada existente. Voz, música y resto de V1 conservados."
+}
