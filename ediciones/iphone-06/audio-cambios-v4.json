@@ -1,0 +1,51 @@
+{
+  "voz_musica": "Exactas V3 antes de mezcla",
+  "cambio": "Entrada de precios reemplazada por tecleo sincronizado a escritura; resto intacto",
+  "eventos": [
+    [
+      3.21,
+      "tecla seca",
+      0.095
+    ],
+    [
+      3.29,
+      "tecla seca",
+      0.095
+    ],
+    [
+      3.37,
+      "tecla seca",
+      0.095
+    ],
+    [
+      3.56,
+      "tecla seca",
+      0.095
+    ],
+    [
+      3.7,
+      "tecla seca",
+      0.095
+    ],
+    [
+      3.86,
+      "tecla seca",
+      0.095
+    ],
+    [
+      4.56,
+      "tecla seca",
+      0.095
+    ],
+    [
+      4.69,
+      "tecla seca",
+      0.095
+    ],
+    [
+      4.82,
+      "tecla seca",
+      0.095
+    ]
+  ]
+}

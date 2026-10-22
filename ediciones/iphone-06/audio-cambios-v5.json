@@ -1,0 +1,32 @@
+{
+  "voz_musica": "Conservadas",
+  "tecleo": "Conservado V4",
+  "cambios": "Intro tic-tac más presente y golpe con armónicos, ding final15.52s",
+  "eventos": [
+    [
+      0.025,
+      "reloj",
+      0.34
+    ],
+    [
+      0.18,
+      "reloj",
+      0.3
+    ],
+    [
+      0.33,
+      "reloj",
+      0.34
+    ],
+    [
+      0.48,
+      "reloj",
+      0.28
+    ],
+    [
+      15.52,
+      "ding tilde",
+      0.28
+    ]
+  ]
+}

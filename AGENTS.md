@@ -93,3 +93,9 @@ iphone-07 V2: Usuario aprueba gancho rojo pero pide contexto: ¿MIEDO A QUE / TE
 iphone-06 V3: Usuario rechaza CALIDAD EN TU CIUDAD: queda solo CALIDAD. Gancho de dos líneas doradas situado1250/1400px para dejar completamente visible el reloj y el gesto, sin letras blancas encima. Mezcla V2 copiada exacta con sus ticks; resto intacto.
 
 iphone-07 V3: Usuario aprueba ganchoV2 pero pide escritura y actividad: líneas se revelan0.1–1.92s; badge azul de tienda con MARKETPLACE aparece3s al mencionarlo, pulso rojo breve3.65s y clicks suaves por línea. No se identifica como logo oficial, es símbolo gráfico de tienda. Voz/música y garantías conservadas; efectos localizados añadidos.
+
+iphone-06 V4: Usuario rechaza CALIDAD aislada: bloque unificado LOS MEJORES / PRECIOS / Y CALIDAD3.2–6.02s; escritura por caracteres, precios permanecen al aparecer calidad. Tecleo localizado en entradas3.2/3.55/4.55s. DE REGALO pasa a rojo y lleva emoji🎁NotoColorEmoji junto al texto. Mantener reloj visible y restoV3.
+
+iphone-07 V4: Usuario considera escritura lenta: frase completa antes0.6s, letras inician0.1/0.24/0.4s con clics correspondientes. COMPRANDO UN IPHONE sigue debajo. Marketplace en rojo con cruz roja de dos trazos sobre símbolo de tienda. Mantener voz, música, garantías y restoV3.
+
+iphone-06 V5: peticiones durante la revisiónV4: usuario sigue rechazando inicio amarillo. Sustituirlo por ¡LLEGÓ LA HORA! rojo y segunda línea blanca, ambos debajo del gesto; detalle real del reloj0.28–0.64s a1x, sin cortar voz. Cuatro ticks breves más presentes y golpe con armónicos0.1s. CierreTEASESORAMOS y subtítulo verdes, tilde/ding15.52s al terminar. Mantener precio/calidad escritos juntos y regalo rojo con🎁 deV4.

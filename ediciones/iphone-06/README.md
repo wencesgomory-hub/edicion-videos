@@ -11,3 +11,7 @@ Reproducción: python render-v1.py 1. Los tiempos de rótulos son estimaciones p
 V2: Usuario pide un gancho más sorprendente para LLEGÓ LA HORA. Conservar tipografía y resto; dividir LLEGÓ LA HORA / DE TU NUEVO / IPHONE, destacar IPHONE164px, dos ticks de reloj cortos0.025y0.25s sobre golpe y luz existentes. Voz y música exactas de V1; resto intacto.
 
 iphone-06 V3: Usuario rechaza CALIDAD EN TU CIUDAD: queda solo CALIDAD. Gancho de dos líneas doradas situado1250/1400px para dejar completamente visible el reloj y el gesto, sin letras blancas encima. Mezcla V2 copiada exacta con sus ticks; resto intacto.
+
+iphone-06 V4: Usuario rechaza CALIDAD aislada: bloque unificado LOS MEJORES / PRECIOS / Y CALIDAD3.2–6.02s; escritura por caracteres, precios permanecen al aparecer calidad. Tecleo localizado en entradas3.2/3.55/4.55s. DE REGALO pasa a rojo y lleva emoji🎁NotoColorEmoji junto al texto. Mantener reloj visible y restoV3.
+
+iphone-06 V5: peticiones durante la revisiónV4: usuario sigue rechazando inicio amarillo. Sustituirlo por ¡LLEGÓ LA HORA! rojo y segunda línea blanca, ambos debajo del gesto; detalle real del reloj0.28–0.64s a1x, sin cortar voz. Cuatro ticks breves más presentes y golpe con armónicos0.1s. CierreTEASESORAMOS y subtítulo verdes, tilde/ding15.52s al terminar. Mantener precio/calidad escritos juntos y regalo rojo con🎁 deV4.
