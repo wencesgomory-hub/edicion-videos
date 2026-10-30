@@ -242,13 +242,15 @@
       "usado_en": [
         "anuncio-interior-02",
         "seminuevos-mdp-01",
-        "iphone-03"
+        "iphone-03",
+        "historia-promos-30oct"
       ],
-      "ultimo_uso_confirmado": "iphone-03",
+      "ultimo_uso_confirmado": "historia-promos-30oct",
       "estado_rotacion": "ya_usado",
       "notas": "Es material nuevo para rotar. Resolución de origen menor que Full HD; no atribuirle detalle, funcionamiento o condición técnica que el clip no permita verificar.",
       "ultima_version": "v1",
-      "nota_iphone_03": "Usado en V1, retirado explícitamente en V2 a petición del usuario; no reintroducir."
+      "nota_iphone_03": "Usado en V1, retirado explícitamente en V2 a petición del usuario; no reintroducir.",
+      "nota_promos_30oct": "Usuario pidió explícitamente este paneo como fondo. Fuente4.621667s ralentizada suavemente a5s, sin audio original; la restricción previa de iphone03 era de aquel anuncio."
     },
     {
       "id": "referencias-instagram-01",
@@ -875,6 +877,23 @@
         ],
         "criterio": "Usuario aprobó explícitamente escritura rápida, zoom, color y efectos; mantener este lenguaje en próximos anuncios."
       }
+    },
+    {
+      "id": "promos-30oct-historia",
+      "archivo": "videos/historia-promos-30oct-fondo-real.mp4",
+      "categoria": "historia_promocional",
+      "origen": "Precios y condiciones proporcionados por el usuario30/10/2026. Arte generado, después fondo reemplazado por video real elegido por usuario.",
+      "duracion": 5,
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "audio_presente": false,
+      "fuente_fondo": "materiales/productos/iphonecontenido.mp4",
+      "arte": "materiales/promos/30oct/capa-transparente.png",
+      "nota": "Titular ÚLTIMOS DOS DÍAS; no se añadió fecha distinta de vencimiento. Precios/promos específicos de esta solicitud, no trasladarlos a anuncios futuros automáticamente.",
+      "sha256": "4ac31c6eca74916d094320d741d6e2e4a435546ecfc930ab51601c6c97594d57"
     }
   ]
 }
