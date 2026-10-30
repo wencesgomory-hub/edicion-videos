@@ -105,3 +105,5 @@ iphone-06 V6: usuario autoriza explícitamente agregar60DÍAS bajo GARANTÍA y E
 REFERENCIA APROBADA NUEVA: usuario declara que le encantan los primeros4segundos de videos/anuncio-iphone-07-v4.mp4 y pide mantener ese estilo: escritura rápida, zooms breves, color, FX presentes y sincronizados. Usar como referencia estética para siguientes anuncios, adaptando contenido sin repetir automáticamente diseños/imágenes ni cambiar lo aprobado.
 
 Historia promos30oct: usuario quiere BUEN VIERNES y texto de coordinación de entregas/reservas junto a lista exacta de seis promos y ÚLTIMOS DOS DÍAS. Fondo final debe ser su paneo real iphonecontenido.mp4, no local ficticio generado. Texto/símbolos se conservan en capa transparente; composición5s1080x1920, sin audio. No trasladar automáticamente estos precios a próximos anuncios.
+
+Historia promos30oct V2: usuario pide retirar tanto ÚLTIMOS DOS DÍAS como PRECIOS EXCLUSIVOS. Nuevo título ÚLTIMAS 6 / PROMOS DESTACADAS. Mantener BUEN VIERNES, coordinación de entregas/reservas, seis valores y paneo real.

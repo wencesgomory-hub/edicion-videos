@@ -880,7 +880,7 @@
     },
     {
       "id": "promos-30oct-historia",
-      "archivo": "videos/historia-promos-30oct-fondo-real.mp4",
+      "archivo": "videos/historia-promos-destacadas-30oct.mp4",
       "categoria": "historia_promocional",
       "origen": "Precios y condiciones proporcionados por el usuario30/10/2026. Arte generado, después fondo reemplazado por video real elegido por usuario.",
       "duracion": 5,
@@ -891,9 +891,11 @@
       "fps": 30,
       "audio_presente": false,
       "fuente_fondo": "materiales/productos/iphonecontenido.mp4",
-      "arte": "materiales/promos/30oct/capa-transparente.png",
-      "nota": "Titular ÚLTIMOS DOS DÍAS; no se añadió fecha distinta de vencimiento. Precios/promos específicos de esta solicitud, no trasladarlos a anuncios futuros automáticamente.",
-      "sha256": "4ac31c6eca74916d094320d741d6e2e4a435546ecfc930ab51601c6c97594d57"
+      "arte": "materiales/promos/30oct/capa-promos-destacadas.png",
+      "nota": "Usuario sustituyó ÚLTIMOS DOS DÍAS y PRECIOS EXCLUSIVOS por ÚLTIMAS 6 PROMOS DESTACADAS. Saludo, seis promos y fondo real conservados. No trasladar precios a próximos anuncios automáticamente.",
+      "sha256": "1f42a63611ae68c2419a56531fada19fa5160c0a8c4e1352816280aa4cf7a979",
+      "version_anterior": "videos/historia-promos-30oct-fondo-real.mp4",
+      "ultima_version": "v2-promos-destacadas"
     }
   ]
 }
