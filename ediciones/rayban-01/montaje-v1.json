@@ -1,0 +1,57 @@
+{
+  "fuente": "9869B4DA-35D1-4B40-B519-43BDC03C8FC3.mov",
+  "duracion_fuente": 84.472993,
+  "fuente_resolucion": [
+    720,
+    960
+  ],
+  "fuente_fps": 50,
+  "salida": [
+    1080,
+    1920,
+    30
+  ],
+  "velocidad": 1,
+  "recortes_temporales": false,
+  "composicion": "Captura3:4 completa centrada con extensiones desenfocadas9:16; sin recortar manos ni rostros",
+  "gancho": "CASI PIERDO ESTA VENTA POR ESTE DETALLE… (propuesta del usuario)",
+  "blanco_negro": [
+    0,
+    3
+  ],
+  "rotulos": [
+    [
+      "hook-a.png",
+      0.1,
+      3.0
+    ],
+    [
+      "hook-b.png",
+      0.35,
+      3.0
+    ],
+    [
+      "hook-c.png",
+      0.65,
+      3.0
+    ],
+    [
+      "modelo.png",
+      3.2,
+      7.0
+    ],
+    [
+      "garantia.png",
+      67.0,
+      70.0
+    ],
+    [
+      "cierre.png",
+      80.8,
+      84.472993
+    ]
+  ],
+  "audio": "Conversación estéreo original con EQ/compresión y nivelación moderada; efectos discretos de entrada y cierre; sin música añadida",
+  "precaucion": "No se confirma daño en cámara ni se inventa una explicación al detalle. No se subtitula literalmente ASR incierto.",
+  "nota": "Conservar conversación/entrega a1x, sin congelado inicial ni imágenes ajenas."
+}

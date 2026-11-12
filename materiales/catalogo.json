@@ -896,6 +896,24 @@
       "sha256": "1f42a63611ae68c2419a56531fada19fa5160c0a8c4e1352816280aa4cf7a979",
       "version_anterior": "videos/historia-promos-30oct-fondo-real.mp4",
       "ultima_version": "v2-promos-destacadas"
+    },
+    {
+      "id": "rayban-01-fuente",
+      "archivo": "9869B4DA-35D1-4B40-B519-43BDC03C8FC3.mov",
+      "categoria": "video_original_usuario_rayban",
+      "origen": "Commit del usuario54e65562ae09c318de3d8ca02d6840c87d8d5fec, subido12/11/2026.",
+      "descripcion": "Entrega de iPhone15ProMax grabada en POV con Ray-Ban, según usuario; cliente revisa cámaras, conversación y bolsa Gomory al cierre.",
+      "duracion": 84.472993,
+      "resolucion": [
+        720,
+        960
+      ],
+      "fps": 50,
+      "sha256": "6d259e7ff2f0338e6268835dc256bf621fe9e021305ab84a4fe855612aad28d5",
+      "usado_en": [
+        "rayban-01"
+      ],
+      "ultima_version": "v1"
     }
   ]
 }

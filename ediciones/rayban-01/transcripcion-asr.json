@@ -1,0 +1,390 @@
+[
+  {
+    "offset": 0,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "- ¿Y tienen una rasita? ¿Danen esta rasita? - ¿Puerto?",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " -",
+        " ¿",
+        "Y",
+        " tienen",
+        " una",
+        " ras",
+        "ita",
+        "?",
+        " ¿",
+        "D",
+        "an",
+        "en",
+        " esta",
+        " ras",
+        "ita",
+        "?",
+        " -",
+        " ¿",
+        "P",
+        "u",
+        "erto",
+        "?"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        5.0
+      ],
+      "segment_durations": [
+        5.0,
+        1.0
+      ],
+      "segment_texts": [
+        " - ¿Y tienen una rasita? ¿Danen esta rasita?",
+        " - ¿Puerto?"
+      ]
+    }
+  },
+  {
+    "offset": 12,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "no es una vez",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " no",
+        " es",
+        " una",
+        " vez"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        2.0
+      ],
+      "segment_texts": [
+        " no es una vez"
+      ]
+    }
+  },
+  {
+    "offset": 24,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "proceso claro, lo tengo cuando me mandaste para reservarlo, si ya lo tenés armado si, si, lo tratamos, si, el tema es que...",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " proceso",
+        " claro",
+        ",",
+        " lo",
+        " tengo",
+        " cuando",
+        " me",
+        " mand",
+        "aste",
+        " para",
+        " reserv",
+        "arlo",
+        ",",
+        " si",
+        " ya",
+        " lo",
+        " ten",
+        "és",
+        " arm",
+        "ado",
+        " si",
+        ",",
+        " si",
+        ",",
+        " lo",
+        " trat",
+        "amos",
+        ",",
+        " si",
+        ",",
+        " el",
+        " tema",
+        " es",
+        " que",
+        "..."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        6.0
+      ],
+      "segment_durations": [
+        6.0,
+        5.0
+      ],
+      "segment_texts": [
+        " proceso claro, lo tengo cuando me mandaste para reservarlo, si ya lo tenés armado",
+        " si, si, lo tratamos, si, el tema es que..."
+      ]
+    }
+  },
+  {
+    "offset": 36,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "No, la cámara fíjate que tanto es una locura lo que la cámara está haciendo. Y la batallada es una locura. Al ser Max,",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " No",
+        ",",
+        " la",
+        " cámara",
+        " f",
+        "í",
+        "j",
+        "ate",
+        " que",
+        " tanto",
+        " es",
+        " una",
+        " loc",
+        "ura",
+        " lo",
+        " que",
+        " la",
+        " cámara",
+        " está",
+        " haciendo",
+        ".",
+        " Y",
+        " la",
+        " bat",
+        "all",
+        "ada",
+        " es",
+        " una",
+        " loc",
+        "ura",
+        ".",
+        " Al",
+        " ser",
+        " Max",
+        ","
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        9.0
+      ],
+      "segment_durations": [
+        6.0,
+        3.0
+      ],
+      "segment_texts": [
+        " No, la cámara fíjate que tanto es una locura lo que la cámara está haciendo.",
+        " Y la batallada es una locura. Al ser Max,"
+      ]
+    }
+  },
+  {
+    "offset": 48,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "también duro un montón de eso. Ahora me voy a prepararlos para que la pueda acarregar. Luki, voy a acá arriba, ahí, y ahí va. Cualquier cosa igual de la configuración o lo que sea.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " también",
+        " du",
+        "ro",
+        " un",
+        " montón",
+        " de",
+        " eso",
+        ".",
+        " Ahora",
+        " me",
+        " voy",
+        " a",
+        " prepar",
+        "arlos",
+        " para",
+        " que",
+        " la",
+        " pueda",
+        " ac",
+        "arre",
+        "gar",
+        ".",
+        " L",
+        "uki",
+        ",",
+        " voy",
+        " a",
+        " acá",
+        " arriba",
+        ",",
+        " ahí",
+        ",",
+        " y",
+        " ahí",
+        " va",
+        ".",
+        " C",
+        "ual",
+        "quier",
+        " cosa",
+        " igual",
+        " de",
+        " la",
+        " configur",
+        "ación",
+        " o",
+        " lo",
+        " que",
+        " sea",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        4.7
+      ],
+      "segment_durations": [
+        4.7,
+        6.5
+      ],
+      "segment_texts": [
+        " también duro un montón de eso. Ahora me voy a prepararlos para que la pueda acarregar.",
+        " Luki, voy a acá arriba, ahí, y ahí va. Cualquier cosa igual de la configuración o lo que sea."
+      ]
+    }
+  },
+  {
+    "offset": 60,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "te traves o algo me manda mensajito eso no pasa nada te lo dejo acá, si quieres meter acá adentro te llevo la bolsita te guardo acá la garantía",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " te",
+        " tra",
+        "ves",
+        " o",
+        " algo",
+        " me",
+        " mand",
+        "a",
+        " mens",
+        "aj",
+        "ito",
+        " eso",
+        " no",
+        " pasa",
+        " nada",
+        " te",
+        " lo",
+        " de",
+        "jo",
+        " acá",
+        ",",
+        " si",
+        " quieres",
+        " meter",
+        " acá",
+        " ad",
+        "ent",
+        "ro",
+        " te",
+        " lle",
+        "vo",
+        " la",
+        " bol",
+        "s",
+        "ita",
+        " te",
+        " guard",
+        "o",
+        " acá",
+        " la",
+        " garant",
+        "ía"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        2.0,
+        4.0,
+        6.0,
+        8.0
+      ],
+      "segment_durations": [
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "segment_texts": [
+        " te traves o algo me manda mensajito",
+        " eso no pasa nada",
+        " te lo dejo acá, si quieres meter acá adentro",
+        " te llevo la bolsita",
+        " te guardo acá la garantía"
+      ]
+    }
+  },
+  {
+    "offset": 72,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Vamos a la gara fundita.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Vamos",
+        " a",
+        " la",
+        " g",
+        "ara",
+        " fund",
+        "ita",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        2.0
+      ],
+      "segment_texts": [
+        " Vamos a la gara fundita."
+      ]
+    }
+  }
+]

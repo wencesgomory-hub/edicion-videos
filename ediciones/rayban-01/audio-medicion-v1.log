@@ -1,0 +1,30 @@
+[aist#0:0/pcm_f32le @ 0x5588bb26a500] Guessed Channel Layout: stereo
+Input #0, wav, from '/workspace/rayban-01/master.wav':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Duration: 00:01:24.47, bitrate: 3072 kb/s
+  Stream #0:0: Audio: pcm_f32le ([3][0][0][0] / 0x0003), 48000 Hz, stereo, flt, 3072 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_f32le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:00:08.20 bitrate=N/A speed=16.4x    size=N/A time=00:00:22.70 bitrate=N/A speed=22.7x    size=N/A time=00:00:37.60 bitrate=N/A speed=25.1x    size=N/A time=00:00:48.50 bitrate=N/A speed=24.2x    size=N/A time=00:00:56.60 bitrate=N/A speed=22.6x    size=N/A time=00:01:10.30 bitrate=N/A speed=23.4x    [Parsed_loudnorm_0 @ 0x7f4eb4002740] 
+{
+	"input_i" : "-15.80",
+	"input_tp" : "-1.98",
+	"input_lra" : "7.40",
+	"input_thresh" : "-26.00",
+	"output_i" : "-15.70",
+	"output_tp" : "-1.00",
+	"output_lra" : "6.30",
+	"output_thresh" : "-25.94",
+	"normalization_type" : "dynamic",
+	"target_offset" : "-0.30"
+}
+[out#0/null @ 0x5588bb26a6c0] video:0KiB audio:63355KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:01:24.50 bitrate=N/A speed=24.9x    

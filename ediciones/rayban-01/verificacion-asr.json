@@ -1,0 +1,182 @@
+[
+  {
+    "inicio": 0,
+    "fin": 18,
+    "resultado": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "tiene una rasita",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " tiene",
+        " una",
+        " ras",
+        "ita"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        2.0
+      ],
+      "segment_texts": [
+        " tiene una rasita"
+      ]
+    }
+  },
+  {
+    "inicio": 8,
+    "fin": 18,
+    "resultado": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "este es cámara",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " este",
+        " es",
+        " cámara"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        8.0
+      ],
+      "segment_texts": [
+        " este es cámara"
+      ]
+    }
+  },
+  {
+    "inicio": 18,
+    "fin": 32,
+    "resultado": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "contestan como vos tenés que ver que te con muy crudo que vas a decir que te contestan y no tienen como un proceso claro que vos tenés con cuando me mandaste para reservarlo si si ya lo tenés armado",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " contest",
+        "an",
+        " como",
+        " vos",
+        " ten",
+        "és",
+        " que",
+        " ver",
+        " que",
+        " te",
+        " con",
+        " muy",
+        " cr",
+        "udo",
+        " que",
+        " vas",
+        " a",
+        " decir",
+        " que",
+        " te",
+        " contest",
+        "an",
+        " y",
+        " no",
+        " tienen",
+        " como",
+        " un",
+        " proceso",
+        " claro",
+        " que",
+        " vos",
+        " ten",
+        "és",
+        " con",
+        " cuando",
+        " me",
+        " mand",
+        "aste",
+        " para",
+        " reserv",
+        "arlo",
+        " si",
+        " si",
+        " ya",
+        " lo",
+        " ten",
+        "és",
+        " arm",
+        "ado"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        4.68,
+        9.88
+      ],
+      "segment_durations": [
+        4.68,
+        5.2,
+        2.68
+      ],
+      "segment_texts": [
+        " contestan como vos tenés que ver que te con muy crudo que vas a decir que te contestan",
+        " y no tienen como un proceso claro que vos tenés con cuando me mandaste para reservarlo",
+        " si si ya lo tenés armado"
+      ]
+    }
+  },
+  {
+    "inicio": 70,
+    "fin": 84.473,
+    "resultado": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Bueno señor, un gustazo, no estamos viendo y cualquier cosita me decís.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Bueno",
+        " señor",
+        ",",
+        " un",
+        " gust",
+        "azo",
+        ",",
+        " no",
+        " estamos",
+        " viendo",
+        " y",
+        " cualquier",
+        " cos",
+        "ita",
+        " me",
+        " dec",
+        "ís",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        14.28
+      ],
+      "segment_texts": [
+        " Bueno señor, un gustazo, no estamos viendo y cualquier cosita me decís."
+      ]
+    }
+  }
+]
