@@ -1,0 +1,20 @@
+{
+  "fuente": "9869B4DA-35D1-4B40-B519-43BDC03C8FC3.mov",
+  "duracion": 84.472993,
+  "velocidad": 1,
+  "salida": [
+    1080,
+    1920,
+    30
+  ],
+  "gancho": "CASI PIERDO UNA VENTA / POR ESTE ERROR EN LA CÁMARA (texto propuesto por usuario)",
+  "blanco_negro": [
+    0,
+    5.5
+  ],
+  "dialogo": "Frases claras contrastadas con WhisperSmall y LargeV3. Se omiten fragmentos dudosos; no inventar daño físico ni testimonios.",
+  "subtitulos": "42 bloques de frases, posiciones y énfasis blanco/rojo/dorado. Tiempos de fragmentos contrastados con ASR; división interna estimada, no alineación exacta palabra a palabra.",
+  "sonido": "Pulsos y drone de tensión hasta5.5s, impacto y acentos de cámara más presentes; conversación original nivelada.",
+  "encuadre": "Captura3:4completa en9:16, sin cortar manos/cámara",
+  "nota": "Intro rehecha con márgenes seguros. Se reconstruyeron primeros250frames, resto de la misma exportación. Total2534frames y audio completo; voces a1x."
+}

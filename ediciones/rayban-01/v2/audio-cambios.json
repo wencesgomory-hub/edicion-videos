@@ -1,0 +1,42 @@
+{
+  "voz": "V1 conservada",
+  "intro": "Suspenso tonal y pulsos hasta5.5s, impacto y acentos de cámara claramente presentes, sin rotura de vidrio que implique daño",
+  "eventos": [
+    [
+      0.1,
+      "impacto/tensión",
+      0.62
+    ],
+    [
+      0.86,
+      "impacto/tensión",
+      0.22
+    ],
+    [
+      1.66,
+      "impacto/tensión",
+      0.2
+    ],
+    [
+      2.46,
+      "impacto/tensión",
+      0.19
+    ],
+    [
+      3.26,
+      "impacto/tensión",
+      0.17
+    ],
+    [
+      4.06,
+      "impacto/tensión",
+      0.15
+    ],
+    [
+      5.5,
+      "impacto/tensión",
+      0.3
+    ]
+  ],
+  "resto": "Conversación original sin música añadida"
+}
