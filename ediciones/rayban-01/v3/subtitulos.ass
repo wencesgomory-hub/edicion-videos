@@ -1,0 +1,51 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Base,GomoryMontserrat,78,&H00FAFFFF,&H005AE0FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.8,2.3,2,95,95,395,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.15,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Tiene una {\c&H2920EF&}rayita{\c&HFAFFFF&} acá...
+Dialogue: 0,0:00:02.15,0:00:03.00,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}¿Eh?
+Dialogue: 0,0:00:03.00,0:00:04.90,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Esta {\c&H2920EF&}rayita...{\c&HFAFFFF&}
+Dialogue: 0,0:00:04.90,0:00:06.00,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}¿Cuál?
+Dialogue: 0,0:00:15.05,0:00:16.60,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}¿Esto es {\c&H5AE0FF&}cámara?{\c&HFAFFFF&}
+Dialogue: 0,0:00:17.40,0:00:18.95,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Un desastre cómo \N contestan...
+Dialogue: 0,0:00:19.40,0:00:19.95,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Vos...
+Dialogue: 0,0:00:20.48,0:00:21.65,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Te contestan muy crudo...
+Dialogue: 0,0:00:21.92,0:00:22.95,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Que te contestan...
+Dialogue: 0,0:00:23.20,0:00:24.85,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Y no tienen un \N proceso claro.
+Dialogue: 0,0:00:25.00,0:00:25.65,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Claro.
+Dialogue: 0,0:00:26.00,0:00:27.85,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Cuando me mandaste \N para reservarlo...
+Dialogue: 0,0:00:28.00,0:00:30.55,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Sí, sí, sí.
+Dialogue: 0,0:00:31.55,0:00:32.65,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Tratamos de manejar...
+Dialogue: 0,0:00:32.80,0:00:34.30,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Sí, el tema es que...
+Dialogue: 0,0:00:36.48,0:00:38.15,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}La {\c&H5AE0FF&}cámara,{\c&HFAFFFF&} fijate que...
+Dialogue: 0,0:00:38.96,0:00:40.65,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Es una locura
+Dialogue: 0,0:00:40.72,0:00:43.40,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}lo que la {\c&H5AE0FF&}cámara{\c&HFAFFFF&} \N está haciendo.
+Dialogue: 0,0:00:44.80,0:00:46.05,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Y la {\c&H5AE0FF&}batería{\c&HFAFFFF&} también
+Dialogue: 0,0:00:46.05,0:00:46.95,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}dura una locura.
+Dialogue: 0,0:00:47.20,0:00:48.35,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Al ser {\c&H5AE0FF&}Max,{\c&HFAFFFF&} también
+Dialogue: 0,0:00:48.35,0:00:49.70,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}dura un montonazo.
+Dialogue: 0,0:00:52.90,0:00:54.35,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Acá arriba.
+Dialogue: 0,0:00:54.80,0:00:56.55,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Y ahí va.
+Dialogue: 0,0:00:56.80,0:00:58.70,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Cualquier cosa de \N la configuración
+Dialogue: 0,0:00:58.72,0:00:59.50,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}o lo que sea,
+Dialogue: 0,0:00:59.68,0:01:01.10,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}que te trabes o algo,
+Dialogue: 0,0:01:01.20,0:01:02.35,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}me mandás un mensajito.
+Dialogue: 0,0:01:02.64,0:01:03.70,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Eso no pasa nada.
+Dialogue: 0,0:01:03.84,0:01:04.80,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Te lo dejo acá.
+Dialogue: 0,0:01:04.88,0:01:06.10,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Si querés, metelo \N acá adentro.
+Dialogue: 0,0:01:07.28,0:01:08.10,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}La bolsita.
+Dialogue: 0,0:01:08.24,0:01:09.70,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Te guardo acá la {\c&H8FEB47&}garantía.{\c&HFAFFFF&}
+Dialogue: 0,0:01:11.92,0:01:14.00,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}La fundita.
+Dialogue: 0,0:01:15.12,0:01:16.00,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Ahí entró.
+Dialogue: 0,0:01:19.20,0:01:20.10,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Bueno, señor.
+Dialogue: 0,0:01:20.24,0:01:20.95,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Un gustazo.
+Dialogue: 0,0:01:21.12,0:01:21.75,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Nos estamos viendo.
+Dialogue: 0,0:01:21.76,0:01:23.10,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Y cualquier cosita me decís.
+Dialogue: 0,0:01:23.20,0:01:24.47,Base,,0,0,0,,{\fad(25,35)\blur0.35\fscx103\fscy103\t(0,90,\fscx100\fscy100)}Dale, dale.
