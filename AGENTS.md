@@ -121,3 +121,5 @@ RayBan02 V2: usuario aprueba guía pero rechaza energía apagada y tono musical 
 RayBan02 V3: usuario rechaza tamaño/ubicación de títulos pequeños y músicaV2. Títulos centrales grandes con jerarquía, variación Montserratupright/Italic, blanco/dorado y garantía verde, entradas distintas. Sonidos pop/blink/tack/cling por punto y golpe inicial realmente más grave43Hz con armónicos. Sustituir completamente música por nueva base original136BPM, batería seca y bajo; no reutilizar fondoV2 rechazado. EDL/voz/encuadre conservados. Pendiente de valoración.
 
 RayBan02 V4: pedido puntual MAR DEL PLATA rojo, más grande, centrado arriba y entrada escribiendo con tecleo sincronizado.3.2–6.8s,76px,65ms por letra. Conservar íntegramente guía/música/efectos/voz/encuadreV3; no rehacer resto. Pendiente de valoración.
+
+RayBan02 V5: usuario rechazó tipografía/ubicación de MAR DEL PLATA y pide sacarlo. Retirar completamente rótulo y tecleoV4; no restaurar rótulo viejo de esquina. Mantener montaje, títulos centrales y música/FXV3.
