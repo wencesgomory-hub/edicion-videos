@@ -1,0 +1,66 @@
+{
+  "musica": "Composicion nueva original136BPM, bateria seca y bajo sincopado; sin stemsV11/V2",
+  "voz": "StemV1 exacto antes del limitador; natural1x",
+  "eventos": [
+    [
+      0.08,
+      "impacto profundo43Hz y armonicos",
+      0.58
+    ],
+    [
+      0.25,
+      "golpe breve texto",
+      0.18
+    ],
+    [
+      0.43,
+      "pop cierre gancho",
+      0.24
+    ],
+    [
+      3.2,
+      "pop seco / CÁMARAS",
+      0.39
+    ],
+    [
+      18.25,
+      "blink tonal corto / LINTERNA",
+      0.3
+    ],
+    [
+      24.550000000000004,
+      "tack seco / HISTORIAL DE PIEZAS",
+      0.34
+    ],
+    [
+      32.95,
+      "cling corto / BATERÍA Y CICLOS",
+      0.25
+    ],
+    [
+      42.26,
+      "pop seco / FACE ID",
+      0.37
+    ],
+    [
+      51.88000000000001,
+      "blink tonal corto / MICRÓFONO",
+      0.29
+    ],
+    [
+      57.03,
+      "tack seco / GARANTÍA",
+      0.33
+    ],
+    [
+      50.6,
+      "confirmacion FaceID",
+      0.15
+    ],
+    [
+      82.68,
+      "guardar guia",
+      0.23
+    ]
+  ]
+}
