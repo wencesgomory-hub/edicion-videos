@@ -1,0 +1,452 @@
+[
+  {
+    "inicio": 1.35,
+    "fin": 2.7,
+    "texto": "Acá, en la cámara.",
+    "original": [
+      1.35,
+      2.7
+    ]
+  },
+  {
+    "inicio": 2.88,
+    "fin": 4.7,
+    "texto": "El 1, el 0,5 también.",
+    "original": [
+      2.88,
+      4.7
+    ]
+  },
+  {
+    "inicio": 4.8,
+    "fin": 5.7,
+    "texto": "Perfecto.",
+    "original": [
+      4.8,
+      5.7
+    ]
+  },
+  {
+    "inicio": 6,
+    "fin": 7.45,
+    "texto": "No tiene manchitas, nada.",
+    "original": [
+      6,
+      7.45
+    ]
+  },
+  {
+    "inicio": 7.6,
+    "fin": 9.9,
+    "texto": "La cámara, el zoom...",
+    "original": [
+      7.6,
+      9.9
+    ]
+  },
+  {
+    "inicio": 11.04,
+    "fin": 12.45,
+    "texto": "Todo el enfoque, perfecto.",
+    "original": [
+      11.04,
+      12.45
+    ]
+  },
+  {
+    "inicio": 12.64,
+    "fin": 14.5,
+    "texto": "Tiene muy buen zoom.",
+    "original": [
+      12.64,
+      14.5
+    ]
+  },
+  {
+    "inicio": 14.72,
+    "fin": 16.25,
+    "texto": "Modo selfie también.",
+    "original": [
+      14.72,
+      16.25
+    ]
+  },
+  {
+    "inicio": 16.4,
+    "fin": 18.1,
+    "texto": "Perfecto, nada.",
+    "original": [
+      16.4,
+      18.1
+    ]
+  },
+  {
+    "inicio": 18.31,
+    "fin": 20.55,
+    "texto": "La linterna también, perfecto.",
+    "original": [
+      22.56,
+      24.8
+    ]
+  },
+  {
+    "inicio": 20.95,
+    "fin": 23.35,
+    "texto": "También acá, en general,",
+    "original": [
+      25.2,
+      27.6
+    ]
+  },
+  {
+    "inicio": 23.35,
+    "fin": 24.45,
+    "texto": "en información.",
+    "original": [
+      27.6,
+      28.7
+    ]
+  },
+  {
+    "inicio": 24.55,
+    "fin": 25.8,
+    "texto": "Si acá no te salta nada",
+    "original": [
+      28.8,
+      30.05
+    ]
+  },
+  {
+    "inicio": 25.83,
+    "fin": 27.35,
+    "texto": "de piezas e historial de servicios,",
+    "original": [
+      30.08,
+      31.6
+    ]
+  },
+  {
+    "inicio": 27.43,
+    "fin": 29.4,
+    "texto": "quiere decir que no hay nada reemplazado,",
+    "original": [
+      31.68,
+      33.65
+    ]
+  },
+  {
+    "inicio": 29.51,
+    "fin": 31.35,
+    "texto": "salvo la batería, que ya lo habíamos hablado.",
+    "original": [
+      33.76,
+      35.6
+    ]
+  },
+  {
+    "inicio": 31.99,
+    "fin": 32.7,
+    "texto": "Esto acá.",
+    "original": [
+      36.24,
+      36.95
+    ]
+  },
+  {
+    "inicio": 32.95,
+    "fin": 35.1,
+    "texto": "Batería: condición 100%.",
+    "original": [
+      37.2,
+      39.35
+    ]
+  },
+  {
+    "inicio": 35.19,
+    "fin": 36.45,
+    "texto": "La anterior batería tenía",
+    "original": [
+      39.44,
+      40.7
+    ]
+  },
+  {
+    "inicio": 36.47,
+    "fin": 37.85,
+    "texto": "1414 ciclos.",
+    "original": [
+      40.72,
+      42.1
+    ]
+  },
+  {
+    "inicio": 37.99,
+    "fin": 38.55,
+    "texto": "Se reemplazó.",
+    "original": [
+      42.24,
+      42.8
+    ]
+  },
+  {
+    "inicio": 38.63,
+    "fin": 40.05,
+    "texto": "Ahora empieza a guardar los ciclos.",
+    "original": [
+      42.88,
+      44.3
+    ]
+  },
+  {
+    "inicio": 40.23,
+    "fin": 42.1,
+    "texto": "Después acá tenés el Face ID.",
+    "original": [
+      44.48,
+      46.35
+    ]
+  },
+  {
+    "inicio": 42.26,
+    "fin": 43.6,
+    "texto": "También ves esto",
+    "original": [
+      52.56,
+      53.9
+    ]
+  },
+  {
+    "inicio": 43.62,
+    "fin": 45.3,
+    "texto": "para que veas que funciona todo perfecto.",
+    "original": [
+      53.92,
+      55.6
+    ]
+  },
+  {
+    "inicio": 45.94,
+    "fin": 47.2,
+    "texto": "Ya te empieza a tomar la cara",
+    "original": [
+      56.24,
+      57.5
+    ]
+  },
+  {
+    "inicio": 47.22,
+    "fin": 48.95,
+    "texto": "y después vas a desbloquear",
+    "original": [
+      57.52,
+      59.25
+    ]
+  },
+  {
+    "inicio": 48.98,
+    "fin": 50.9,
+    "texto": "todas las aplicaciones con la cara.",
+    "original": [
+      59.28,
+      61.2
+    ]
+  },
+  {
+    "inicio": 51.88,
+    "fin": 52.65,
+    "texto": "Hola, hola.",
+    "original": [
+      66.48,
+      67.25
+    ]
+  },
+  {
+    "inicio": 52.76,
+    "fin": 53.6,
+    "texto": "Hola, hola.",
+    "original": [
+      67.36,
+      68.2
+    ]
+  },
+  {
+    "inicio": 53.64,
+    "fin": 54.6,
+    "texto": "Hola, hola.",
+    "original": [
+      68.24,
+      69.2
+    ]
+  },
+  {
+    "inicio": 55.75,
+    "fin": 56.75,
+    "texto": "Todo perfecto.",
+    "original": [
+      72.8,
+      73.8
+    ]
+  },
+  {
+    "inicio": 57.03,
+    "fin": 58.35,
+    "texto": "Yo voy a estarle sacando fotos.",
+    "original": [
+      74.08,
+      75.4
+    ]
+  },
+  {
+    "inicio": 58.47,
+    "fin": 59.35,
+    "texto": "Yo me quedo la digital",
+    "original": [
+      75.52,
+      76.4
+    ]
+  },
+  {
+    "inicio": 59.43,
+    "fin": 60.5,
+    "texto": "y vos te llevás la física.",
+    "original": [
+      76.48,
+      77.55
+    ]
+  },
+  {
+    "inicio": 60.55,
+    "fin": 62.65,
+    "texto": "Por si hay alguna validación, lo que fuere.",
+    "original": [
+      77.6,
+      79.7
+    ]
+  },
+  {
+    "inicio": 63.11,
+    "fin": 65.0,
+    "texto": "La funda.",
+    "original": [
+      85.76,
+      87.65
+    ]
+  },
+  {
+    "inicio": 65.27,
+    "fin": 67.15,
+    "texto": "El cablecito, el cargador...",
+    "original": [
+      87.92,
+      89.8
+    ]
+  },
+  {
+    "inicio": 67.27,
+    "fin": 68.9,
+    "texto": "Si te llega a fallar alguno,",
+    "original": [
+      89.92,
+      91.55
+    ]
+  },
+  {
+    "inicio": 68.95,
+    "fin": 69.6,
+    "texto": "tenés garantía.",
+    "original": [
+      91.6,
+      92.25
+    ]
+  },
+  {
+    "inicio": 69.67,
+    "fin": 70.85,
+    "texto": "Como el celu, no pasa nada.",
+    "original": [
+      92.32,
+      93.5
+    ]
+  },
+  {
+    "inicio": 70.95,
+    "fin": 72.3,
+    "texto": "No hay problema, mandá un mensajito.",
+    "original": [
+      93.6,
+      94.95
+    ]
+  },
+  {
+    "inicio": 72.38,
+    "fin": 74.9,
+    "texto": "Si te llegás a trabar en la configuración",
+    "original": [
+      95.28,
+      97.8
+    ]
+  },
+  {
+    "inicio": 75.02,
+    "fin": 76.65,
+    "texto": "o lo que fuera, lo que sea,",
+    "original": [
+      97.92,
+      99.55
+    ]
+  },
+  {
+    "inicio": 76.78,
+    "fin": 77.9,
+    "texto": "mandá mensaje, no pasa nada.",
+    "original": [
+      99.68,
+      100.8
+    ]
+  },
+  {
+    "inicio": 77.98,
+    "fin": 79.65,
+    "texto": "Te doy una mano, no te preocupes.",
+    "original": [
+      100.88,
+      102.55
+    ]
+  },
+  {
+    "inicio": 79.65,
+    "fin": 81.0,
+    "texto": "Ahí estaríamos, querido.",
+    "original": [
+      140,
+      141.35
+    ]
+  },
+  {
+    "inicio": 81.25,
+    "fin": 82.75,
+    "texto": "Bueno, un gustazo.",
+    "original": [
+      141.6,
+      143.1
+    ]
+  },
+  {
+    "inicio": 82.93,
+    "fin": 84.6,
+    "texto": "Cualquier cosita me avisás",
+    "original": [
+      143.28,
+      144.95
+    ]
+  },
+  {
+    "inicio": 85.01,
+    "fin": 87.15,
+    "texto": "y lo vemos. No hay problema.",
+    "original": [
+      145.36,
+      147.5
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "fuente": "D8EB53EA-49A5-4D79-A8AD-B5872C04D7D1.mov",
+  "duracion_original": 148.033333,
+  "duracion_montaje": 87.683333,
+  "velocidad": 1,
+  "clips": [
+    {
+      "inicio_original": 0,
+      "fin_original": 18.15,
+      "inicio_montaje": 0,
+      "duracion": 18.15
+    },
+    {
+      "inicio_original": 22.4,
+      "fin_original": 46.35,
+      "inicio_montaje": 18.15,
+      "duracion": 23.95
+    },
+    {
+      "inicio_original": 52.4,
+      "fin_original": 61.4,
+      "inicio_montaje": 42.1,
+      "duracion": 9.0
+    },
+    {
+      "inicio_original": 65.7,
+      "fin_original": 69.45,
+      "inicio_montaje": 51.1,
+      "duracion": 3.75
+    },
+    {
+      "inicio_original": 71.9,
+      "fin_original": 79.9,
+      "inicio_montaje": 54.85,
+      "duracion": 8.0
+    },
+    {
+      "inicio_original": 85.5,
+      "fin_original": 94.95,
+      "inicio_montaje": 62.85,
+      "duracion": 9.45
+    },
+    {
+      "inicio_original": 95.2,
+      "fin_original": 102.55,
+      "inicio_montaje": 72.3,
+      "duracion": 7.35
+    },
+    {
+      "inicio_original": 140,
+      "fin_original": 148.033333,
+      "inicio_montaje": 79.65,
+      "duracion": 8.033333
+    }
+  ]
+}
