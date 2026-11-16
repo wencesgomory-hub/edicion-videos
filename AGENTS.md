@@ -123,3 +123,5 @@ RayBan02 V3: usuario rechaza tamaño/ubicación de títulos pequeños y músicaV
 RayBan02 V4: pedido puntual MAR DEL PLATA rojo, más grande, centrado arriba y entrada escribiendo con tecleo sincronizado.3.2–6.8s,76px,65ms por letra. Conservar íntegramente guía/música/efectos/voz/encuadreV3; no rehacer resto. Pendiente de valoración.
 
 RayBan02 V5: usuario rechazó tipografía/ubicación de MAR DEL PLATA y pide sacarlo. Retirar completamente rótulo y tecleoV4; no restaurar rótulo viejo de esquina. Mantener montaje, títulos centrales y música/FXV3.
+
+RayBan02 V6: usuario rechaza base bum bum continua. Retirar stem musical completo; mantener voz y FX puntualesV3, imagen exactaV5 por copia. No introducir otro bombo/bajo repetitivo por iniciativa propia. Sin rótuloMarDelPlata. Pendiente de valoración.
