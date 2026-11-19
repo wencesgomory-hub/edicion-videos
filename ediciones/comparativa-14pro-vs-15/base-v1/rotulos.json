@@ -1,0 +1,392 @@
+[
+  {
+    "start": 0.08,
+    "end": 2.42,
+    "text": "LA PREGUNTA QUE MÁS ME HACEN",
+    "size": 46
+  },
+  {
+    "start": 0.12,
+    "end": 4.28,
+    "text": "14 PRO",
+    "size": 113
+  },
+  {
+    "start": 0.24,
+    "end": 4.28,
+    "text": "VS",
+    "size": 69
+  },
+  {
+    "start": 0.38,
+    "end": 4.28,
+    "text": "IPHONE 15",
+    "size": 127
+  },
+  {
+    "start": 2.5,
+    "end": 4.28,
+    "text": "¿CUÁL CONVIENE?",
+    "size": 57
+  },
+  {
+    "start": 4.3,
+    "end": 6.9,
+    "text": "BUSCÁS",
+    "size": 65
+  },
+  {
+    "start": 4.3999999999999995,
+    "end": 6.9,
+    "text": "CALIDAD / PRECIO",
+    "size": 88
+  },
+  {
+    "start": 6.9,
+    "end": 9.85,
+    "text": "DOS OPCIONES",
+    "size": 65
+  },
+  {
+    "start": 7.0,
+    "end": 9.85,
+    "text": "¿CUÁL ELEGÍS?",
+    "size": 109
+  },
+  {
+    "start": 9.92,
+    "end": 12.15,
+    "text": "SU PRIMERA ELECCIÓN",
+    "size": 44
+  },
+  {
+    "start": 10.02,
+    "end": 12.15,
+    "text": "IPHONE 15",
+    "size": 145
+  },
+  {
+    "start": 12.16,
+    "end": 15.63,
+    "text": "IPHONE 15 · DISEÑO Y CONEXIÓN",
+    "size": 44
+  },
+  {
+    "start": 12.18,
+    "end": 13.55,
+    "text": "MÁS LIVIANO",
+    "size": 102
+  },
+  {
+    "start": 12.3,
+    "end": 13.55,
+    "text": "171 g  /  14 Pro: 206 g",
+    "size": 45
+  },
+  {
+    "start": 13.55,
+    "end": 15.63,
+    "text": "USB-C",
+    "size": 150
+  },
+  {
+    "start": 13.65,
+    "end": 15.63,
+    "text": "14 Pro: Lightning",
+    "size": 48
+  },
+  {
+    "start": 16.48,
+    "end": 18,
+    "text": "EN RENDIMIENTO",
+    "size": 44
+  },
+  {
+    "start": 16.5,
+    "end": 18,
+    "text": "A16 BIONIC",
+    "size": 119
+  },
+  {
+    "start": 16.6,
+    "end": 18,
+    "text": "EL MISMO CHIP EN LOS DOS",
+    "size": 43
+  },
+  {
+    "start": 18.57,
+    "end": 20.72,
+    "text": "UNA GENERACIÓN",
+    "size": 65
+  },
+  {
+    "start": 18.67,
+    "end": 20.72,
+    "text": "MÁS NUEVO",
+    "size": 111
+  },
+  {
+    "start": 20.78,
+    "end": 25.5,
+    "text": "AHORA, LO QUE OFRECE EL PRO",
+    "size": 44
+  },
+  {
+    "start": 20.86,
+    "end": 25.5,
+    "text": "14 PRO",
+    "size": 156
+  },
+  {
+    "start": 22.4,
+    "end": 25.5,
+    "text": "TAMBIÉN TIENE SUS VENTAJAS",
+    "size": 43
+  },
+  {
+    "start": 25.55,
+    "end": 32.14,
+    "text": "01 / PANTALLA",
+    "size": 44
+  },
+  {
+    "start": 25.62,
+    "end": 32.14,
+    "text": "14 PRO",
+    "size": 54
+  },
+  {
+    "start": 25.74,
+    "end": 32.14,
+    "text": "120",
+    "size": 152
+  },
+  {
+    "start": 25.84,
+    "end": 32.14,
+    "text": "HASTA 120 Hz",
+    "size": 38
+  },
+  {
+    "start": 28.02,
+    "end": 32.14,
+    "text": "15 BASE",
+    "size": 54
+  },
+  {
+    "start": 28.12,
+    "end": 32.14,
+    "text": "60",
+    "size": 152
+  },
+  {
+    "start": 28.22,
+    "end": 32.14,
+    "text": "60 Hz",
+    "size": 38
+  },
+  {
+    "start": 29.78,
+    "end": 32.14,
+    "text": "MÁS REFRESCOS POR SEGUNDO",
+    "size": 39
+  },
+  {
+    "start": 32.6,
+    "end": 38.1,
+    "text": "02 / CÁMARAS",
+    "size": 44
+  },
+  {
+    "start": 32.68,
+    "end": 35,
+    "text": "14 PRO",
+    "size": 56
+  },
+  {
+    "start": 32.78,
+    "end": 35,
+    "text": "3 CÁMARAS",
+    "size": 121
+  },
+  {
+    "start": 35,
+    "end": 38.1,
+    "text": "TELEOBJETIVO",
+    "size": 76
+  },
+  {
+    "start": 35.1,
+    "end": 38.1,
+    "text": "3× ÓPTICO",
+    "size": 125
+  },
+  {
+    "start": 38.15,
+    "end": 42.32,
+    "text": "CÁMARA PRINCIPAL",
+    "size": 44
+  },
+  {
+    "start": 38.22,
+    "end": 42.32,
+    "text": "48 MP",
+    "size": 154
+  },
+  {
+    "start": 38.35,
+    "end": 42.32,
+    "text": "EN AMBOS MODELOS",
+    "size": 45
+  },
+  {
+    "start": 40.65,
+    "end": 42.32,
+    "text": "Igual resolución ≠ cámaras idénticas",
+    "size": 30
+  },
+  {
+    "start": 42.65,
+    "end": 47.15,
+    "text": "03 / DISEÑO · OPINIÓN PERSONAL",
+    "size": 44
+  },
+  {
+    "start": 42.72,
+    "end": 47.15,
+    "text": "¿DOS O TRES",
+    "size": 88
+  },
+  {
+    "start": 42.83,
+    "end": 47.15,
+    "text": "CÁMARAS?",
+    "size": 126
+  },
+  {
+    "start": 47.2,
+    "end": 53.5,
+    "text": "LA DECISIÓN NO ES TAN OBVIA",
+    "size": 44
+  },
+  {
+    "start": 47.3,
+    "end": 53.5,
+    "text": "DEPENDE DE LO",
+    "size": 76
+  },
+  {
+    "start": 47.45,
+    "end": 53.5,
+    "text": "QUE PRIORIZÁS",
+    "size": 101
+  },
+  {
+    "start": 54.1,
+    "end": 62.1,
+    "text": "SU ELECCIÓN FINAL",
+    "size": 44
+  },
+  {
+    "start": 54.15,
+    "end": 56.15,
+    "text": "14 PRO",
+    "size": 165
+  },
+  {
+    "start": 56.2,
+    "end": 62.1,
+    "text": "3 CÁMARAS",
+    "size": 77
+  },
+  {
+    "start": 57.1,
+    "end": 62.1,
+    "text": "TELEOBJETIVO 3×",
+    "size": 67
+  },
+  {
+    "start": 58.1,
+    "end": 62.1,
+    "text": "HASTA 120 Hz",
+    "size": 77
+  },
+  {
+    "start": 62.55,
+    "end": 66.3,
+    "text": "¿VOS CON CUÁL",
+    "size": 89
+  },
+  {
+    "start": 62.68,
+    "end": 66.3,
+    "text": "TE QUEDÁS?",
+    "size": 123
+  },
+  {
+    "start": 63.2,
+    "end": 66.3,
+    "text": "14 PRO  /  15 BASE",
+    "size": 43
+  },
+  {
+    "start": 66.35,
+    "end": 68.1,
+    "text": "LOS DOS AL",
+    "size": 69
+  },
+  {
+    "start": 66.45,
+    "end": 68.1,
+    "text": "MISMO PRECIO",
+    "size": 108
+  },
+  {
+    "start": 12.16,
+    "end": 15.63,
+    "text": "{\\p1}m 0 0 l 130 0 l 130 4 l 0 4{\\p0}",
+    "size": 1
+  },
+  {
+    "start": 16.48,
+    "end": 18,
+    "text": "{\\p1}m 0 0 l 130 0 l 130 4 l 0 4{\\p0}",
+    "size": 1
+  },
+  {
+    "start": 20.78,
+    "end": 25.5,
+    "text": "{\\p1}m 0 0 l 130 0 l 130 4 l 0 4{\\p0}",
+    "size": 1
+  },
+  {
+    "start": 25.55,
+    "end": 32.14,
+    "text": "{\\p1}m 0 0 l 130 0 l 130 4 l 0 4{\\p0}",
+    "size": 1
+  },
+  {
+    "start": 32.6,
+    "end": 38.1,
+    "text": "{\\p1}m 0 0 l 130 0 l 130 4 l 0 4{\\p0}",
+    "size": 1
+  },
+  {
+    "start": 38.15,
+    "end": 42.32,
+    "text": "{\\p1}m 0 0 l 130 0 l 130 4 l 0 4{\\p0}",
+    "size": 1
+  },
+  {
+    "start": 42.65,
+    "end": 47.15,
+    "text": "{\\p1}m 0 0 l 130 0 l 130 4 l 0 4{\\p0}",
+    "size": 1
+  },
+  {
+    "start": 54.1,
+    "end": 62.1,
+    "text": "{\\p1}m 0 0 l 130 0 l 130 4 l 0 4{\\p0}",
+    "size": 1
+  }
+]

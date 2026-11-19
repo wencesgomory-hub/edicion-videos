@@ -1,0 +1,9 @@
+{
+  "version": "base-v1",
+  "tipo": "borrador_de_montaje_pendiente_de_insertos_reales",
+  "audio": "LUFS−16.2, truepeak−1.5dBFS en codificación preliminar; mezcla idéntica en revisión de ubicación de encabezados. No escucha directa.",
+  "fps": 30,
+  "velocidad": 1,
+  "duracion": 68.1,
+  "rango_seguro": "Encabezados en espacio superior libre. Datos principales sobre remera; márgeneslaterales≥95px."
+}

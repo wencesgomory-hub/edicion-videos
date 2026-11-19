@@ -936,6 +936,25 @@
       "estado": "pendiente_revision_usuario",
       "montaje": "ediciones/rayban-02/v1/montaje.json",
       "salida": "videos/reel-entrega-iphone-15-pro-revision-v6.mp4"
+    },
+    {
+      "id": "comparativa-14pro-vs-15-fuente",
+      "categoria": "video_original_usuario",
+      "archivo": "F4334112-2412-4232-BF80-3E58010E623E.mp4",
+      "sha256": "920d9af667c04ebda1789ffcbeb90c80ee085734f31d443945623b8b7f947454",
+      "duracion": 68.1,
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "origen": "GitHub commit56a3227f8c1a4e73d26eec776704b74244719844, descarga verificada19/11/2026",
+      "estado": "borrador_pendiente_revision",
+      "usado_en": [
+        "comparativa-14pro-vs-15"
+      ],
+      "estado_rotacion": "sin_usar",
+      "ultima_version": "base-v1-pendiente-insertos"
     }
   ]
 }

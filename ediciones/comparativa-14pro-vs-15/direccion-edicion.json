@@ -1,0 +1,57 @@
+{
+  "pedido": "Comparativa entretenida e informativa, estética cuidada, videos reales de14Pro y15base acompañando diferencias habladas. Voz1x. Entrega GitHub.",
+  "base_visual": "Montserrat, blanco/dorado dominante, escritura rápida, jerarquía variable y efectos claros breves de referencias aprobadas. No saturar colores ni rótulos.",
+  "secuencia_preliminar": [
+    {
+      "intervalo": [
+        0,
+        4.24
+      ],
+      "contenido": "Gancho 14PRO VS15, ambas identidades y pregunta de elección."
+    },
+    {
+      "intervalo": [
+        4.24,
+        12.16
+      ],
+      "contenido": "Presentador, presupuesto/calidad-precio y preferencia personal."
+    },
+    {
+      "intervalo": [
+        12.16,
+        20
+      ],
+      "contenido": "15base: peso yUSB-C. Macro conector y comparación deA16en ambos."
+    },
+    {
+      "intervalo": [
+        20,
+        32.1
+      ],
+      "contenido": "Ventajas14Pro: pantalla hasta120Hz vs60Hz. Gráfica de frecuencia de actualización; no equiparar con doble velocidad de todo el teléfono."
+    },
+    {
+      "intervalo": [
+        32.1,
+        42
+      ],
+      "contenido": "Cámaras14Pro y teleobjetivo3x vs15base. Ambas principales48MP; aclarar que igual resolución no significa cámaras idénticas."
+    },
+    {
+      "intervalo": [
+        42,
+        64
+      ],
+      "contenido": "Diseño y resumen de prioridades; intercalar presentador e insertos identificados por modelo."
+    },
+    {
+      "intervalo": [
+        64,
+        68.1
+      ],
+      "contenido": "Pregunta final para comentarios y mismo precio mencionado en el original."
+    }
+  ],
+  "nota_tiempos": "Preliminares por ASR segmentado, revisar frase a frase antes del montaje.",
+  "pendiente": "Acceso de descarga a material oficial Apple bloqueado por política HTTP del entorno; no sustituir modelos por tomas no verificadas."
+}
