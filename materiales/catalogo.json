@@ -955,6 +955,27 @@
       ],
       "estado_rotacion": "sin_usar",
       "ultima_version": "base-v1-pendiente-insertos"
+    },
+    {
+      "id": "cargador-original-fuente",
+      "categoria": "video_original_usuario",
+      "archivo": "500FFCCB-5D64-48FD-85B7-C7E2B0623304.mp4",
+      "sha256": "7330d3a8b1179f1539a733f2b547e3c910d2217353f5fce71421661249734ef4",
+      "duracion": 45.6,
+      "resolucion": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "origen": "GitHub dca7e03",
+      "estado": "pendiente_revision_usuario",
+      "estado_rotacion": "ya_usado",
+      "usado_en": [
+        "cargador-original"
+      ],
+      "ultima_version": "v1",
+      "montaje": "ediciones/cargador-original/v1/montaje.md",
+      "salida": "videos/cargador-original-v1.mp4"
     }
   ]
 }
