@@ -1,0 +1,13 @@
+{
+  "texto": "MAR DEL PLATA",
+  "color": "rojo RGB240/34/51",
+  "posicion": [
+    209,
+    195
+  ],
+  "tamano": 76,
+  "inicio": 3.2,
+  "fin": 6.8,
+  "entrada": "letra por letra cada65ms, sonido en caracteres no espacios",
+  "base": "V3 completa, conservada"
+}

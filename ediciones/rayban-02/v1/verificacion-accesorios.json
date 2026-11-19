@@ -1,0 +1,79 @@
+[
+  {
+    "offset": 81,
+    "fin": 94,
+    "result": {
+      "lang": "es",
+      "emotion": "",
+      "event": "",
+      "text": "Ahí ya me quedó en las fundas. El cablecito, el cargador, si te llegas a fallar también alguno, tenés garantías como en cellos, no pasa nada de eso, no hay problema.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Ahí",
+        " ya",
+        " me",
+        " qued",
+        "ó",
+        " en",
+        " las",
+        " fund",
+        "as",
+        ".",
+        " El",
+        " cable",
+        "cito",
+        ",",
+        " el",
+        " car",
+        "g",
+        "ador",
+        ",",
+        " si",
+        " te",
+        " lleg",
+        "as",
+        " a",
+        " fall",
+        "ar",
+        " también",
+        " algun",
+        "o",
+        ",",
+        " ten",
+        "és",
+        " garant",
+        "ías",
+        " como",
+        " en",
+        " cell",
+        "os",
+        ",",
+        " no",
+        " pasa",
+        " nada",
+        " de",
+        " eso",
+        ",",
+        " no",
+        " hay",
+        " problema",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        10.24
+      ],
+      "segment_durations": [
+        10.24,
+        2.8
+      ],
+      "segment_texts": [
+        " Ahí ya me quedó en las fundas. El cablecito, el cargador, si te llegas a fallar también",
+        " alguno, tenés garantías como en cellos, no pasa nada de eso, no hay problema."
+      ]
+    }
+  }
+]

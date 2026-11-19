@@ -915,6 +915,27 @@
       ],
       "ultima_version": "v3-audio-subtitulos-encuadre-completo",
       "estado": "pendiente_revision_usuario"
+    },
+    {
+      "id": "rayban-02-fuente",
+      "archivo": "D8EB53EA-49A5-4D79-A8AD-B5872C04D7D1.mov",
+      "categoria": "video_original_usuario_rayban",
+      "origen": "Commit48e2d46, confirmado por usuario16/11/2026.",
+      "descripcion": "Entrega de iPhone15Pro en Mar del Plata grabada con RayBan Meta; explicación de revisiones al comprar un iPhone.",
+      "duracion": 148.033333,
+      "resolucion": [
+        720,
+        970
+      ],
+      "fps": 30,
+      "sha256": "f4cc1585a1a42bb4e9062e1d8d8a1a6e1f82588051d1812d2bfda7e00acd4a8d",
+      "usado_en": [
+        "rayban-02"
+      ],
+      "ultima_version": "v6-sin-base-ritmica",
+      "estado": "pendiente_revision_usuario",
+      "montaje": "ediciones/rayban-02/v1/montaje.json",
+      "salida": "videos/reel-entrega-iphone-15-pro-revision-v6.mp4"
     }
   ]
 }

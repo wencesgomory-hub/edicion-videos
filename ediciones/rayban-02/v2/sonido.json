@@ -1,0 +1,190 @@
+{
+  "voz": "StemV1 exacto, a1x, sin nuevos filtros",
+  "secciones_musicales": [
+    [
+      0,
+      3.1,
+      0.85,
+      0.3,
+      0,
+      -27.5
+    ],
+    [
+      3.1,
+      18.15,
+      1,
+      0.2,
+      0,
+      -31.5
+    ],
+    [
+      18.15,
+      24.55,
+      0,
+      1,
+      0,
+      -32
+    ],
+    [
+      24.55,
+      32.95,
+      0,
+      0.55,
+      0.55,
+      -33
+    ],
+    [
+      32.95,
+      42.1,
+      1,
+      0.4,
+      0,
+      -31
+    ],
+    [
+      42.1,
+      51.1,
+      0.5,
+      0.6,
+      0,
+      -32
+    ],
+    [
+      51.1,
+      54.85,
+      0,
+      0.5,
+      0.5,
+      -42
+    ],
+    [
+      54.85,
+      62.85,
+      1,
+      0.15,
+      0,
+      -31.5
+    ],
+    [
+      62.85,
+      72.3,
+      0,
+      1,
+      0,
+      -32
+    ],
+    [
+      72.3,
+      79.65,
+      0.8,
+      0.3,
+      0,
+      -32.5
+    ],
+    [
+      79.65,
+      87.68333333333334,
+      1,
+      0.35,
+      0,
+      -30.5
+    ]
+  ],
+  "efectos": [
+    {
+      "tiempo": 0.08,
+      "efecto": "impacto grave inicial",
+      "ganancia": 0.57
+    },
+    {
+      "tiempo": 0.25,
+      "efecto": "acento seco segunda linea",
+      "ganancia": 0.23
+    },
+    {
+      "tiempo": 0.43,
+      "efecto": "pop tercera linea",
+      "ganancia": 0.29
+    },
+    {
+      "tiempo": 3.2,
+      "efecto": "pop CÁMARAS",
+      "ganancia": 0.38
+    },
+    {
+      "tiempo": 3.208,
+      "efecto": "ataque CÁMARAS",
+      "ganancia": 0.045
+    },
+    {
+      "tiempo": 18.25,
+      "efecto": "pop LINTERNA",
+      "ganancia": 0.34
+    },
+    {
+      "tiempo": 18.258,
+      "efecto": "ataque LINTERNA",
+      "ganancia": 0.045
+    },
+    {
+      "tiempo": 24.550000000000004,
+      "efecto": "pop HISTORIAL DE PIEZAS",
+      "ganancia": 0.37
+    },
+    {
+      "tiempo": 24.558000000000003,
+      "efecto": "ataque HISTORIAL DE PIEZAS",
+      "ganancia": 0.045
+    },
+    {
+      "tiempo": 32.95,
+      "efecto": "pop BATERÍA Y CICLOS",
+      "ganancia": 0.38
+    },
+    {
+      "tiempo": 32.958000000000006,
+      "efecto": "ataque BATERÍA Y CICLOS",
+      "ganancia": 0.045
+    },
+    {
+      "tiempo": 42.26,
+      "efecto": "pop FACE ID",
+      "ganancia": 0.35
+    },
+    {
+      "tiempo": 42.268,
+      "efecto": "ataque FACE ID",
+      "ganancia": 0.045
+    },
+    {
+      "tiempo": 51.88000000000001,
+      "efecto": "pop MICRÓFONO",
+      "ganancia": 0.32
+    },
+    {
+      "tiempo": 51.88800000000001,
+      "efecto": "ataque MICRÓFONO",
+      "ganancia": 0.045
+    },
+    {
+      "tiempo": 57.03,
+      "efecto": "pop GARANTÍA",
+      "ganancia": 0.38
+    },
+    {
+      "tiempo": 57.038000000000004,
+      "efecto": "ataque GARANTÍA",
+      "ganancia": 0.045
+    },
+    {
+      "tiempo": 50.6,
+      "efecto": "confirmacion FaceID",
+      "ganancia": 0.18
+    },
+    {
+      "tiempo": 82.68,
+      "efecto": "guardar guia",
+      "ganancia": 0.24
+    }
+  ]
+}
