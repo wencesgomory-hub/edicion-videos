@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Base,GomoryCompare,73,&H00FAFFFF,&H005ADFFF,&H00101010,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,5,95,95,0,1
+Style: Hero,GomoryCompareItalic,132,&H00FAFFFF,&H005ADFFF,&H00101010,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,3,5,95,95,0,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:00.13,0:00:03.70,Base,,0,0,0,,{\pos(540,198)\fs68\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}SI VAS A GASTAR
+Dialogue: 1,0:00:00.63,0:00:03.70,Hero,,0,0,0,,{\pos(540,334)\fs125\c&H5ADFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}$1.000.000
+Dialogue: 1,0:00:01.33,0:00:03.70,Base,,0,0,0,,{\pos(540,456)\fs69\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}EN UN CELU…
+Dialogue: 1,0:00:03.73,0:00:04.93,Base,,0,0,0,,{\pos(540,238)\fs82\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}NO SEAS
+Dialogue: 1,0:00:04.13,0:00:04.93,Hero,,0,0,0,,{\pos(540,403)\fs171\c&H3024ED&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}RATÓN
+Dialogue: 1,0:00:04.63,0:00:06.47,Base,,0,0,0,,{\pos(540,1308)\fs71\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}CARGADOR
+Dialogue: 1,0:00:04.80,0:00:06.47,Hero,,0,0,0,,{\pos(540,1447)\fs130\c&H3024ED&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}GENÉRICO
+Dialogue: 1,0:00:08.93,0:00:10.43,Base,,0,0,0,,{\pos(540,1305)\fs75\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}CARGADOR
+Dialogue: 1,0:00:09.23,0:00:10.43,Hero,,0,0,0,,{\pos(540,1449)\fs138\c&H5ADFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}ORIGINAL
+Dialogue: 1,0:00:15.13,0:00:17.43,Base,,0,0,0,,{\pos(540,1300)\fs69\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}CUIDÁ LA
+Dialogue: 1,0:00:15.37,0:00:17.43,Hero,,0,0,0,,{\pos(540,1441)\fs135\c&H5ADFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}BATERÍA
+Dialogue: 1,0:00:23.83,0:00:25.63,Base,,0,0,0,,{\pos(540,1300)\fs71\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}ELEGÍ EL
+Dialogue: 1,0:00:24.13,0:00:25.63,Hero,,0,0,0,,{\pos(540,1449)\fs138\c&H5ADFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}ORIGINAL
+Dialogue: 1,0:00:32.13,0:00:34.83,Base,,0,0,0,,{\pos(540,1320)\fs67\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}SI ALGO FALLA
+Dialogue: 1,0:00:32.43,0:00:34.83,Hero,,0,0,0,,{\pos(540,1450)\fs77\c&H3024ED&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}EL ARREGLO CUESTA
+Dialogue: 1,0:00:41.63,0:00:45.60,Base,,0,0,0,,{\pos(540,1310)\fs75\c&HFAFFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}CUIDÁ TU IPHONE
+Dialogue: 1,0:00:42.80,0:00:45.60,Hero,,0,0,0,,{\pos(540,1460)\fs74\c&H5ADFFF&\3c&H171317&\bord3.8\shad3\fad(28,65)\fscx114\fscy114\t(0,120,\fscx100\fscy100)}CARGADOR ORIGINAL
