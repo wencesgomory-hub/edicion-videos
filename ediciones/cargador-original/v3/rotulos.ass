@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Base,GomoryCompare,73,&H00FAFFFF,&H005ADFFF,&H00101010,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,5,95,95,0,1
+Style: Hero,GomoryCompareItalic,132,&H00FAFFFF,&H005ADFFF,&H00101010,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,3,5,95,95,0,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 2,0:00:00.00,0:00:02.59,Base,,0,0,0,,{\pos(540,207)\fs89\c&HFAFFFF&\3c&H191417&\bord4\shad3\fscx112\fscy112\t(0,150,\fscx100\fscy100)\fad(0,85)}NO SEAS
+Dialogue: 2,0:00:00.00,0:00:02.59,Hero,,0,0,0,,{\pos(540,365)\fs194\c&H3024ED&\3c&H201018&\bord5\shad4\fscx116\fscy116\t(0,155,\fscx100\fscy100)\fad(0,85)}RATÓN
+Dialogue: 1,0:00:00.12,0:00:00.56,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Escuchame.
+Dialogue: 1,0:00:00.56,0:00:01.18,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Si te vas a comprar
+Dialogue: 1,0:00:01.18,0:00:01.72,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}un teléfono
+Dialogue: 1,0:00:01.72,0:00:02.61,Base,,0,0,0,,{\pos(540,1410)\fs73\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}a {\c&H5ADFFF&}un millón de pesos{\c&HFAFFFF&}…
+Dialogue: 1,0:00:02.64,0:00:03.65,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Por favor, te lo pido.
+Dialogue: 1,0:00:03.69,0:00:04.62,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Que no seas {\c&H5ADFFF&}ratón{\c&HFAFFFF&}
+Dialogue: 1,0:00:04.64,0:00:05.48,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}y no te compres
+Dialogue: 1,0:00:05.48,0:00:06.46,Base,,0,0,0,,{\pos(540,1410)\fs74\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}un cargador {\c&H5ADFFF&}genérico{\c&HFAFFFF&}.
+Dialogue: 1,0:00:06.55,0:00:07.02,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Por favor,
+Dialogue: 1,0:00:07.03,0:00:07.74,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}ni se te ocurra
+Dialogue: 1,0:00:07.74,0:00:08.91,Base,,0,0,0,,{\pos(540,1410)\fs73\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}comprarte un\Ncargador {\c&H5ADFFF&}genérico{\c&HFAFFFF&}.
+Dialogue: 1,0:00:08.94,0:00:10.33,Base,,0,0,0,,{\pos(540,1410)\fs73\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Comprate un\Ncargador {\c&H5ADFFF&}original{\c&HFAFFFF&}.
+Dialogue: 1,0:00:10.45,0:00:11.39,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Dejate de joder.
+Dialogue: 1,0:00:11.42,0:00:12.72,Base,,0,0,0,,{\pos(540,1410)\fs53\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Te va a durar para toda la vida.
+Dialogue: 1,0:00:12.79,0:00:13.53,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}No se rompen,
+Dialogue: 1,0:00:13.57,0:00:14.25,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}no fallan,
+Dialogue: 1,0:00:14.28,0:00:14.99,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}no hay problema.
+Dialogue: 1,0:00:15.02,0:00:15.90,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Y cuida la {\c&H5ADFFF&}batería{\c&HFAFFFF&}
+Dialogue: 1,0:00:15.91,0:00:16.54,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}de tu teléfono
+Dialogue: 1,0:00:16.55,0:00:17.50,Base,,0,0,0,,{\pos(540,1410)\fs73\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}para que no haya\Nque cambiarla.
+Dialogue: 1,0:00:17.52,0:00:18.08,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Dale, vamos.
+Dialogue: 1,0:00:18.14,0:00:19.25,Base,,0,0,0,,{\pos(540,1410)\fs59\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Ahora sí, hablando en serio.
+Dialogue: 1,0:00:19.28,0:00:20.12,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Por favor, gente,
+Dialogue: 1,0:00:20.13,0:00:20.63,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}no se compren
+Dialogue: 1,0:00:20.64,0:00:21.43,Base,,0,0,0,,{\pos(540,1410)\fs74\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}un cargador {\c&H5ADFFF&}genérico{\c&HFAFFFF&}.
+Dialogue: 1,0:00:21.80,0:00:22.18,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Por favor.
+Dialogue: 1,0:00:22.23,0:00:23.16,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Traten de pagar
+Dialogue: 1,0:00:23.17,0:00:24.28,Base,,0,0,0,,{\pos(540,1410)\fs67\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}{\c&H5ADFFF&}cuarenta mil pesos{\c&HFAFFFF&} más.
+Dialogue: 1,0:00:24.33,0:00:25.65,Base,,0,0,0,,{\pos(540,1410)\fs73\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Se compran un\Ncargador {\c&H5ADFFF&}original{\c&HFAFFFF&}.
+Dialogue: 1,0:00:25.79,0:00:26.93,Base,,0,0,0,,{\pos(540,1410)\fs74\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}No se les va a romper,
+Dialogue: 1,0:00:26.96,0:00:28.05,Base,,0,0,0,,{\pos(540,1410)\fs74\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}les dura para siempre,
+Dialogue: 1,0:00:28.06,0:00:29.14,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}no les va a fallar,
+Dialogue: 1,0:00:29.18,0:00:30.62,Base,,0,0,0,,{\pos(540,1410)\fs64\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}no van a tener problemas\Ncon la {\c&H5ADFFF&}batería{\c&HFAFFFF&},
+Dialogue: 1,0:00:30.64,0:00:31.91,Base,,0,0,0,,{\pos(540,1410)\fs64\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}no van a tener problemas\Ncon la {\c&H5ADFFF&}placa{\c&HFAFFFF&}.
+Dialogue: 1,0:00:31.95,0:00:33.40,Base,,0,0,0,,{\pos(540,1410)\fs73\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Se ahorran un\Nmontón de {\c&H5ADFFF&}plata{\c&HFAFFFF&}
+Dialogue: 1,0:00:33.42,0:00:34.24,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}si les llega a fallar
+Dialogue: 1,0:00:34.25,0:00:34.85,Base,,0,0,0,,{\pos(540,1410)\fs75\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}alguna de esas cosas.
+Dialogue: 1,0:00:34.89,0:00:35.26,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Y después,
+Dialogue: 1,0:00:35.28,0:00:36.08,Base,,0,0,0,,{\pos(540,1410)\fs64\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}cuando lo quieran vender
+Dialogue: 1,0:00:36.09,0:00:37.40,Base,,0,0,0,,{\pos(540,1410)\fs57\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}o entregar en parte de pago,
+Dialogue: 1,0:00:37.43,0:00:38.50,Base,,0,0,0,,{\pos(540,1410)\fs61\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}se lo van a tomar {\c&H5ADFFF&}más caro{\c&HFAFFFF&}
+Dialogue: 1,0:00:38.51,0:00:39.60,Base,,0,0,0,,{\pos(540,1410)\fs59\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}y van a recuperar ese valor.
+Dialogue: 1,0:00:39.68,0:00:40.22,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Así que,
+Dialogue: 1,0:00:40.23,0:00:41.22,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}por favor, les pido:
+Dialogue: 1,0:00:41.34,0:00:42.19,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}compren inteligente.
+Dialogue: 1,0:00:42.23,0:00:43.03,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Cómprense sí o sí
+Dialogue: 1,0:00:43.04,0:00:43.86,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}el cargador {\c&H5ADFFF&}original{\c&HFAFFFF&}
+Dialogue: 1,0:00:43.87,0:00:45.13,Base,,0,0,0,,{\pos(540,1410)\fs65\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}si se compran un {\c&H5ADFFF&}iPhone{\c&HFAFFFF&}.
+Dialogue: 1,0:00:45.17,0:00:45.60,Base,,0,0,0,,{\pos(540,1410)\fs77\c&HFAFFFF&\3c&H141318&\bord5\shad2\fscx106\fscy106\t(0,90,\fscx100\fscy100)}Sí o sí.
