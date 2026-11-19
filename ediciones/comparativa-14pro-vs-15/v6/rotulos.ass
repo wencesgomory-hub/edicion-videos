@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Base,GomoryCompare,73,&H00FAFFFF,&H005ADFFF,&H00101010,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,5,95,95,0,1
+Style: Hero,GomoryCompareItalic,132,&H00FAFFFF,&H005ADFFF,&H00101010,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,3,5,95,95,0,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:00.10,0:00:02.37,Base,,0,0,0,,{\pos(540,242)\fs52\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}TODOS ME PREGUNTAN
+Dialogue: 1,0:00:00.23,0:00:02.37,Hero,,0,0,0,,{\pos(540,357)\fs104\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}LO MISMO
+Dialogue: 1,0:00:02.37,0:00:04.30,Hero,,0,0,0,,{\pos(257,1510)\fs59\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}14 PRO
+Dialogue: 1,0:00:02.97,0:00:04.30,Hero,,0,0,0,,{\pos(540,1312)\fs54\c&H3328EF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}VS
+Dialogue: 1,0:00:03.47,0:00:04.30,Hero,,0,0,0,,{\pos(821,1510)\fs59\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}IPHONE 15
+Dialogue: 1,0:00:07.13,0:00:09.83,Hero,,0,0,0,,{\pos(540,1370)\fs74\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}¿CUÁL ME CONVIENE?
+Dialogue: 1,0:00:10.10,0:00:12.10,Base,,0,0,0,,{\pos(540,1240)\fs54\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}DE ENTRADA
+Dialogue: 1,0:00:10.33,0:00:12.10,Hero,,0,0,0,,{\pos(540,1360)\fs101\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}ME TIENTA EL 15
+Dialogue: 1,0:00:12.23,0:00:13.57,Hero,,0,0,0,,{\pos(540,1370)\fs111\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}MÁS LIVIANO
+Dialogue: 1,0:00:13.67,0:00:15.73,Hero,,0,0,0,,{\pos(540,1370)\fs130\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}USB-C
+Dialogue: 1,0:00:15.97,0:00:17.47,Hero,,0,0,0,,{\pos(540,1370)\fs92\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}MISMO CHIP · A16
+Dialogue: 1,0:00:20.97,0:00:22.90,Hero,,0,0,0,,{\pos(540,1370)\fs93\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}PERO EL 14 PRO…
+Dialogue: 1,0:00:25.23,0:00:26.83,Base,,0,0,0,,{\pos(540,1250)\fs58\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}14 PRO
+Dialogue: 1,0:00:25.30,0:00:26.83,Hero,,0,0,0,,{\pos(540,1380)\fs105\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}HASTA 120 Hz
+Dialogue: 1,0:00:27.07,0:00:28.77,Base,,0,0,0,,{\pos(540,1250)\fs58\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}IPHONE 15
+Dialogue: 1,0:00:27.17,0:00:28.77,Hero,,0,0,0,,{\pos(540,1380)\fs105\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}60 Hz
+Dialogue: 1,0:00:33.27,0:00:34.27,Hero,,0,0,0,,{\pos(540,1370)\fs104\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}TRES CÁMARAS
+Dialogue: 1,0:00:34.37,0:00:36.07,Hero,,0,0,0,,{\pos(540,1370)\fs95\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}ZOOM ÓPTICO 3×
+Dialogue: 1,0:00:37.93,0:00:40.20,Hero,,0,0,0,,{\pos(540,1320)\fs86\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}48 MP EN LOS DOS
+Dialogue: 1,0:00:38.37,0:00:40.20,Base,,0,0,0,,{\pos(540,1455)\fs49\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}CÁMARA PRINCIPAL
+Dialogue: 1,0:00:43.17,0:00:46.10,Base,,0,0,0,,{\pos(540,1260)\fs61\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}A MÍ ME GUSTA MÁS
+Dialogue: 1,0:00:43.37,0:00:46.10,Hero,,0,0,0,,{\pos(540,1395)\fs141\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}EL 14 PRO
+Dialogue: 1,0:00:47.80,0:00:49.70,Base,,0,0,0,,{\pos(540,1230)\fs72\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}YO ME QUEDO
+Dialogue: 1,0:00:48.27,0:00:49.70,Hero,,0,0,0,,{\pos(540,1370)\fs110\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}CON EL 14 PRO
+Dialogue: 1,0:00:50.10,0:00:50.87,Hero,,0,0,0,,{\pos(540,1370)\fs104\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}TRES CÁMARAS
+Dialogue: 1,0:00:50.90,0:00:51.67,Hero,,0,0,0,,{\pos(540,1370)\fs104\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}ZOOM ÓPTICO
+Dialogue: 1,0:00:51.70,0:00:55.03,Hero,,0,0,0,,{\pos(540,1370)\fs112\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}HASTA 120 Hz
+Dialogue: 1,0:00:52.73,0:00:55.03,Base,,0,0,0,,{\pos(540,1490)\fs50\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}PANTALLA MÁS FLUIDA
+Dialogue: 1,0:00:55.53,0:00:57.67,Hero,,0,0,0,,{\pos(540,1370)\fs81\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}A MÍ ME GUSTA MÁS
+Dialogue: 1,0:00:57.90,0:00:59.53,Hero,,0,0,0,,{\pos(540,1370)\fs83\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}¿VOS CUÁL ELEGÍS?
+Dialogue: 1,0:00:59.57,0:01:01.17,Base,,0,0,0,,{\pos(540,1260)\fs63\c&HFAFFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}LOS DOS AL
+Dialogue: 1,0:00:59.73,0:01:01.17,Hero,,0,0,0,,{\pos(540,1390)\fs107\c&H5ADFFF&\bord3.8\shad2.5\fad(22,48)\fscx111\fscy111\t(0,100,\fscx100\fscy100)}MISMO PRECIO
