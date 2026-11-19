@@ -790,7 +790,8 @@
       "fps": 60,
       "sha256": "0d84c4c24d564ff7af4ac65ec621ca2ceda01c06cadcb5f28ae3dc71b67b1914",
       "usado_en": [
-        "iphone-04"
+        "iphone-04",
+        "comparativa-14pro-vs-15"
       ],
       "ultima_version": "v7-efectos-mas-2db"
     },
@@ -949,12 +950,14 @@
       ],
       "fps": 30,
       "origen": "GitHub commit56a3227f8c1a4e73d26eec776704b74244719844, descarga verificada19/11/2026",
-      "estado": "borrador_pendiente_revision",
+      "estado": "pendiente_revision_usuario",
       "usado_en": [
         "comparativa-14pro-vs-15"
       ],
-      "estado_rotacion": "sin_usar",
-      "ultima_version": "base-v1-pendiente-insertos"
+      "estado_rotacion": "ya_usado",
+      "ultima_version": "final",
+      "montaje": "ediciones/comparativa-14pro-vs-15/final/montaje.md",
+      "salida": "videos/comparativa-14pro-vs-15-final.mp4"
     }
   ]
 }
