@@ -125,3 +125,5 @@ RayBan02 V4: pedido puntual MAR DEL PLATA rojo, más grande, centrado arriba y e
 RayBan02 V5: usuario rechazó tipografía/ubicación de MAR DEL PLATA y pide sacarlo. Retirar completamente rótulo y tecleoV4; no restaurar rótulo viejo de esquina. Mantener montaje, títulos centrales y música/FXV3.
 
 RayBan02 V6: usuario rechaza base bum bum continua. Retirar stem musical completo; mantener voz y FX puntualesV3, imagen exactaV5 por copia. No introducir otro bombo/bajo repetitivo por iniciativa propia. Sin rótuloMarDelPlata. Pendiente de valoración.
+
+Pauta general de edición confirmada por el usuario: mantener visible al presentador mientras plantea la pregunta del gancho. Si se agregan productos en ese momento, usar recortes pequeños sin fondo, colocados lejos de la cara. Integrar insertos posteriores con cortes breves a pantalla completa o transparencias discretas. Evitar marcos y placas de fondo para mostrar otros videos. Si los rótulos representan lo que dice el presentador, redactarlos en primera persona.

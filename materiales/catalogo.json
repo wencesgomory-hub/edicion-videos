@@ -661,7 +661,7 @@
         "seminuevos-mdp-01",
         "iphone-03"
       ],
-      "ultima_version": "final",
+      "ultima_version": "v3",
       "sha256": "70b5a29e615d175bdf4a41badc55ba4baa4c02a6c479c23ceb7d8a1529d31e37",
       "ultimo_uso_confirmado": "iphone-03"
     },
@@ -955,9 +955,9 @@
         "comparativa-14pro-vs-15"
       ],
       "estado_rotacion": "ya_usado",
-      "ultima_version": "final",
-      "montaje": "ediciones/comparativa-14pro-vs-15/final/montaje.md",
-      "salida": "videos/comparativa-14pro-vs-15-final.mp4"
+      "ultima_version": "v3",
+      "montaje": "ediciones/comparativa-14pro-vs-15/v3/montaje.md",
+      "salida": "videos/comparativa-14pro-vs-15-v3.mp4"
     }
   ]
 }
